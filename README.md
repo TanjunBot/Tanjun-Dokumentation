@@ -49,8 +49,8 @@ Du hast die Möglichkeit, sowohl auf unserem [Discord Server im #┾🦆┋tanju
 
 Der Changelog enthält immer die neuesten Änderungen und Updates. Den Changelog findest du hier:
 
-{% content-ref url="changelog/2023-06/" %}
-[2023-06](changelog/2023-06/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ***
