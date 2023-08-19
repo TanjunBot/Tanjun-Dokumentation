@@ -49,8 +49,8 @@ Du hast die Möglichkeit, sowohl auf unserem [Discord Server im #┾🦆┋tanju
 
 Der Changelog enthält immer die neuesten Änderungen und Updates. Den Changelog findest du hier:
 
-{% content-ref url="https://github.com/2000Arion/Tanjun-Dokumentation/blob/main/broken-reference/README.md" %}
-[https://github.com/2000Arion/Tanjun-Dokumentation/blob/main/broken-reference/README.md](https://github.com/2000Arion/Tanjun-Dokumentation/blob/main/broken-reference/README.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ***

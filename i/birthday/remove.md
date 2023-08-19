@@ -4,7 +4,7 @@ description: Auf dieser Seite findest du Informationen über den /birthday remov
 
 # 🗑 Geburtstage entfernen
 
-Der **`/birthday remove` Command** ermöglicht es Benutzern, **ihre Geburtstage zu entfernen**, falls sie nicht mehr möchten, dass dieser gespeichert wird. Sobald ein Geburtstag entfernt wurde, wird der Bot **nicht länger an diesem Datum eine Nachricht senden oder die Geburtstagsrolle zu vergeben**. Der Geburtstag wird dann auch **nicht länger in der** [**`/birthday shownext`**](shownext.md) **Nachricht angezeigth**\
+Der **`/birthday remove` Command** ermöglicht es Benutzern, **ihre Geburtstage zu entfernen**, falls sie nicht mehr möchten, dass dieser gespeichert wird. Sobald ein Geburtstag entfernt wurde, wird der Bot **nicht länger an diesem Datum eine Nachricht senden oder die Geburtstagsrolle vergeben**. Der Geburtstag wird dann auch **nicht länger in der** [**`/birthday shownext`**](shownext.md) **Nachricht angezeigt.**\
 Man kann seinen Geburtstag **jederzeit** [**wieder hinzufügen**](add.md)**, wenn man möchte**.
 
 Dieser Command verfügt über keine weiteren Argumente und wird wie folgt verwendet:
