@@ -19,8 +19,5 @@ Nutze diesen Command wie folgt:
 ```
 
 {% hint style="info" %}
-[Man ändert immer alle Konfigurationsoptionen gleichzeitig. Also wenn du den Kanal ändern möchtest, solltest du trotzdem in diesem Command die Rolle und den Ping angeben.](#user-content-fn-1)[^1]
+Man ändert immer alle Konfigurationsoptionen gleichzeitig. Also wenn du den Kanal ändern möchtest, solltest du trotzdem in diesem Command die Rolle und den Ping angeben.
 {% endhint %}
-
-[^1]: Hier bin ich mir gerade selbst nicht einmal sicher, ob das stimmt... 😅\
-    Bitte mal überprüfen.
