@@ -6,7 +6,6 @@
 ## 🤖 Commands <a href="#i" id="i"></a>
 
 * [ℹ Allgemeine Tipps](i/all.md)
-* [ℹ Testseite](i/test.md)
 
 ## 📝 Changelog
 
