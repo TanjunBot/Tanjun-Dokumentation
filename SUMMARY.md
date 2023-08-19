@@ -6,6 +6,11 @@
 ## 🤖 Commands <a href="#i" id="i"></a>
 
 * [ℹ Allgemeine Tipps](i/all.md)
+* [🎉 Geburtstage](i/birthday/README.md)
+  * [🎂 Geburtstage hinzufügen](i/birthday/add.md)
+  * [🗑 Geburtstage entfernen](i/birthday/remove.md)
+  * [🔧 Konfiguration des Geburtstagssystems](i/birthday/config.md)
+  * [📃 Geburtstagsliste](i/birthday/shownext.md)
 
 ## 📝 Changelog
 

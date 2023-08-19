@@ -21,9 +21,7 @@ layout:
 
 ## Willkommen! <a href="#a1" id="a1"></a>
 
-Hier erfährst du alles über die Commands und Funktionen im Discord Bot Tanjun.&#x20;
-
-
+Hier erfährst du alles über die Commands und Funktionen im Discord Bot Tanjun.
 
 {% hint style="info" %}
 Falls du es noch nicht getan hast, würde es uns sehr freuen, wenn du hier [Tanjun](https://r.arion2000.xyz/discord/dcdev/app/tanjun/c\_invite) auch auf deinen Discord Server [einlädst](https://r.arion2000.xyz/discord/dcdev/app/tanjun/c\_invite): [_Link (klick)_](https://r.arion2000.xyz/discord/dcdev/app/tanjun/c\_invite)
@@ -47,12 +45,12 @@ Es gibt einige Tipps & Tricks, die du kennen solltest, wenn du Tanjun verwendest
 
 ## Changelog <a href="#a4" id="a4"></a>
 
-Du hast die Möglichkeit, sowohl auf unserem [Discord Server im #┾🦆┋tanjun-changelog Kanal](https://canary.discord.com/channels/831161440705839124/1098902476708642816), als auch auf dieser Webseite den Changelog zu sehen.&#x20;
+Du hast die Möglichkeit, sowohl auf unserem [Discord Server im #┾🦆┋tanjun-changelog Kanal](https://canary.discord.com/channels/831161440705839124/1098902476708642816), als auch auf dieser Webseite den Changelog zu sehen.
 
 Der Changelog enthält immer die neuesten Änderungen und Updates. Den Changelog findest du hier:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="https://github.com/2000Arion/Tanjun-Dokumentation/blob/main/broken-reference/README.md" %}
+[https://github.com/2000Arion/Tanjun-Dokumentation/blob/main/broken-reference/README.md](https://github.com/2000Arion/Tanjun-Dokumentation/blob/main/broken-reference/README.md)
 {% endcontent-ref %}
 
 ***
@@ -66,6 +64,6 @@ Wenn wir Commands angeben, dann sind oft Elemente enthalten, die du durch etwas 
 <pre><code><strong>/commandname &#x3C;Erforderliches Argument> [Optionales Argument]
 </strong></code></pre>
 
-Die `<`, `>`, `[` und `]` Zeichen weisen wie im Beispiel auf erforderliche und optionale Argumente hin, die du an dieser Stelle selbst einsetzen musst.&#x20;
+Die `<`, `>`, `[` und `]` Zeichen weisen wie im Beispiel auf erforderliche und optionale Argumente hin, die du an dieser Stelle selbst einsetzen musst.
 
 </details>
