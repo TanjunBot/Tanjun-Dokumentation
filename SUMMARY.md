@@ -14,6 +14,8 @@
 
 ## 📝 Changelog
 
+* [📅 Changelogs im August](changelog/2023-08/README.md)
+  * [✏ Changelog vom 20.08.2023](changelog/2023-08/20.md)
 * [📅 Changelogs im Juni](changelog/2023-06/README.md)
   * [✏ Changelog vom 04.06.2023](changelog/2023-06/04.md)
 * [📅 Changelogs im Mai](changelog/2023-05/README.md)
