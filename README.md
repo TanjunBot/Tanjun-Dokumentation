@@ -58,7 +58,7 @@ Der Changelog enthält immer die neuesten Änderungen und Updates. Den Changelog
 ## Hilf mit beim Aufbau dieser Dokumentation! <a href="#a5" id="a5"></a>
 
 {% hint style="success" %}
-Wir würden uns freuen, wenn du uns beim Aufbauen dieser Dokumentation unterstützt! Dies kannst du ganz einfach [über GitHub](https://github.com/TanjunBot/Tanjun-Dokumentation) tun: [_Link (klick)_](https://github.com/TanjunBot/Tanjun-Dokumentation/pulls)
+Wir würden uns freuen, wenn du uns beim Aufbauen dieser Dokumentation unterstützt! Dies kannst du ganz einfach [über GitHub](https://github.com/TanjunBot/Tanjun-Dokumentation) tun: [_Link (klick)_](https://github.com/TanjunBot/Tanjun-Dokumentation)
 {% endhint %}
 
 ***
