@@ -4,10 +4,6 @@ description: Auf dieser Seite findest du eine Übersicht über die Geburtstagsco
 
 # 🎉 Geburtstage
 
-{% hint style="warning" %}
-**Wichtig:** Diese Seite ist noch nicht fertig und wird noch bearbeitet!
-{% endhint %}
-
 Die **Geburtstags-Commands** von Tanjun bieten eine einfache Möglichkeit, Geburtstagsdaten innerhalb deines Servers zu **verwalten und zu feiern**. Mit diesen Commands können Benutzer ihre [**Geburtstage hinzufügen**](add.md) und an ihrem Geburtstag eine **Nachricht vom Bot** und eine **besondere Rolle** erhalten.
 
 Die Kategorie für Commands und den [#a1](../all.md#a1 "mention") lautet `birthday`.
