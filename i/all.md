@@ -52,7 +52,7 @@ Die korrekte Command-Kategorie ist die, die oben als Titel in der Hilfe-Nachrich
 
 ***
 
-## Hinweise zur Angabe von Commands
+## Hinweise zur Angabe von Commands <a href="#a3" id="a3"></a>
 
 Wenn wir Commands angeben, dann sind oft Elemente enthalten, die du durch etwas ersetzen musst. Wir geben diese Fälle wie folgt an:
 
