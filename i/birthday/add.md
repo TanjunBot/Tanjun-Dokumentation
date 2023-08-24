@@ -4,10 +4,6 @@ description: Auf dieser Seite findest du Informationen über den /birthday add C
 
 # 🎂 Geburtstage hinzufügen
 
-{% hint style="warning" %}
-**Wichtig:** Diese Seite ist noch nicht fertig und wird noch bearbeitet!
-{% endhint %}
-
 Der **`/birthday add` Command** ermöglicht es Benutzern, ihren Geburtstag hinzuzufügen und zu speichern. Die Nutzung dieses Commands führt dazu, dass der Bot an den Geburtstagstagen automatisch eine Glückwunschnachricht sendet.
 
 Um deinen Geburtstag hinzuzufügen, nutze den folgenden Command:

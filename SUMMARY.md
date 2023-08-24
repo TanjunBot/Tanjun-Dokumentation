@@ -11,6 +11,14 @@
   * [🗑 Geburtstage entfernen](i/birthday/remove.md)
   * [🔧 Konfiguration des Geburtstagssystems](i/birthday/config.md)
   * [📃 Geburtstagsliste](i/birthday/shownext.md)
+* [🛠 Kanal-Konfiguration](i/channel/README.md)
+  * [📜 Logkanal festlegen](i/channel/logs.md)
+  * [🔊 Jointocreate Kanal festlegen](i/channel/jointocreate.md)
+  * [🙃 Nur-Emoji Kanal festlegen](i/channel/emojichannel.md)
+  * [📸 Nur-Medien Kanal festlegen](i/channel/mediachannel.md)
+  * [😂 Makemyday Kanal festlegen](i/channel/makemyday.md)
+  * [👋 Willkommenskanal festlegen](i/channel/welcome.md)
+  * [🚪 Verabschiedungskanal festlegen](i/channel/leave.md)
 
 ## 📝 Changelog
 
