@@ -1,5 +1,5 @@
 ---
-description: Auf dieser Seite findest du Informationen über den /entfernen welcome Command.
+description: Auf dieser Seite findest du Informationen über den /entfernen leave Command.
 ---
 
 # 🚪 Verabschiedungskanal entfernen
