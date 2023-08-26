@@ -6,7 +6,7 @@ description: >-
 
 # 🔊 Jointocreate Kanal entfernen
 
-**Mit dem** **`/entfernen jointocreate` Command** kann **der zuvor festgelegte Jointocreate Kanal entfernt werden**. Das bedeutet, dass alle Regeln, die durch [jointocreate.md](../kanal/jointocreate.md "mention") für diesen Kanal festgelegt wurden, wieder aufgehoben werden. Dieser Befehl kann nur von jemanden benutzt werden, der die entsprechenden Rechte, in dem Fall die sogenannten `manage_channels` besitzt.
+Der **`/entfernen jointocreate` Command** entfernt den bereits erstellten bzw. ausgewählten Jointocreate Kanal, wobei er jediglich die Funktion vom Sprachkanal entfernt. Dieser Befehl kann nur mit den `manage_channels` Rechten ausgeführt werden.
 
 {% hint style="warning" %}
 **Wichtig:** Der Discord-Sprachkanal wird durch diesen Command **nicht** gelöscht.
