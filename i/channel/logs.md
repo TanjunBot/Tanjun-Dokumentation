@@ -1,15 +1,15 @@
 ---
-description: Auf dieser Seite findest du Informationen über den /channel logs Command.
+description: Auf dieser Seite findest du Informationen über den /kanal logs Command.
 ---
 
 # 📜 Logkanal festlegen
 
-Mithilfe des **`/channel logs` Commands** können **Servermitglieder mit "Rollen bearbeiten"-Rechten** den Kanal festlegen, in dem Tanjun die Lognachrichten sendet. Das Logsystem ist sehr umfangreich und genauere Informationen über das, was durch das Logsystem dokumentiert wird, findest du unter [#a1](logs.md#a1 "mention").
+Mithilfe des **`/kanal logs` Commands** können **Servermitglieder mit "Rollen bearbeiten"-Rechten** den Kanal festlegen, in dem Tanjun die Lognachrichten sendet. Das Logsystem ist sehr umfangreich und genauere Informationen über das, was durch das Logsystem dokumentiert wird, findest du unter [#a1](logs.md#a1 "mention").
 
 Nutze diesen Command wie folgt:
 
 ```
-/channel logs <Kanal>
+/kanal logs <Kanal>
 ```
 
 {% hint style="info" %}

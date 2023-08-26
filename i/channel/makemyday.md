@@ -1,15 +1,15 @@
 ---
-description: Auf dieser Seite findest du Informationen über den /channel makemyday Command.
+description: Auf dieser Seite findest du Informationen über den /kanal makemyday Command.
 ---
 
 # 😂 Makemyday Kanal festlegen
 
-Mithilfe des **`/channel makemyday` Commands** können **Servermitglieder mit "Rollen bearbeiten"-Rechten** einen Kanal festlegen, in dem in einem **benutzerdefinierten Intervall** und optional mit einem **benutzerdefinierten Ping lustige oder informative Nachrichten** gesendet werden. Welche genau, findest du unter [#a1](makemyday.md#a1 "mention").
+Mithilfe des **`/kanal makemyday` Commands** können **Servermitglieder mit "Rollen bearbeiten"-Rechten** einen Kanal festlegen, in dem in einem **benutzerdefinierten Intervall** und optional mit einem **benutzerdefinierten Ping lustige oder informative Nachrichten** gesendet werden. Welche genau, findest du unter [#a1](makemyday.md#a1 "mention").
 
 Nutze diesen Command wie folgt:
 
 ```
-/channel makemyday <Kanal> <Intervall (auswählen)> [Pingrolle]
+/kanal makemyday <Kanal> <Intervall (auswählen)> [Pingrolle]
 ```
 
 Die Makemyday Nachricht wird in 2 Versionen gesendet: einmal in der originalen Fassung von der [#a1](makemyday.md#a1 "mention") und einmal als Übersetzung. Beispiel:

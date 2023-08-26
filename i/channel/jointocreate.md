@@ -1,17 +1,17 @@
 ---
 description: >-
-  Auf dieser Seite findest du Informationen über den /channel jointocreate
+  Auf dieser Seite findest du Informationen über den /kanal jointocreate
   Command.
 ---
 
 # 🔊 Jointocreate Kanal festlegen
 
-Mithilfe des **`/channel jointocreate`** **Commands** können **Servermitglieder mit "Rollen bearbeiten"-Rechten** den Sprachkanal festlegen, der für das **"Join to create" System** genutzt wird. Genauere Informationen darüber, was das **"Join to create" System** ist und wie es funktioniert findest du unter [#wie-funktioniert-das-join-to-create-system](jointocreate.md#wie-funktioniert-das-join-to-create-system "mention").
+Mithilfe des **`/kanal jointocreate`** **Commands** können **Servermitglieder mit "Rollen bearbeiten"-Rechten** den Sprachkanal festlegen, der für das **"Join to create" System** genutzt wird. Genauere Informationen darüber, was das **"Join to create" System** ist und wie es funktioniert findest du unter [#wie-funktioniert-das-join-to-create-system](jointocreate.md#wie-funktioniert-das-join-to-create-system "mention").
 
 Nutze diesen Command wie folgt:
 
 ```
-/channel jointocreate <Sprachkanal>
+/kanal jointocreate <Sprachkanal>
 ```
 
 ## Wie funktioniert das "Join to create" System? <a href="#a1" id="a1"></a>

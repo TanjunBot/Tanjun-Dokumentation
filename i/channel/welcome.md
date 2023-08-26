@@ -1,10 +1,10 @@
 ---
-description: Auf dieser Seite findest du Informationen über den /channel welcome Command.
+description: Auf dieser Seite findest du Informationen über den /kanal welcome Command.
 ---
 
 # 👋 Willkommenskanal festlegen
 
-Mithilfe des **`/channel welcome` Commands** können **Servermitglieder mit "Rollen bearbeiten"-Rechten** einen Kanal festlegen, in dem neue Servermitglieder mit einer **benutzerdefinierten Nachricht** begrüßt werden.
+Mithilfe des **`/kanal welcome` Commands** können **Servermitglieder mit "Rollen bearbeiten"-Rechten** einen Kanal festlegen, in dem neue Servermitglieder mit einer **benutzerdefinierten Nachricht** begrüßt werden.
 
 {% hint style="info" %}
 Die Willkommensnachricht wird in einem Embed gesendet. Du kannst dadurch sowohl einen Titel als auch eine Beschreibung festlegen.
@@ -13,7 +13,7 @@ Die Willkommensnachricht wird in einem Embed gesendet. Du kannst dadurch sowohl 
 Nutze diesen Command wie folgt:
 
 ```
-/channel welcome <Kanal> <Titel des Embeds>
+/kanal welcome <Kanal> <Titel des Embeds>
 ```
 
 Nachdem du den Command abgesendet hast, kannst du die Beschreibung des Embeds angeben. Das machst du einfach, indem du eine Nachricht eingibst. \
