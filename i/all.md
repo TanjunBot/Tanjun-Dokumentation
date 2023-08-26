@@ -52,7 +52,23 @@ Die korrekte Command-Kategorie ist die, die oben als Titel in der Hilfe-Nachrich
 
 ***
 
-## Hinweise zur Angabe von Commands <a href="#a3" id="a3"></a>
+## Fehler melden & Ideen einbringen <a href="#a3" id="a3"></a>
+
+#### Fehler melden: <a href="#a3.1" id="a3.1"></a>
+
+Mithilfe des `/bugreport` Commands kannst du ein gefundenes Problem bzw. einen Bug reporten, um uns als Entwickler darüber zu informieren.&#x20;
+
+#### Ideen/Feedback teilen: <a href="#a3.2" id="a3.2"></a>
+
+Mit dem `/utility feedback` Command kannst du dein Feedback für Tanjun an uns senden. Wir würden uns freuen, wenn du in deinem Feedback freundlich bleibst und uns konstruktive Kritik zusendest. Ideen und Vorschläge sind immer gerne gesehen! Dadurch können wir den Bot nämlich immer weiter verbessern!
+
+{% hint style="danger" %}
+**Achtung:** Solltest du einen dieser Commands zum Spaß verwenden o.Ä., sodass dieser nicht mehr seinen Zweck erfüllt wird, werden wir dir die Möglichkeit entfernen, diesen Command verwenden zu können.
+{% endhint %}
+
+***
+
+## Hinweise zur Angabe von Commands <a href="#a4" id="a4"></a>
 
 Wenn wir Commands angeben, dann sind oft Elemente enthalten, die du durch etwas ersetzen musst. Wir geben diese Fälle wie folgt an:
 
