@@ -24,14 +24,14 @@ Was sollte deiner Meinung nach geändert/verbessert werden?
 
 **Desktop (bitte vervollständige die folgenden Informationen):**
  - Betriebssystem: [z.B. iOS]
- - Browser [z.B. chrome, safari]
- - Version [z.B. 22]
+ - Browser: [z.B. chrome, safari]
+ - Version: [z.B. 22]
 
 **Smartphone (bitte vervollständige die folgenden Informationen):**
  - Gerät: [z.B. iPhone6]
  - Betriebssystem: [z.B. iOS8.1]
- - Browser [z.B. stock browser, safari]
- - Version [z.B. 22]
+ - Browser: [z.B. stock browser, safari]
+ - Version: [z.B. 22]
 
 **Zusätzliche Informationen**
 Hier ist Platz für weitere Informationen über das Problem.
