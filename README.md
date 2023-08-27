@@ -1,6 +1,6 @@
 ---
 description: Dies ist die offizielle Dokumentation des Discord Bots Tanjun.
-cover: .gitbook/assets/page-covor.png
+cover: .gitbook/assets/page-cover.png
 coverY: 0
 layout:
   cover:
