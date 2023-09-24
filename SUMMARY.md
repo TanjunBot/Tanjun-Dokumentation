@@ -60,6 +60,7 @@
   * [✏ Changelog vom 03.09.2023](changelog/2023-09/03.md)
   * [✏ Changelog vom 10.09.2023](changelog/2023-09/10.md)
   * [✏ Changelog vom 17.09.2023](changelog/2023-09/17.md)
+  * [✏ Changelog vom 24.09.2023](changelog/2023-09/24.md)
 * [📅 Changelogs im August](changelog/2023-08/README.md)
   * [✏ Changelog vom 20.08.2023](changelog/2023-08/20.md)
   * [✏ Changelog vom 27.08.2023](changelog/2023-08/27.md)
