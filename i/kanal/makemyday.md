@@ -29,5 +29,5 @@ Es wird bei jedem Sendedurchlauf eine zufällige Quelle für den Inhalt der Make
 * **Zufälliges Zitat** von [https://zenquotes.io](https://zenquotes.io)
 
 {% hint style="success" %}
-Du hast weitere Ideen für Quellen der Makemyday Nachrichten? Melde dich auf unserem [Discord Server](https://r.arion2000.xyz/discord/pokemon/invite/vanity) oder auf [GitHub](https://github.com/TanjunBot/Tanjun-Dokumentation).
+Du hast weitere Ideen für Quellen der Makemyday Nachrichten? Melde dich auf unserem [Discord Server](https://discord.arion2000.xyz/api/discord) oder auf [GitHub](https://github.com/TanjunBot/Tanjun-Dokumentation).
 {% endhint %}
