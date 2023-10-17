@@ -37,7 +37,7 @@ Wenn du eine Kategorie auswählst, werden dir alle Commands dieser Kategorie plu
 Tanjun arbeitet in der neuesten Version fast vollständig mit Commandgruppen. Das kann in Kombination mit Discords Slash-Command-Menü dabei helfen, bestimmte Commands schneller zu finden, indem man nach dem / eine bestimmte Kategorie eingibt.&#x20;
 
 {% hint style="info" %}
-Die Kategorien in den Slash Commands und im [#a1](all.md#a1 "mention") sind die gleichen. Wenn man z.B. einen Utility-Command senden will, gibt man einfach `/utility` ein und es werden die Commands aus der Hilfe-Nachricht direkt vorgeschlagen.
+Die Kategorien in den Slash Commands und im [#a1](index.md#a1 "mention") sind die gleichen. Wenn man z.B. einen Utility-Command senden will, gibt man einfach `/utility` ein und es werden die Commands aus der Hilfe-Nachricht direkt vorgeschlagen.
 {% endhint %}
 
 Die Commands sind meistens wie folgt aufgebaut:

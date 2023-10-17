@@ -8,7 +8,7 @@ description: >-
 
 Die **Kanal-Konfigurationscommands** von **Tanjun** bieten Servermitgliedern mit "**Rollen bearbeiten**"-Rechten die Möglichkeit, einige **Serverkanäle festzulegen**, in die **Tanjun** dann bestimmte **Nachrichten senden** wird. Darunter finden sich Möglichkeiten zum Festlegen des **Logkanals**, **Willkommenskanals** und noch vieles mehr!
 
-Die Kategorie für Commands und den [#a1](../all.md#a1 "mention") lautet `kanal`.
+Die Kategorie für Commands und den [#a1](../index.md#a1 "mention") lautet `kanal`.
 
 ## Die verschiedenen Kanal-Konfigurationscommands <a href="#a1" id="a1"></a>
 

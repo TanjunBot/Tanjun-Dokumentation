@@ -6,7 +6,7 @@ description: Auf dieser Seite findest du eine Übersicht über die Fun-Commands.
 
 Die **Kanal-Konfigurationscommands** von **Tanjun** bieten Servermitgliedern **die Möglichkeit**, einige unterhaltsame Aktionen auszuführen und miteinander zu interagieren. Diese Commands passen gut in aktive Chats und sorgen für zusätzliche Möglichkeiten, sich individuell auszudrücken. Hierbei sendet Tanjun ein **zufälliges GIF** zu Aktionen wie **Begrüßen, Umarmen, Weinen** und vieles mehr!
 
-Die Kategorie für Commands und den [#a1](../all.md#a1 "mention") lautet `fun`.
+Die Kategorie für Commands und den [#a1](../index.md#a1 "mention") lautet `fun`.
 
 ### Beispielbilder <a href="#a0.1" id="a0.1"></a>
 

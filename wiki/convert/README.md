@@ -6,7 +6,7 @@ description: Auf dieser Seite findest du eine Übersicht über die Umrechnungsco
 
 Die **Umrechnungscommands** von **Tanjun** bieten Servermitgliedern **die Möglichkeit**, bestimmte mathematische **Einheiten** **in andere umzurechnen**. Zum Beispiel kann man **Entfernungen**, **Geschwindigkeiten**, **Gewicht** und **Temperaturen umrechnen**!
 
-Die Kategorie für Commands und den [#a1](../all.md#a1 "mention") lautet `convert`.
+Die Kategorie für Commands und den [#a1](../index.md#a1 "mention") lautet `convert`.
 
 ## Die verschiedenen Umrechnungscommands <a href="#a1" id="a1"></a>
 

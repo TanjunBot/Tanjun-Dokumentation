@@ -40,8 +40,8 @@ Arbeitest du das erste Mal mit Tanjun und möchtest etwas über grundlegende Ein
 
 Es gibt einige Tipps & Tricks, die du kennen solltest, wenn du Tanjun verwendest. Hier findest du einige Beispiele:
 
-{% content-ref url="i/all.md" %}
-[all.md](i/all.md)
+{% content-ref url="wiki/index.md" %}
+[index.md](wiki/index.md)
 {% endcontent-ref %}
 
 ## Changelog <a href="#a4" id="a4"></a>

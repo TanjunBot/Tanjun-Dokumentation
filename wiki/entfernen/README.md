@@ -6,7 +6,7 @@ description: Auf dieser Seite findest du eine Übersicht über Entfernen-Command
 
 Da man mit den [kanal](../kanal/ "mention") Commands von **Tanjun** nur Kanal-Konfigurationen **hinzufügen, aber nicht löschen** kann, sind diese Commands dafür gedacht, um diese Lücke zu decken. **Servermitglieder** mit "**Kanäle bearbeiten**"-Rechten haben die Möglichkeit, bereits festlegte Kanal-Konfigurationen in die **Tanjun** wieder zu entfernen.
 
-Die Kategorie für Commands und den [#a1](../all.md#a1 "mention") lautet `entfernen`.
+Die Kategorie für Commands und den [#a1](../index.md#a1 "mention") lautet `entfernen`.
 
 ## Die verschiedenen Entfernen-Commands <a href="#a1" id="a1"></a>
 
