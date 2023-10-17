@@ -5,7 +5,7 @@
 
 ## 🤖 Commands <a href="#wiki" id="wiki"></a>
 
-* [ℹ Allgemeine Tipps](wiki/index.md)
+* [ℹ Allgemeine Tipps](wiki/README.md)
 * [🎉 Geburtstage](wiki/birthday/README.md)
   * [🎂 Geburtstage hinzufügen](wiki/birthday/add.md)
   * [🗑 Geburtstage entfernen](wiki/birthday/remove.md)
