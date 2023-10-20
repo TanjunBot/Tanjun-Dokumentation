@@ -1,5 +1,5 @@
 name: Fehler melden
-about: Hilf mit, diese Dokumentation zu verbessern!
+description: Hilf mit, diese Dokumentation zu verbessern!
 labels: bug
 assignees: ''
 body:
