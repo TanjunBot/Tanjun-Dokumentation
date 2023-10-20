@@ -1,7 +1,6 @@
 name: Fehler melden
 description: Hilf mit, diese Dokumentation zu verbessern!
 labels: bug
-assignees: ""
 body:
 - type: textarea
   id: description
