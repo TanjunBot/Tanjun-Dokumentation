@@ -34,9 +34,7 @@ body:
   attributes:
     label: Screenshot(s) (+ Datum der Aufnahme wenn möglich)
     description: "Mach Screenshots von dem Fehler, den du melden möchtest."
-    placeholder: |
-    Klicke in dieses Feld und verwende anschließend die Option *Attach files by dragging & dropping, selecting or pasting them.*
-    ⬇️
+    placeholder: Klicke in dieses Feld und verwende anschließend die Option *Attach files by dragging & dropping, selecting or pasting them.*
   validations:
     required: true
 - type: textarea
