@@ -12,7 +12,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      **Ort des Fehlers**
+      ## Ort des Fehlers
       Wo hast du den Fehler gefunden? Bitte gib uns folgende Informationen:
 - type: input
   id: location-link
@@ -57,7 +57,7 @@ body:
     required: true
 - type: markdown
   attributes:
-    value: "**Systeminformationen**"
+    value: "## Systeminformationen"
 - type: input
   id: os
   attributes:
