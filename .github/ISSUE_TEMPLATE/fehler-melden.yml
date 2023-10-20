@@ -63,7 +63,8 @@ body:
     
 - type: markdown
   attributes:
-    value: "# Systeminformationen"
+    value: |
+      ## Systeminformationen
     
 - type: input
   id: os
