@@ -13,8 +13,8 @@ body:
 - type: markdown
   attributes:
     value: |
-      "# Ort des Fehlers"
-      "Wo hast du den Fehler gefunden? Bitte gib uns folgende Informationen:"
+      # Ort des Fehlers
+      Wo hast du den Fehler gefunden? Bitte gib uns folgende Informationen:
       
 - type: input
   id: location-link
