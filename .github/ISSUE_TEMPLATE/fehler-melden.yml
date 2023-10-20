@@ -6,14 +6,16 @@ body:
   id: description
   attributes:
     label: Beschreibe den Fehler
-    description: Eine klare und prägnante Beschreibung des Fehlers.
+    description: Eine klare Beschreibung des Fehlers.
   validations:
     required: true
+    
 - type: markdown
   attributes:
     value: |
-      ## Ort des Fehlers
-      Wo hast du den Fehler gefunden? Bitte gib uns folgende Informationen:
+      "# Ort des Fehlers"
+      "Wo hast du den Fehler gefunden? Bitte gib uns folgende Informationen:"
+      
 - type: input
   id: location-link
   attributes:
@@ -21,13 +23,14 @@ body:
     placeholder: https://tanjun.a2data.site/...
   validations:
     required: true
+    
 - type: input
   id: location-line
   attributes:
     label: (wenn möglich) Zeilenangaben des Fehlers
     description: Wenn dies nichts mit deiner Fehlermeldung zu tun hat, kannst du es leer lassen...
     placeholder: Z. 1-5
-body:
+
 - type: textarea
   id: location-screenshots
   attributes:
@@ -36,6 +39,7 @@ body:
     placeholder: Klicke in dieses Feld und verwende anschließend die Option *Attach files by dragging & dropping, selecting or pasting them.*
   validations:
     required: true
+    
 - type: textarea
   id: repro
   attributes:
@@ -48,6 +52,7 @@ body:
       ...
   validations:
     required: false
+    
 - type: textarea
   id: change
   attributes:
@@ -55,9 +60,11 @@ body:
     description: "Was sollte deiner Meinung nach geändert/verbessert werden?"
   validations:
     required: true
+    
 - type: markdown
   attributes:
-    value: "## Systeminformationen"
+    value: "# Systeminformationen"
+    
 - type: input
   id: os
   attributes:
@@ -66,6 +73,7 @@ body:
     placeholder: z.B. iOS, ...
   validations:
     required: true
+    
 - type: dropdown
   id: mobile-or-desktop
   attributes:
@@ -75,6 +83,7 @@ body:
       - Mobil
   validations:
     required: true
+    
 - type: input
   id: browser
   attributes:
@@ -83,6 +92,7 @@ body:
     placeholder: z.B. Chrome, Safari, ...
   validations:
     required: true
+    
 - type: input
   id: browser-version
   attributes:
@@ -91,6 +101,7 @@ body:
     placeholder: Dies kannst du in den Einstellungen oder auf der Aktualisierungseite nachschauen, z.B. 22, ...  
   validations:
     required: true
+    
 - type: textarea
   id: extra
   attributes:
