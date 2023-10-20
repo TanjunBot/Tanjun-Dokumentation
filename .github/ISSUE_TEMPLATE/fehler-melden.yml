@@ -98,8 +98,8 @@ body:
   id: browser-version
   attributes:
     label: Browserversion
-    description: Welche Version des Browsers verwendest du?
-    placeholder: Dies kannst du in den Einstellungen oder auf der Aktualisierungseite nachschauen, z.B. 22, ...  
+    description: Welche Version des Browsers verwendest du? Dies kannst du in den Einstellungen oder auf der Aktualisierungseite nachschauen.
+    placeholder: z.B. 22, ...  
   validations:
     required: true
     
