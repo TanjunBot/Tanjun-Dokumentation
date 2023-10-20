@@ -13,7 +13,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      # Ort des Fehlers
+      ## Ort des Fehlers
       Wo hast du den Fehler gefunden? Bitte gib uns folgende Informationen:
       
 - type: input
