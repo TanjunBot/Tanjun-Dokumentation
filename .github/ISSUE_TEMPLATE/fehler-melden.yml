@@ -1,7 +1,11 @@
 name: Fehler melden
 description: Hilf mit, diese Dokumentation zu verbessern!
-labels: bug
 body:
+- type: markdown
+  attributes:
+    value: |
+      **Bitte wähle ein passendes Label aus! (rechts auf dieser Seite)**
+
 - type: textarea
   id: description
   attributes:
