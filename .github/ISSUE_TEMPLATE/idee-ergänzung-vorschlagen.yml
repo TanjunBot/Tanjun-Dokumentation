@@ -1,0 +1,57 @@
+---
+name: 
+about: 
+title: "[IDEE]"
+labels: 
+assignees: ''
+
+---
+
+**Bezieht sich deine Idee auf ein Problem? Bitte beschreibe es/gib den Link zum Issue an (falls es eines gibt).**
+Eine klare und prägnante Beschreibung des Problems. Beispiel. Ich habe ein Problem, wenn ich versuche, [...]
+
+**Beschreibe deine Idee**
+Eine klare und prägnante Beschreibung dessen, was du hinzugefügt haben möchtest.
+
+**Hättest du noch einen alternativen Vorschlag?**
+Eine klare und prägnante Beschreibung aller alternativen Optionen, die du in Betracht ziehen würdest.
+
+**Zusätzliche Informationen**
+Hier ist Platz für weitere wichtige Informationen.
+
+name: Idee/Ergänzung vorschlagen
+description: Eine Idee für die Dokumentation vorschlagen
+labels: [Erweiterung]
+body:
+- type: textarea
+  id: context
+  attributes:
+    label: "Bezieht sich deine Idee auf ein Problem?"
+    description: "Bitte beschreibe das Problem und gib den Link zum Issue an (falls es eines gibt)."
+    placeholder: "Eine klare und prägnante Beschreibung des Problems. Beispiel: Ich habe ein Problem, wenn ich versuche, [...]"
+  validations:
+    required: false
+    
+- type: textarea
+  id: idea
+  attributes:
+    label: Beschreibe deine Idee
+    description: Eine klare und prägnante Beschreibung dessen, was du hinzugefügt haben möchtest.
+  validations:
+    required: true
+      
+- type: textarea
+  id: alternatives
+  attributes:
+    label: "Hättest du noch einen alternativen Vorschlag?"
+    description: "Eine klare und prägnante Beschreibung aller alternativen Optionen, die du in Betracht ziehen würdest."
+  validations:
+    required: false
+    
+- type: textarea
+  id: extra
+  attributes:
+    label: "Zusätzliche Informationen"
+    description: "Hier ist Platz für weitere wichtige Informationen."
+  validations:
+    required: false
