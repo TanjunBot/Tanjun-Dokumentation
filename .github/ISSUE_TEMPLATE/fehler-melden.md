@@ -1,37 +1,103 @@
----
 name: Fehler melden
 about: Hilf mit, diese Dokumentation zu verbessern!
-title: "[FEHLERREPORT]"
 labels: bug
 assignees: ''
-
----
-
-**Beschreibe den Fehler**
-Eine klare und prägnante Beschreibung des Fehlers.
-
-**Ort des Fehlers**
-Wo hast du den Fehler gefunden? Bitte gib uns folgende Informationen:
-1. Link zur Seite in der Dokumentation
-2. (wenn möglich) Zeilenangaben des Fehlers
-3. Screenshot(s) (+ Datum der Aufnahme wenn möglich)
-
-**(Falls zutreffend: Fehler reproduzieren)**
-Was muss man tun, um den Fehler zu reproduzieren?
-
-**Verbesserungsvorschlag**
-Was sollte deiner Meinung nach geändert/verbessert werden?
-
-**Desktop (bitte vervollständige die folgenden Informationen):**
- - Betriebssystem: [z.B. iOS]
- - Browser: [z.B. chrome, safari]
- - Version: [z.B. 22]
-
-**Smartphone (bitte vervollständige die folgenden Informationen):**
- - Gerät: [z.B. iPhone6]
- - Betriebssystem: [z.B. iOS8.1]
- - Browser: [z.B. stock browser, safari]
- - Version: [z.B. 22]
-
-**Zusätzliche Informationen**
-Hier ist Platz für weitere Informationen über das Problem.
+body:
+- type: textarea
+  id: description
+  attributes:
+    label: Beschreibe den Fehler
+    description: Eine klare und prägnante Beschreibung des Fehlers.
+  validations:
+    required: true
+- type: markdown
+  attributes:
+    value: |
+      **Ort des Fehlers**
+      Wo hast du den Fehler gefunden? Bitte gib uns folgende Informationen:
+- type: input
+  id: location-link
+  attributes:
+    label: Link zur Seite in der Dokumentation
+    placeholder: https://tanjun.a2data.site/...
+  validations:
+    required: true
+- type: input
+  id: location-line
+  attributes:
+    label: (wenn möglich) Zeilenangaben des Fehlers
+    description: Wenn dies nichts mit deiner Fehlermeldung zu tun hat, kannst du es leer lassen...
+    placeholder: Z. 1-5
+body:
+- type: textarea
+  id: location-screenshots
+  attributes:
+    label: Screenshot(s) (+ Datum der Aufnahme wenn möglich)
+    description: "Mach Screenshots von dem Fehler, den du melden möchtest."
+    placeholder: |
+    Klicke in dieses Feld und verwende anschließend die Option "Attach files by dragging & dropping, selecting or pasting them."
+    ⬇️
+  validations:
+    required: true
+- type: textarea
+  id: repro
+  attributes:
+    label: (Falls zutreffend: Fehler reproduzieren)
+    description: "Was muss man tun, um den Fehler zu reproduzieren?"
+    value: |
+      1.
+      2.
+      3.
+      ...
+  validations:
+    required: false
+- type: textarea
+  id: change
+  attributes:
+    label: Verbesserungsvorschlag
+    description: "Was sollte deiner Meinung nach geändert/verbessert werden?"
+  validations:
+    required: true
+- type: markdown
+  attributes:
+    value: **Systeminformationen**
+- type: input
+  id: os
+  attributes:
+    label: Betriebssystem
+    description: Welches Betriebssystem verwendest du?
+    placeholder: z.B. iOS, ...
+  validations:
+    required: true
+- type: dropdown
+  id: mobile-or-desktop
+  attributes:
+    label: Verwendest du ein Desktop- oder Mobilgerät?
+    options:
+      - Desktop
+      - Mobil
+  validations:
+    required: true
+- type: input
+  id: browser
+  attributes:
+    label: Browser
+    description: Welchen Browser verwendest du?
+    placeholder: z.B. Chrome, Safari, ...
+  validations:
+    required: true
+- type: input
+  id: browser-version
+  attributes:
+    label: Browserversion
+    description: Welche Version des Browsers verwendest du?
+    placeholder: Dies kannst du in den Einstellungen oder auf der Aktualisierungseite nachschauen, z.B. 22, ...  
+  validations:
+    required: true
+- type: textarea
+  id: extra
+  attributes:
+    label: Zusätzliche Informationen
+    description: Hier ist Platz für weitere Informationen über das Problem.
+  validations:
+    required: false
