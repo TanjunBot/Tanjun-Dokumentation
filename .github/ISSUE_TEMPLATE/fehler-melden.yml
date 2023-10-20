@@ -58,7 +58,7 @@ body:
     required: true
 - type: markdown
   attributes:
-    value: **Systeminformationen**
+    value: "**Systeminformationen**"
 - type: input
   id: os
   attributes:
