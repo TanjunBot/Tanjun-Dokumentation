@@ -5,7 +5,7 @@
 
 ## 🤖 Commands <a href="#wiki" id="wiki"></a>
 
-* [ℹ Allgemeine Tipps](wiki/README.md)
+* [ℹ Allgemeine Tipps](wiki/index.md)
 * [🎉 Geburtstage](wiki/birthday/README.md)
   * [🎂 Geburtstage hinzufügen](wiki/birthday/add.md)
   * [🗑 Geburtstage entfernen](wiki/birthday/remove.md)
@@ -60,6 +60,7 @@
   * [✏ Changelog vom 01.10.2023](changelog/2023-10/01.md)
   * [✏ Changelog vom 08.10.2023](changelog/2023-10/08.md)
   * [✏ Changelog vom 15.10.2023](changelog/2023-10/15.md)
+  * [✏ Changelog vom 22.10.2023](changelog/2023-10/22.md)
 * [📅 Changelogs im September](changelog/2023-09/README.md)
   * [✏ Changelog vom 03.09.2023](changelog/2023-09/03.md)
   * [✏ Changelog vom 10.09.2023](changelog/2023-09/10.md)
