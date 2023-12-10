@@ -82,3 +82,5 @@
 * [📅 Changelogs im April](changelog/2023-04/README.md)
   * [✏ Changelog vom 23.04.2023](changelog/2023-04/23.md)
   * [✏ Changelog vom 30.04.2023](changelog/2023-04/30.md)
+* [📅 Changelogs im Dezember](changelog/2023-12/README.md)
+  * [✏ Changelog vom 10.12.2023](changelog/2023-12/10.md)
