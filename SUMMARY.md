@@ -58,6 +58,7 @@
 
 * [📅 Changelogs im Dezember](changelog/2023-12/README.md)
   * [✏ Changelog vom 10.12.2023](changelog/2023-12/10.md)
+  * [✏ Changelog vom 17.12.2023](changelog/2023-12/17.md)
 * [📅 Changelogs im November](changelog/2023-11/README.md)
   * [✏ Changelog vom 05.11.2023](changelog/2023-11/05.md)
   * [✏ Changelog vom 12.11.2023](changelog/2023-11/12.md)
