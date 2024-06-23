@@ -6,6 +6,8 @@
 ## 🤖 Commands <a href="#docs" id="docs"></a>
 
 * [ℹ️ Allgemeine Tipps](docs/index.md)
+* [🛡️ Admin-Commands](docs/admin-commands/README.md)
+  * [💬 Channel-Befehle](docs/admin-commands/channel-befehle.md)
 
 ## 📝 Changelog
 
