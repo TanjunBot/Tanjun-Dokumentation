@@ -32,7 +32,7 @@ Dieser Command ist besonders praktisch, wenn du den Slow-Modus auf eine Zahl set
 
 Mit `/admin slowmode 0 [channel]` kannst du den Slow-Modus in einem Kanal wieder deaktivieren.
 
-### `Lock`- und `Unlock`-Befehle
+## `Lock`- und `Unlock`-Befehle
 
 Mit diesen beiden Befehlen kannst du Mitglieder entweder daran hindern, in einem Kanal Nachrichten zu schreiben oder das Schreiben von Nachrichten wieder erlauben.
 
