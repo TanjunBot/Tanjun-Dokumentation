@@ -24,8 +24,11 @@ layout:
 
 Hier erfährst du alles über die Commands und Funktionen im Discord Bot Tanjun.
 
-{% hint style="info" %}
-Falls du es noch nicht getan hast, würde es uns sehr freuen, wenn du hier [Tanjun](https://r.arion2000.xyz/discord/dcdev/app/tanjun/c\_invite) auch auf deinen Discord Server [einlädst](https://r.arion2000.xyz/discord/dcdev/app/tanjun/c\_invite): [_Link (klick)_](https://r.arion2000.xyz/discord/dcdev/app/tanjun/c\_invite)
+{% hint style="warning" %}
+Tanjun wird aktuell (mal wieder) komplett neugeschrieben. Bis Version 1.0.0 erreicht ist, sind die neuen Änderungen noch nicht öffentlich, wir teilen aber alle Neuerungen und Updates mit euch.\
+Wir werden nun auch diese Dokumentation komplett neu schreiben (die ja leider nie wirklich fertig geworden ist).\
+\
+Behalte den [GitHub Discussions-Tab](https://github.com/orgs/TanjunBot/discussions) im Blick oder [trete unserem Discordserver bei](https://discord.arion2000.xyz), um auf dem Laufenden zu bleiben!
 {% endhint %}
 
 ## Erste Schritte <a href="#a2" id="a2"></a>
@@ -46,7 +49,7 @@ Es gibt einige Tipps & Tricks, die du kennen solltest, wenn du Tanjun verwendest
 
 ## Changelog <a href="#a4" id="a4"></a>
 
-Du hast die Möglichkeit, sowohl auf unserem [Discord Server im #┾🦆┋tanjun-changelog Kanal](https://canary.discord.com/channels/831161440705839124/1098902476708642816), als auch auf dieser Webseite den Changelog zu sehen.
+Du hast die Möglichkeit, sowohl auf unserem [Discord Server im #┾🦆┋tanjun-changelog Kanal](https://discord.com/channels/831161440705839124/1098902476708642816), als auch auf dieser Webseite den Changelog zu sehen.
 
 Der Changelog enthält immer die neuesten Änderungen und Updates. Den Changelog findest du hier:
 

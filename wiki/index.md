@@ -2,11 +2,7 @@
 description: Auf dieser Seite findest du nützliche Hinweise zur Bedienung von Tanjun.
 ---
 
-# ℹ Allgemeine Tipps
-
-{% hint style="warning" %}
-**Wichtig:** Diese Seite ist noch nicht fertig und wird noch bearbeitet!
-{% endhint %}
+# ℹ️ Allgemeine Tipps
 
 ## Hilfe-Command <a href="#a1" id="a1"></a>
 
