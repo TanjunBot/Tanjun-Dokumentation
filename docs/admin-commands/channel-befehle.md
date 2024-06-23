@@ -21,7 +21,7 @@ Falls die Menge an Nachrichten, die man mit dem `/admin purge`-Befehl löschen k
 Dies funktioniert, indem der Bot eine exakte Kopie des Kanals anfertigt und den originalen Kanal löscht.
 
 {% hint style="success" %}
-Damit man diesen Befehl nicht versehentlich ausführt, muss man, nachdem man den Befehl gesendet hat, [`NUKE`](#user-content-fn-1)[^1] in den Kanal schreiben, bevor diese Aktion ausgeführt wird.
+Damit man diesen Befehl nicht versehentlich ausführt, muss man, nachdem man den Befehl gesendet hat, NUKE[^1] in den Kanal schreiben, bevor diese Aktion ausgeführt wird.
 {% endhint %}
 
 ## `Slowmode`-Befehl
