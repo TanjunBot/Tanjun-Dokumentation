@@ -3,9 +3,9 @@
 * [🏠 Übersicht](README.md)
 * [▶️ Erste Schritte](start.md)
 
-## 🤖 Commands <a href="#wiki" id="wiki"></a>
+## 🤖 Commands <a href="#docs" id="docs"></a>
 
-* [ℹ️ Allgemeine Tipps](wiki/index.md)
+* [ℹ️ Allgemeine Tipps](docs/index.md)
 
 ## 📝 Changelog
 
