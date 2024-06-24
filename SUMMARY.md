@@ -8,6 +8,7 @@
 * [ℹ️ Allgemeine Tipps](docs/index.md)
 * [🛡️ Admin-Commands](docs/admin/README.md)
   * [💬 Channel-Befehle](docs/admin/channel.md)
+  * [🪪 Rollen-Commands](docs/admin/role.md)
 
 ## 📝 Changelog <a href="#c" id="c"></a>
 
