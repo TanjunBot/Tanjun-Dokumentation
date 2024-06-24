@@ -4,6 +4,10 @@ description: Auf dieser Seite findest du nützliche Hinweise zur Bedienung von T
 
 # ℹ️ Allgemeine Tipps
 
+{% hint style="danger" %}
+**Achtung:** Diese Seite stammt aus einer älteren Version von Tanjun und ist noch nicht auf dem aktuellsten Stand. [Hilf mit, diese Dokumentation aufzubauen!](https://github.com/TanjunBot/Tanjun-Dokumentation)
+{% endhint %}
+
 ## Hilfe-Command <a href="#a1" id="a1"></a>
 
 Wie die meisten Discord Bots hat auch Tanjun einen Hilfe Command. Mit diesem kannst du dir alle aktuell verfügbaren Commands und deren Beschreibung anzeigen lassen.
