@@ -8,7 +8,9 @@ description: >-
 
 ## `Purge`-Befehl
 
-Mit dem `/admin purge <menge>`-Befehl kannst du eine bestimmte Anzahl an Nachrichten aus dem Kanal, in dem du den Command ausführst, auf einmal löschen.
+Mit dem `/admin purge <limit> [channel] [setting]`-Befehl kannst du eine bestimmte Anzahl an Nachrichten aus dem Kanal, in dem du den Command ausführst, auf einmal löschen.
+
+Mit dem `[setting]`-Parameter kannst du genauer filtern, welche Nachrichten gelöscht werden sollen.
 
 {% hint style="info" %}
 Nachrichten, die älter als 2 Wochen sind, können mit diesem Command in der Regel nicht mehr gelöscht werden.
