@@ -33,4 +33,4 @@ Klicke anschließend auf "Autorisieren".\
 
 Tanjun unterstützt sowohl traditionelle Befehle mit einem Präfix als auch Slash-Commands.\
 Das Standard-Präfix für Tanjun ist `t.`.\
-Du kannst Slash-Commands verwenden, indem du `/` in eine Kanalnachricht eingibst. Dir werden dann alle verfügbaren Bot-Commands angezeigt und du kannst einen auswählen.
+Du kannst Slash-Commands verwenden, indem du `/` in das Nachrichtenfeld eingibst. Dir werden dann alle verfügbaren Bot-Commands angezeigt und du kannst einen auswählen.
