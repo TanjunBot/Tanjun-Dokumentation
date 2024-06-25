@@ -24,7 +24,7 @@ Du kannst [diesen Link](https://r.arion2000.xyz/discord/dcdev/app/tanjun/c\_invi
 
 Klicke anschließend auf "Weiter". Auf der nächsten Seite siehst du eine Übersicht über die Berechtigungen, die der Tanjun auf dem Server benötigt, um vollständig zu funktionieren.&#x20;
 
-<figure><img src=".gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/invite_bot_select_permissions.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Klicke anschließend auf "Autorisieren".\
 **Herzlichen Glückwunsch!** **Der Bot sollte sich nun auf deinem Server befinden.** :tada:
