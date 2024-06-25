@@ -8,7 +8,7 @@ description: >-
 
 ## `Purge`-Befehl
 
-Mit dem `/admin purge <limit> [channel] [setting]`-Befehl kannst du eine bestimmte Anzahl an Nachrichten aus dem Kanal, in dem du den Command ausführst, auf einmal löschen.
+Mit dem `/admin purge <limit> [channel] [setting]`-Befehl kann man eine bestimmte Anzahl an Nachrichten aus dem Kanal, in dem du den Command ausführst, auf einmal löschen.
 
 Mit dem `[setting]`-Parameter kannst du genauer filtern, welche Nachrichten gelöscht werden sollen.
 
@@ -36,7 +36,7 @@ Mit `/admin slowmode 0 [channel]` kannst du den Slow-Modus in einem Kanal wieder
 
 ## `Lock`- und `Unlock`-Befehle
 
-Mit diesen beiden Befehlen kannst du Mitglieder entweder daran hindern, in einem Kanal Nachrichten zu schreiben oder das Schreiben von Nachrichten wieder erlauben.
+Mit diesen beiden Befehlen kann man Mitglieder entweder daran hindern, in einem Kanal Nachrichten zu schreiben oder das Schreiben von Nachrichten wieder erlauben.
 
 Wenn der `/admin lock`-Befehl ausgeführt wird, wird von @everyone und allen zusätzlichen Rollen und Mitgliedern die `Nachrichten senden`-Berechtigung auf ❌ gesetzt. So kann niemand (außer Administratoren) mehr in dem Kanal schreiben. Durch den `/admin unlock`-Befehl wird der Zustand vor dem Sperren wiederhergestellt (wer vor dem Sperren nicht schreiben durfte, darf es danach auch nicht).
 
