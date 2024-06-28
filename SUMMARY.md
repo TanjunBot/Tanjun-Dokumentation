@@ -10,7 +10,9 @@
   * [💬 Channel-Befehle](docs/admin/channel.md)
   * [🪪 Rollen-Befehle](docs/admin/role.md)
   * [❔ Weiteres](docs/admin/weiteres.md)
+* [🔕 Nachrichtenverfolgung deaktivieren](docs/opt-out.md)
 
 ## 📝 Changelog <a href="#c" id="c"></a>
 
+* [📅 v0.3.0](c/v0.3.0.md)
 * [📅 v0.1.0](c/v0.1.0.md)
