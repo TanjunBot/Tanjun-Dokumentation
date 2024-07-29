@@ -19,7 +19,7 @@ layout:
 
 Tanjun liest oder verarbeitet **keine** deiner normalen Chatnachrichten. Lediglich Text in Befehlen, Formularen oder Minispielen wird von Tanjun verarbeitet, da dies für die Funktionsweise des Bots notwendig ist.
 
-Für weitere Informationen über den Datenschutz in Tanjun, klicke [hier](http://tanjun.bot/privacy-policy).
+Für weitere Informationen über den Datenschutz in Tanjun, klicke [hier](https://go.tanjun.bot/privacy).
 
 ## Befehl zum Deaktivieren der Nachrichtenverfolgung
 
