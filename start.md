@@ -14,7 +14,7 @@ description: Erfahre, wie du loslegen kannst, Tanjun auf deinem Server zu verwen
 Um Tanjun auf einen Server einzuladen, musst du auf dem Server die `Server verwalten`-Berechtigung besitzen.
 {% endhint %}
 
-Du kannst [diesen Link](https://r.arion2000.xyz/discord/dcdev/app/tanjun/c\_invite) verwenden, um Tanjun einzuladen. Dir wird eine Seite von Discord angezeigt, auf der zu auswählen kannst, zu welchem Server du den Bot hinzufügen möchtest.
+Du kannst [diesen Link](https://go.tanjun.bot/invite) verwenden, um Tanjun einzuladen. Dir wird eine Seite von Discord angezeigt, auf der zu auswählen kannst, zu welchem Server du den Bot hinzufügen möchtest.
 
 <div data-full-width="false">
 
