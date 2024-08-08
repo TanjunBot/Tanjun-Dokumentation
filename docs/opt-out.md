@@ -2,6 +2,7 @@
 description: >-
   So kannst du dafür sorgen, dass Tanjun deine Nachrichten nicht verarbeitet
   oder nachverfolgt.
+icon: message-slash
 layout:
   title:
     visible: true
@@ -15,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🔕 Nachrichtenverfolgung deaktivieren
+# Nachrichtenverfolgung deaktivieren
 
 Tanjun liest oder verarbeitet **keine** deiner normalen Chatnachrichten. Lediglich Text in Befehlen, Formularen oder Minispielen wird von Tanjun verarbeitet, da dies für die Funktionsweise des Bots notwendig ist.
 

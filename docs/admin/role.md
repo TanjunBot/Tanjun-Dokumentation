@@ -2,9 +2,10 @@
 description: >-
   Hier geht es um die Commands /admin addrole, /admin removerole, /admin
   createrole und /admin deleterole.
+icon: id-badge
 ---
 
-# 🪪 Rollen-Commands
+# Rollen-Befehle
 
 {% hint style="info" %}
 Man könnte sich ja fragen: Warum gibt es diese Commands in Tanjun? Das kann man doch auch alles normal in den Servereinstellungen in Discord machen.\

@@ -1,19 +1,19 @@
 # Table of contents
 
-* [🏠 Übersicht](README.md)
-* [▶️ Erste Schritte](start.md)
+* [Übersicht](README.md)
+* [Erste Schritte](start.md)
 
-## 🤖 Commands <a href="#docs" id="docs"></a>
+## Commands <a href="#docs" id="docs"></a>
 
-* [ℹ️ Allgemeine Tipps](docs/index.md)
-* [🛡️ Admin-Commands](docs/admin/README.md)
-  * [💬 Channel-Befehle](docs/admin/channel.md)
-  * [🪪 Rollen-Befehle](docs/admin/role.md)
-  * [❔ Weiteres](docs/admin/weiteres.md)
-* [🔕 Nachrichtenverfolgung deaktivieren](docs/opt-out.md)
+* [Allgemeine Tipps](docs/index.md)
+* [Admin-Commands](docs/admin/README.md)
+  * [Channel-Befehle](docs/admin/channel.md)
+  * [Rollen-Befehle](docs/admin/role.md)
+  * [Weiteres](docs/admin/weiteres.md)
+* [Nachrichtenverfolgung deaktivieren](docs/opt-out.md)
 
-## 📝 Changelog <a href="#c" id="c"></a>
+## Changelog <a href="#c" id="c"></a>
 
-* [📅 v0.4.0](c/v0.4.0.md)
-* [📅 v0.3.0](c/v0.3.0.md)
-* [📅 v0.1.0](c/v0.1.0.md)
+* [v0.4.0](c/v0.4.0.md)
+* [v0.3.0](c/v0.3.0.md)
+* [v0.1.0](c/v0.1.0.md)

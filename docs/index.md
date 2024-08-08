@@ -1,8 +1,9 @@
 ---
 description: Auf dieser Seite findest du nützliche Hinweise zur Bedienung von Tanjun.
+icon: memo-circle-info
 ---
 
-# ℹ️ Allgemeine Tipps
+# Allgemeine Tipps
 
 {% hint style="danger" %}
 **Achtung:** Diese Seite stammt aus einer älteren Version von Tanjun und ist noch nicht auf dem aktuellsten Stand. [Hilf mit, diese Dokumentation aufzubauen!](https://github.com/TanjunBot/Tanjun-Dokumentation)

@@ -1,8 +1,9 @@
 ---
 description: Hier geht es um die Commands /admin say, /admin embed und /admin createemoji.
+icon: ellipsis
 ---
 
-# ❔ Weiteres
+# Weiteres
 
 ## `Say`-Befehl
 

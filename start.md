@@ -1,8 +1,9 @@
 ---
 description: Erfahre, wie du loslegen kannst, Tanjun auf deinem Server zu verwenden!
+icon: play
 ---
 
-# ▶️ Erste Schritte
+# Erste Schritte
 
 {% hint style="warning" %}
 **Wichtig:** Diese Seite ist noch nicht fertig und wird noch bearbeitet!
@@ -22,7 +23,7 @@ Du kannst [diesen Link](https://go.tanjun.bot/invite) verwenden, um Tanjun einzu
 
 </div>
 
-Klicke anschließend auf "Weiter". Auf der nächsten Seite siehst du eine Übersicht über die Berechtigungen, die der Tanjun auf dem Server benötigt, um vollständig zu funktionieren.&#x20;
+Klicke anschließend auf "Weiter". Auf der nächsten Seite siehst du eine Übersicht über die Berechtigungen, die der Tanjun auf dem Server benötigt, um vollständig zu funktionieren.
 
 <figure><img src=".gitbook/assets/invite_bot_select_permissions.png" alt="" width="563"><figcaption></figcaption></figure>
 
