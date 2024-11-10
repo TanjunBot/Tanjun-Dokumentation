@@ -1,5 +1,6 @@
 ---
 hidden: true
+icon: book-section
 layout:
   title:
     visible: true
