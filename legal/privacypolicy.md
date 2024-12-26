@@ -15,6 +15,7 @@ layout:
     visible: false
 ---
 
+
 # Datenschutzerklärung für Tanjun
 
 Ihre Privatsphäre ist uns wichtig. Diese Datenschutzerklärung beschreibt umfassend, wie Tanjun ("der Bot") Ihre Informationen sammelt, verwendet, speichert und schützt. Durch die Nutzung von Tanjun stimmen Sie den Bestimmungen dieser Datenschutzerklärung zu. Wir sind verpflichtet, Ihre Daten mit der größtmöglichen Sorgfalt zu behandeln.
