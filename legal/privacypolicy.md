@@ -1,6 +1,6 @@
 ---
 hidden: true
-description: "Gültig ab: 26/12/2024"
+description: "Gültig ab: 26.12.2024"
 icon: file-shield
 layout:
   title:
