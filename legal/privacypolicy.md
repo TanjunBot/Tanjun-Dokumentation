@@ -5,8 +5,6 @@ icon: file-shield
 layout:
   title:
     visible: true
-  description:
-    visible: true
   tableOfContents:
     visible: true
   outline:
