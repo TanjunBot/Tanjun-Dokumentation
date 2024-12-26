@@ -20,4 +20,6 @@
 
 ***
 
-* [Rechtliches](legal.md)
+* [Rechtliches](legal/README.md)
+  * [Nutzungsbedingungen](legal/terms-of-service.md)
+  * [Datenschutzerklärung](legal/privacypolicy.md)
