@@ -10,6 +10,7 @@
   * [Channel-Befehle](docs/admin/channel.md)
   * [Rollen-Befehle](docs/admin/role.md)
   * [Weiteres](docs/admin/weiteres.md)
+* [Spiele](docs/games.md)
 * [Nachrichtenverfolgung deaktivieren](docs/opt-out.md)
 
 ## Changelog <a href="#c" id="c"></a>

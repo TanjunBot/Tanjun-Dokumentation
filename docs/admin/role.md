@@ -1,8 +1,8 @@
 ---
+icon: id-badge
 description: >-
   Hier geht es um die Commands /admin addrole, /admin removerole, /admin
   createrole und /admin deleterole.
-icon: id-badge
 ---
 
 # Rollen-Befehle
@@ -12,20 +12,20 @@ Man könnte sich ja fragen: Warum gibt es diese Commands in Tanjun? Das kann man
 Ja, das ist soweit richtig, allerdings ist dies besonders an Mobilgeräten häufig sehr umständlich und nervig. Diese Commands sind vorallem dafür gedacht, die Verwaltung des Servers in der mobilen App angenehmer und einfacher zu gestalten.
 {% endhint %}
 
-## `Addrole`-Befehl
+## `Rolle_hinzufügen`-Befehl
 
-Mit `/admin addrole <user> <role>` kann man einem Nutzer eine Rolle geben.
+Mit `/admin rolle rolle_hinzufügen <benutzer> <rolle>` kann man einem Nutzer eine Rolle geben.
 
-## `Removerole`-Befehl
+## `Rolle_entfernen`-Befehl
 
-Mit `/admin removerole <user> <role>` kann man einem Nutzer eine Rolle entziehen.
+Mit `/admin rolle rolle_entfernen <benutzer> <rolle>` kann man einem Nutzer eine Rolle entziehen.
 
-## `Createrole`-Befehl
+## Rolle\_erstellen-Befehl
 
 Mit
 
 ```
-/admin createrole <name> [color] [hoist] [mentionable] [reason] [display_icon] [display_emoji]
+/admin rolle rolle_erstellen <name> [farbe] [anzeige_icon] [getrennt_anzeigen] [erwähnbar] [grund] [anzeige_emoji]
 ```
 
 &#x20;kann man eine neue Rolle erstellen.
@@ -35,21 +35,21 @@ Mit
 <summary>Bedeutungen der einzelnen Parameter</summary>
 
 * Mit `name` gibt man den Namen der Rolle an.
-* Mit `color` kann man die Farbe der Rolle als [HEX-Code](https://htmlcolorcodes.com) angeben. (Beispiel: `#ECC3EF`)\
+* Mit `farbe` kann man die Farbe der Rolle als [HEX-Code](https://htmlcolorcodes.com) angeben. (Beispiel: `#ECC3EF`)\
   Wenn man keine Farbe angibt, hat die Rolle die Standardfarbe.
-* Mit `display_icon` kann man ein Bild hochladen, das als Rollenicon z.B. [neben dem Namen von Mitgliedern mit dieser Rolle](#user-content-fn-1)[^1] angezeigt wird.\
+* Mit `anzeige_icon` kann man ein Bild hochladen, das als Rollenicon z.B. [neben dem Namen von Mitgliedern mit dieser Rolle](#user-content-fn-1)[^1] angezeigt wird.\
   **Achtung:** Der Server muss Boost-Level 2 sein, um ein Rollenicon zu verwenden. Das Bild muss kleiner als 256 kB und mindestens 64x64 Pixel groß sein.
-* Mit `display_emoji` kann man ein Emoji auswählen, das als Rollenicon z.B. [nebem dem Namen von Mitgliedern mit dieser Rolle](#user-content-fn-2)[^2] angezeigt wird.\
+* Mit `anzeige_emoji` kann man ein Emoji auswählen, das als Rollenicon z.B. [nebem dem Namen von Mitgliedern mit dieser Rolle](#user-content-fn-2)[^2] angezeigt wird.\
   **Achtung:** Dieser Parameter kann [**nicht in Kombination**](#user-content-fn-3)[^3] mit `display_icon` angegeben werden.
-* Mit `hoist` kann man festlegen, ob Mitglieder mit dieser Rolle auf der rechten Seite gruppiert werden sollen.
-* Mit `mentionable` kann man festlegen, ob Mitglieder diese Rolle erwähnen dürfen oder nicht.
-* Mit `reason` kann man einen Text festlegen, der als [Begründung für das Erstellen der Rolle im Audit-Log](#user-content-fn-4)[^4] angezeigt wird.
+* Mit `getrennt_anzeigen` kann man festlegen, ob Mitglieder mit dieser Rolle auf der rechten Seite gruppiert werden sollen.
+* Mit `erwähnbar` kann man festlegen, ob Mitglieder diese Rolle erwähnen dürfen oder nicht.
+* Mit `grund` kann man einen Text festlegen, der als [Begründung für das Erstellen der Rolle im Audit-Log](#user-content-fn-4)[^4] angezeigt wird.
 
 </details>
 
-## `Deleterole`-Befehl
+## `Rolle_löschen`-Befehl
 
-Mit `/admin deleterole <role> [reason]` kann man eine Rolle löschen.
+Mit `/admin rolle rolle_löschen <rolle> [grund]` kann man eine Rolle löschen.
 
 <details>
 

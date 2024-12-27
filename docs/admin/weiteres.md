@@ -1,27 +1,27 @@
 ---
-description: Hier geht es um die Commands /admin say, /admin embed und /admin createemoji.
 icon: ellipsis
+description: Hier geht es um die Commands /admin say, /admin embed und /admin createemoji.
 ---
 
 # Weiteres
 
-## `Say`-Befehl
+## `Sagen`-Befehl
 
-Mit dem `/admin say <message> [channel]`-Befehl kann man Tanjun eine normale Textnachricht in einen bestimmten Kanal auf dem Server senden lassen.
+Mit dem `/admin sagen <nachricht> [kanal]`-Befehl kann man Tanjun eine normale Textnachricht in einen bestimmten Kanal auf dem Server senden lassen.
 
 ## `Embed`-Befehl
 
-Mit dem `/admin embed <title> [channel]`-Befehl kannst du ein Embed erstellen, das der Bot in einen bestimmten Kanal sendet.
+Mit dem `/admin embed <titel> [kanal]`-Befehl kannst du ein Embed erstellen, das der Bot in einen bestimmten Kanal sendet.
 
 Wenn du den Befehl ausführst, antwortet der Bot mit einer nur für dich sichtbaren Nachricht, in der du alle möglichen Einstellungen am Embed vornehmen kannst.
 
 Mit `Vorschau` kannst du dir anzeigen lassen, wie das erstellte Embed aussehen würde und mit `Senden` sendet der Bot das fertige Embed entweder in den aktuellen oder den vorher ausgewählten Kanal.
 
-## `Createemoji`-Befehl
+## `Emoji_erstellen`-Befehl
 
 Dieser Befehl soll die Verwaltung eines Discord-Servers besonders in der mobilen App erleichtern.
 
-Mit dem `/admin createemoji <name> <image_url>`-Befehl kannst du über den Bot ein Emoji zum Server hinzufügen.
+Mit dem `/admin emoji_erstellen <name> <bild_url>`-Befehl kannst du über den Bot ein Emoji zum Server hinzufügen.
 
 Mit `name` gibst du den Namen an, den das Emoji haben soll und bei `image_url` fügst du einen direkten Link zu einem Bild ein, das als Emoji auf dem Server hochgeladen werden soll.
 
