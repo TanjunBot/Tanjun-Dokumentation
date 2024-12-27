@@ -1,22 +1,21 @@
 ---
-hidden: true
-description: "Gültig ab: 26.12.2024"
 icon: file-shield
+description: 'Gültig ab: 26.12.2024'
+hidden: true
 layout:
   title:
     visible: true
   description:
     visible: true
   tableOfContents:
-    visible: true
+    visible: false
   outline:
     visible: true
   pagination:
     visible: false
 ---
 
-
-# Datenschutzerklärung für Tanjun
+# Datenschutzerklärung
 
 Ihre Privatsphäre ist uns wichtig. Diese Datenschutzerklärung beschreibt umfassend, wie Tanjun ("der Bot") Ihre Informationen sammelt, verwendet, speichert und schützt. Durch die Nutzung von Tanjun stimmen Sie den Bestimmungen dieser Datenschutzerklärung zu. Wir sind verpflichtet, Ihre Daten mit der größtmöglichen Sorgfalt zu behandeln.
 
@@ -24,27 +23,27 @@ Ihre Privatsphäre ist uns wichtig. Diese Datenschutzerklärung beschreibt umfas
 
 Tanjun sammelt nur die Informationen, die für die einzelnen Befehle und Funktionen unverzichtbar sind. Dazu gehören unter anderem:
 
-- **Vom Benutzer bereitgestellte Informationen:** Daten, die Sie direkt durch Interaktionen mit dem Bot bereitstellen, wie z. B. geplante Nachrichten, Gewinnspiele oder Tickets. Diese Informationen können auch Meta-Daten umfassen, wie etwa Zeitstempel und Kanalinformationen.
-- **Automatisch gesammelte Informationen:** Zur Gewährleistung bestimmter Funktionen, wie etwa der Nachrichtenanforderung bei Gewinnspielen, speichern wir lediglich, wie viele Nachrichten eine User-ID in bestimmten Kanälen gesendet hat. Der Inhalt der Nachrichten bleibt hierbei stets unberührt.
-- **Daten von Drittanbietern:** Einige Funktionen nutzen externe Dienste wie die Twitch-API. Dabei werden keine persönlichen Daten weitergegeben. An Drittanbieter könnten jedoch Nutzer-IDs, Nutzernamen und Profilbilder übermittelt werden.
+* **Vom Benutzer bereitgestellte Informationen:** Daten, die Sie direkt durch Interaktionen mit dem Bot bereitstellen, wie z. B. geplante Nachrichten, Gewinnspiele oder Tickets. Diese Informationen können auch Meta-Daten umfassen, wie etwa Zeitstempel und Kanalinformationen.
+* **Automatisch gesammelte Informationen:** Zur Gewährleistung bestimmter Funktionen, wie etwa der Nachrichtenanforderung bei Gewinnspielen, speichern wir lediglich, wie viele Nachrichten eine User-ID in bestimmten Kanälen gesendet hat. Der Inhalt der Nachrichten bleibt hierbei stets unberührt.
+* **Daten von Drittanbietern:** Einige Funktionen nutzen externe Dienste wie die Twitch-API. Dabei werden keine persönlichen Daten weitergegeben. An Drittanbieter könnten jedoch Nutzer-IDs, Nutzernamen und Profilbilder übermittelt werden.
 
 ## 2. Wie wir Ihre Informationen verwenden
 
 Die gesammelten Informationen können für folgende Zwecke genutzt werden:
 
-- Bereitstellung und Verbesserung der Funktionalität des Bots, einschließlich der Anpassung von Antworten an individuelle Benutzeranforderungen.
-- Verbesserung der Benutzererfahrung durch automatisierte Prozesse, die persönlichere Interaktionen ermöglichen.
-- Diagnose und Behebung technischer Probleme, um eine unterbrechungsfreie Nutzung des Bots sicherzustellen.
-- Analyse von Nutzungstrends zur Weiterentwicklung von Funktionen. Diese Analysen erfolgen stets auf einer anonymisierten Basis, um Ihre Privatsphäre zu schützen.
-- Kommunikation mit Nutzern über wichtige Änderungen, Updates oder relevante Benachrichtigungen zum Bot.
+* Bereitstellung und Verbesserung der Funktionalität des Bots, einschließlich der Anpassung von Antworten an individuelle Benutzeranforderungen.
+* Verbesserung der Benutzererfahrung durch automatisierte Prozesse, die persönlichere Interaktionen ermöglichen.
+* Diagnose und Behebung technischer Probleme, um eine unterbrechungsfreie Nutzung des Bots sicherzustellen.
+* Analyse von Nutzungstrends zur Weiterentwicklung von Funktionen. Diese Analysen erfolgen stets auf einer anonymisierten Basis, um Ihre Privatsphäre zu schützen.
+* Kommunikation mit Nutzern über wichtige Änderungen, Updates oder relevante Benachrichtigungen zum Bot.
 
 ## 3. Datenweitergabe und Offenlegung
 
 Wir verkaufen, tauschen oder vermieten Ihre persönlichen Informationen nicht. Daten werden nur in den folgenden Fällen weitergegeben:
 
-- **Zur Einhaltung gesetzlicher Verpflichtungen:** Wenn dies gesetzlich vorgeschrieben ist, auf gerichtliche Anordnung hin oder zur Wahrung unserer rechtlichen Ansprüche.
-- **Dienstanbieter:** Mit vertrauenswürdigen Drittanbietern, die den Betrieb des Bots unterstützen, wie z. B. Hosting-Dienste oder Datenanalyseanbieter. Diese Partner sind vertraglich verpflichtet, Ihre Daten sicher und vertraulich zu behandeln.
-- **Mit Ihrer ausdrücklichen Zustimmung:** In seltenen Fällen können wir Daten weitergeben, wenn Sie dem explizit zustimmen, z. B. für spezielle Kooperationen oder erweiterte Funktionen.
+* **Zur Einhaltung gesetzlicher Verpflichtungen:** Wenn dies gesetzlich vorgeschrieben ist, auf gerichtliche Anordnung hin oder zur Wahrung unserer rechtlichen Ansprüche.
+* **Dienstanbieter:** Mit vertrauenswürdigen Drittanbietern, die den Betrieb des Bots unterstützen, wie z. B. Hosting-Dienste oder Datenanalyseanbieter. Diese Partner sind vertraglich verpflichtet, Ihre Daten sicher und vertraulich zu behandeln.
+* **Mit Ihrer ausdrücklichen Zustimmung:** In seltenen Fällen können wir Daten weitergeben, wenn Sie dem explizit zustimmen, z. B. für spezielle Kooperationen oder erweiterte Funktionen.
 
 ## 4. Aufbewahrung von Daten
 
@@ -58,10 +57,10 @@ Wir setzen branchenübliche Sicherheitsmaßnahmen ein, um Ihre Informationen vor
 
 Sie haben das Recht:
 
-- **Zugriff auf Ihre Daten:** Sie können eine Kopie der Informationen anfordern, die wir über Sie gespeichert haben.
-- **Berichtigung:** Fordern Sie die Aktualisierung oder Korrektur ungenauer oder unvollständiger Informationen an.
-- **Löschung:** Beantragen Sie die Entfernung Ihrer Daten, sofern keine gesetzlichen oder vertraglichen Verpflichtungen dagegensprechen.
-- **Einschränkung der Verarbeitung:** Sie können verlangen, dass wir die Nutzung Ihrer Daten unter bestimmten Umständen einschränken.
+* **Zugriff auf Ihre Daten:** Sie können eine Kopie der Informationen anfordern, die wir über Sie gespeichert haben.
+* **Berichtigung:** Fordern Sie die Aktualisierung oder Korrektur ungenauer oder unvollständiger Informationen an.
+* **Löschung:** Beantragen Sie die Entfernung Ihrer Daten, sofern keine gesetzlichen oder vertraglichen Verpflichtungen dagegensprechen.
+* **Einschränkung der Verarbeitung:** Sie können verlangen, dass wir die Nutzung Ihrer Daten unter bestimmten Umständen einschränken.
 
 Um diese Rechte auszuüben, kontaktieren Sie uns per Discord-Direktnachricht unter dem Namen @entcheneric. Wir bemühen uns, alle Anfragen innerhalb von 30 Tagen zu bearbeiten.
 
