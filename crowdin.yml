@@ -1,0 +1,9 @@
+files:
+  - source: '*'
+    ignore:
+      - .gitbook/
+      - .github/
+      - .gitignore
+      - CODE_OF_CONDUCT.md
+      - LICENSE
+    translation: '%original_path%/%original_file_name%'
