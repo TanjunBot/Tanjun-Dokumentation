@@ -7,6 +7,7 @@
 
 * [Allgemeine Tipps](docs/index.md)
 * [Admin-Commands](docs/admin/README.md)
+  * [Moderator-Befehle](docs/admin/moderation.md)
   * [Channel-Befehle](docs/admin/channel.md)
   * [Rollen-Befehle](docs/admin/role.md)
   * [Weiteres](docs/admin/weiteres.md)
