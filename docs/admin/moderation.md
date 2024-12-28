@@ -2,7 +2,7 @@
 icon: screwdriver-wrench
 description: >-
   Hier geht es um die Commands /admin kick, /admin ban, /admin unban, /admin
-  timeout und /admin timeout_aufheben.
+  timeout, /admin timeout_aufheben und das Warn-System.
 ---
 
 # Moderator-Befehle
