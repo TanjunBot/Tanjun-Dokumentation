@@ -3,21 +3,21 @@
 * [Übersicht](README.md)
 * [Erste Schritte](start.md)
 
-## Commands
+## Commands <a href="#docs" id="docs"></a>
 
-* [Allgemeine Tipps](commands/index.md)
-* [Admin-Commands](commands/admin/README.md)
-  * [Channel-Befehle](commands/admin/channel.md)
-  * [Rollen-Befehle](commands/admin/role.md)
-  * [Weiteres](commands/admin/weiteres.md)
-* [Spiele](commands/games.md)
-* [Nachrichtenverfolgung deaktivieren](commands/opt-out.md)
+* [Allgemeine Tipps](docs/index.md)
+* [Admin-Commands](docs/admin/README.md)
+  * [Channel-Befehle](docs/admin/channel.md)
+  * [Rollen-Befehle](docs/admin/role.md)
+  * [Weiteres](docs/admin/weiteres.md)
+* [Spiele](docs/games.md)
+* [Nachrichtenverfolgung deaktivieren](docs/opt-out.md)
 
-## Changelog
+## Changelog <a href="#c" id="c"></a>
 
-* [v0.4.0](changelog/v0.4.0.md)
-* [v0.3.0](changelog/v0.3.0.md)
-* [v0.1.0](changelog/v0.1.0.md)
+* [v0.4.0](c/v0.4.0.md)
+* [v0.3.0](c/v0.3.0.md)
+* [v0.1.0](c/v0.1.0.md)
 
 ***
 

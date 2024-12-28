@@ -1,8 +1,8 @@
 ---
-icon: id-badge
 description: >-
   Hier geht es um die Commands /admin addrole, /admin removerole, /admin
   createrole und /admin deleterole.
+icon: id-badge
 ---
 
 # Rollen-Befehle

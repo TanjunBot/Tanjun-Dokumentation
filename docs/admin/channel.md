@@ -1,8 +1,8 @@
 ---
-icon: align-left
 description: >-
   Hier geht es um die Commands /admin purge, /admin nuke, /admin slowmode,
   /admin lock und /admin unlock.
+icon: align-left
 ---
 
 # Channel-Befehle

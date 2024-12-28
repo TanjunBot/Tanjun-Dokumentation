@@ -25,11 +25,7 @@ Es wird dir eine Nachricht angezeigt, unter der du in einem Menü aus verschiede
 
 Wenn du eine Kategorie auswählst, werden dir alle Commands dieser Kategorie plus einer Beschreibung angezeigt.
 
-<div data-full-width="false">
-
-<figure><img src="https://img.arion2000.xyz/r/fa0Ika996S.png" alt="Screenshot der Nachricht, die angezeigt wird, wenn man beim Hilfe-Command eine Kategorie auswählt (in diesem Beispiel wurde die Kategorie &#x22;utility&#x22; verwendet)."><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="false"><figure><img src="https://img.arion2000.xyz/r/fa0Ika996S.png" alt="Screenshot der Nachricht, die angezeigt wird, wenn man beim Hilfe-Command eine Kategorie auswählt (in diesem Beispiel wurde die Kategorie &#x22;utility&#x22; verwendet)."><figcaption></figcaption></figure></div>
 
 ***
 

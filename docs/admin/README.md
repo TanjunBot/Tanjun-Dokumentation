@@ -1,6 +1,6 @@
 ---
-icon: bars-progress
 description: Hier findest du eine Übersicht über die Admin-Commands in Tanjun.
+icon: bars-progress
 layout:
   title:
     visible: true

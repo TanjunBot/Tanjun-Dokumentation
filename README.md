@@ -1,6 +1,6 @@
 ---
-description: Dies ist die offizielle Dokumentation des Discord Bots Tanjun.
 icon: house
+description: Dies ist die offizielle Dokumentation des Discord Bots Tanjun.
 cover: .gitbook/assets/page-cover.png
 coverY: 0
 layout:
@@ -44,8 +44,8 @@ Arbeitest du das erste Mal mit Tanjun und möchtest etwas über grundlegende Ein
 
 Es gibt einige Tipps & Tricks, die du kennen solltest, wenn du Tanjun verwendest. Hier findest du einige Beispiele:
 
-{% content-ref url="commands/index.md" %}
-[index.md](commands/index.md)
+{% content-ref url="docs/index.md" %}
+[index.md](docs/index.md)
 {% endcontent-ref %}
 
 ## Changelog <a href="#a4" id="a4"></a>
