@@ -20,7 +20,7 @@ Mit `/admin rolle rolle_hinzufügen <benutzer> <rolle>` kann man einem Nutzer ei
 
 Mit `/admin rolle rolle_entfernen <benutzer> <rolle>` kann man einem Nutzer eine Rolle entziehen.
 
-## Rolle\_erstellen-Befehl
+## `Rolle_erstellen`-Befehl
 
 Mit
 
