@@ -1,5 +1,5 @@
 ---
-description: "Gültig ab: 26.12.2024"
+description: "Effective Date: 26/12/2024"
 hidden: true
 icon: section
 layout:
@@ -15,30 +15,30 @@ layout:
     visible: false
 ---
 
-# Nutzungsbedingungen
+# Terms of Service
 
-Willkommen bei Tanjun ("der Bot"). Durch den Zugriff auf oder die Nutzung von Tanjun erklären Sie sich mit den folgenden Nutzungsbedingungen ("Bedingungen") einverstanden. Wenn Sie diesen Bedingungen nicht zustimmen, dürfen Sie den Bot nicht nutzen. Bitte lesen Sie die Bedingungen sorgfältig durch.
+Welcome to Tanjun ("the bot"). By accessing or using Tanjun, you agree to comply with and be bound by the following Terms of Service ("Terms"). If you do not agree to these Terms, you may not use the bot. Please read them carefully.
 
-## 1. Nutzungsbedingungen
+## 1. Usage Terms
 
-- **Zugangsvoraussetzungen:** Sie müssen mindestens 13 Jahre alt sein, um Tanjun zu nutzen. Wenn Sie unter 18 Jahre alt sind, dürfen Sie den Bot nur unter der Aufsicht eines Elternteils oder Erziehungsberechtigten verwenden.
-- **Einhaltung von Gesetzen:** Sie stimmen zu, Tanjun in Übereinstimmung mit allen geltenden Gesetzen, Vorschriften und den Nutzungsbedingungen von Discord zu verwenden.
-- **Verbotene Aktivitäten:** Es ist Ihnen untersagt:
-  - Tanjun für illegale, schädliche oder missbräuchliche Zwecke zu nutzen.
-  - Schwachstellen im System von Tanjun auszunutzen.
-  - Malware, Spam oder unerwünschte Inhalte über den Bot zu verbreiten.
-  - Ihre Identität falsch darzustellen oder andere während der Nutzung des Bots zu imitieren.
-- **Befehlsausführung:** Sie sind für die von Ihnen ausgeführten Befehle und deren Konsequenzen verantwortlich. Stellen Sie sicher, dass Ihre Aktionen die Regeln des Servers, auf dem Tanjun betrieben wird, respektieren.
+- **Eligibility:** You must be at least 13 years old to use Tanjun. If you are under 18, you may only use the bot under the supervision of a parent or guardian.
+- **Compliance with Laws:** You agree to use Tanjun in compliance with all applicable laws, regulations, and Discord’s Terms of Service.
+- **Prohibited Activities:** You may not:
+  - Use Tanjun for illegal, harmful, or abusive purposes.
+  - Exploit vulnerabilities in Tanjun’s system.
+  - Distribute malware, spam, or unsolicited content through the bot.
+  - Misrepresent your identity or impersonate others while using the bot.
+- **Command Execution:** You are responsible for the commands you issue and their consequences. Ensure that your actions respect the rules of the server in which Tanjun operates.
 
-## 2. Funktionen und Einschränkungen
+## 2. Features and Limitations
 
-- **Funktionsumfang:** Tanjun bietet Funktionen wie Giveaways, Nachrichtentracking und Ticketverwaltung. Die Funktionen des Bots können sich im Laufe der Zeit ändern.
-- **Verfügbarkeit des Dienstes:** Obwohl wir uns bemühen, die Betriebszeit zu gewährleisten, wird Tanjun "wie besehen" bereitgestellt, ohne Garantie auf unterbrechungsfreien Betrieb. Ausfälle, Wartungen oder Updates können den Zugriff vorübergehend einschränken.
-- **Änderung von Funktionen:** Wir behalten uns das Recht vor, Funktionen jederzeit ohne vorherige Ankündigung hinzuzufügen, zu ändern oder zu entfernen.
+- **Functional Scope:** Tanjun provides features such as giveaways, message tracking, and ticket handling. The bot’s functionalities may evolve over time.
+- **Service Availability:** While we strive to maintain uptime, Tanjun is provided "as is" without guarantees of uninterrupted service. Outages, maintenance, or updates may temporarily limit access.
+- **Modification of Features:** We reserve the right to add, modify, or remove features at any time without prior notice.
 
-## 3. Benutzerdaten
+## 3. User Data
 
-- **Datenerhebung:** Tanjun erhebt und verarbeitet Daten gemäß unserer Datenschutzrichtlinie. Durch die Nutzung von Tanjun stimmen Sie dieser Datenerhebung und -nutzung zu.
+- **Data Collection:** Tanjun collects and processes data as outlined in our Privacy Policy. Durch die Nutzung von Tanjun stimmen Sie dieser Datenerhebung und -nutzung zu.
 - **Datenverantwortung:** Sie sind dafür verantwortlich, dass die von Ihnen in Tanjun eingegebenen Daten keine Datenschutzrechte oder Urheberrechte verletzen.
 - **Integrationen von Drittanbietern:** Einige Funktionen können APIs von Drittanbietern (z. B. Twitch) nutzen. Diese Integrationen unterliegen den Bedingungen und Datenschutzrichtlinien der jeweiligen Anbieter.
 
