@@ -17,11 +17,7 @@ Um Tanjun auf einen Server einzuladen, musst du auf dem Server die `Server verwa
 
 Du kannst [diesen Link](https://go.tanjun.bot/invite) verwenden, um Tanjun einzuladen. Dir wird eine Seite von Discord angezeigt, auf der zu auswählen kannst, zu welchem Server du den Bot hinzufügen möchtest.
 
-<div data-full-width="false">
-
-<figure><img src=".gitbook/assets/invite_bot_select_server.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="false"><figure><img src=".gitbook/assets/invite_bot_select_server.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Klicke anschließend auf "Weiter". Auf der nächsten Seite siehst du eine Übersicht über die Berechtigungen, die der Tanjun auf dem Server benötigt, um vollständig zu funktionieren.
 

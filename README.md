@@ -29,7 +29,7 @@ Hier erfährst du alles über die Commands und Funktionen im Discord Bot Tanjun.
 Tanjun wird aktuell (mal wieder) komplett neugeschrieben. Bis Version 1.0.0 erreicht ist, sind die neuen Änderungen noch nicht öffentlich, wir teilen aber alle Neuerungen und Updates mit euch.\
 Wir werden nun auch diese Dokumentation komplett neu schreiben (die ja leider nie wirklich fertig geworden ist).\
 \
-Behalte den [Changelog](broken-reference/) im Blick oder [trete unserem Discordserver bei](https://go.tanjun.bot/discord), um auf dem Laufenden zu bleiben!
+Behalte den [Changelog](broken-reference) im Blick oder [trete unserem Discordserver bei](https://go.tanjun.bot/discord), um auf dem Laufenden zu bleiben!
 {% endhint %}
 
 ## Erste Schritte <a href="#a2" id="a2"></a>
@@ -44,8 +44,8 @@ Arbeitest du das erste Mal mit Tanjun und möchtest etwas über grundlegende Ein
 
 Es gibt einige Tipps & Tricks, die du kennen solltest, wenn du Tanjun verwendest. Hier findest du einige Beispiele:
 
-{% content-ref url="docs/index.md" %}
-[index.md](docs/index.md)
+{% content-ref url="commands/index.md" %}
+[index.md](commands/index.md)
 {% endcontent-ref %}
 
 ## Changelog <a href="#a4" id="a4"></a>

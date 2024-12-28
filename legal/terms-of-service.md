@@ -1,7 +1,7 @@
 ---
-icon: section
 description: 'Gültig ab: 26.12.2024'
 hidden: true
+icon: section
 layout:
   title:
     visible: true

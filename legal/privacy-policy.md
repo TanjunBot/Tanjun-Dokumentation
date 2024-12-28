@@ -1,7 +1,7 @@
 ---
-icon: file-shield
 description: 'Gültig ab: 26.12.2024'
 hidden: true
+icon: file-shield
 layout:
   title:
     visible: true
