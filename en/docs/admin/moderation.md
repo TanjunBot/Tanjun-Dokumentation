@@ -1,23 +1,23 @@
 ---
 icon: screwdriver-wrench
-description: Hier geht es um die Commands /admin kick, /admin ban, /admin unban, /admin timeout, /admin timeout_aufheben und das Warn-System.
+description: This is about the commands /admin kick, /admin ban, /admin unban, /admin timeout, /admin timeout_override and the warning system.
 ---
 
-# Moderator-Befehle
+# Moderator commands
 
-## Grundfunktionen
+## Basic features
 
-Tanjun kann die grundlegenden Moderationsbefehle ausführen. Dazu gehören:
+Tanjun can execute the basic moderation commands. These include:
 
-- `/admin kick <nutzer> [grund]`
-- `/admin ban <nutzer> [grund]`
-- `/admin unban <nutzer> [grund]`
-- `/admin timeout <mitglied> <länge (in Minuten)> [grund]`
-- `/admin timeout_aufheben <mitglied> [grund]`
+- `/admin kick <nutzer> [reason]`
+- `/admin ban <nutzer> [reason]`
+- `/admin unban <nutzer> [reason]`
+- `/admin timeout <mitglied> <länge (in Minuten)> [reason]`
+- `/admin remove_timeout <mitglied> [reason]`
 
-## Warn-System <a href="#warn" id="warn"></a>
+## Warning system <a href="#warn" id="warn"></a>
 
-Das Warn-System in Tanjun kann dazu verwendet werden, andere Mitglieder zu verwarnen, wenn sie gegen die Regeln verstoßen haben.
+The warning system in Tanjun can be used to warn other members if they have broken the rules.
 
 ### `Config`-Befehl
 
