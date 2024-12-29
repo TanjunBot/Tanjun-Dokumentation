@@ -1,7 +1,6 @@
 files:
   - source: '*'
     ignore:
-      - .gitbook/
       - .github/
       - .gitignore
       - CODE_OF_CONDUCT.md
