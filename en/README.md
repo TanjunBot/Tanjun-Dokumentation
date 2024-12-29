@@ -1,7 +1,7 @@
 ---
-description: Dies ist die offizielle Dokumentation des Discord Bots Tanjun.
 icon: house
-cover: .gitbook/assets/page-cover.png
+description: Dies ist die offizielle Dokumentation des Discord Bots Tanjun.
+cover: ../.gitbook/assets/page-cover.png
 coverY: 0
 layout:
   cover:
@@ -74,7 +74,7 @@ Wir würden uns freuen, wenn du uns beim Aufbauen dieser Dokumentation unterstü
 
 Wenn wir Commands angeben, dann sind oft Elemente enthalten, die du durch etwas ersetzen musst. Wir geben diese Fälle wie folgt an:
 
-<pre><code><strong>/commandname <Erforderliches Argument> [Optionales Argument]
+<pre><code><strong>/commandname  [Optionales Argument]
 </strong></code></pre>
 
 Die `<`, `>`, `[` und `]` Zeichen weisen wie im Beispiel auf erforderliche und optionale Argumente hin, die du an dieser Stelle selbst einsetzen musst.
