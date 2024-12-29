@@ -6,5 +6,5 @@ files:
       - .gitignore
       - CODE_OF_CONDUCT.md
       - LICENSE
-      - translations/
+      - '%two_letters_code%/'
     translation: '%original_path%/%original_file_name%'
