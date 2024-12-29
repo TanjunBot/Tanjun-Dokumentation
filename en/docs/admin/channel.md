@@ -1,13 +1,13 @@
 ---
 icon: align-left
-description: This is about the commands /admin purge, /admin nuke, /admin slowmode, /admin lock and /admin unlock.
+description: On this page you'll learn about the commands /admin purge, /admin nuke, /admin slowmode, /admin lock and /admin unlock.
 ---
 
 # Channel commands
 
 ## `Purge` command
 
-With the `/admin delete <limit> [channel] [setting]` command, you can delete a certain number of messages at once from the channel in which you are executing the command.
+With the `/admin purge <limit> [channel] [setting]` command, you can delete a certain number of messages at once from a channel.
 
 You can use the `setting` argument to filter more precisely which messages are to be deleted.
 
@@ -31,7 +31,7 @@ With the command `/admin slowmode <seconds> [channel]` you can set the slow mode
 
 This command is particularly useful if you want to set the slow mode to a number that cannot be selected by default in the channel settings.
 
-With `/admin slowmode 0 [channel]` you can deactivate the slow mode in a channel again.
+With `/admin slowmode 0 [channel]` you can deactivate the slow mode in a channel.
 
 ## 'Lock' and 'Unlock' commands
 

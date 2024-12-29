@@ -25,7 +25,7 @@ Mit dem `theme`-Argument kannst du eine Kategorie für deine Figur festlegen, um
 
 ## Wordle
 
-Mit dem `/spiele wordle [sprache]`-Befehl kannst du in einem Wordle-Spiel deine Sprachkenntnisse auf die Probe stellen! Tanjun wird ein [zufälliges Wort](#user-content-fn-1)[^1] aussuchen und du musst versuchen, es in 5 Versuchen zu erraten.\\&#x20
+Mit dem `/spiele wordle [sprache]`-Befehl kannst du in einem Wordle-Spiel deine Sprachkenntnisse auf die Probe stellen! Tanjun wird ein [zufälliges Wort](#user-content-fn-1)[^1] aussuchen und du musst versuchen, es in 5 Versuchen zu erraten.\\\&#x20
 
 - Ein **grauer Buchstabe** ist nicht im gesuchten Wort enthalten
 - Ein **gelber Buchstabe** ist enthalten, aber aktuell noch an der falschen Position
