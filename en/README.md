@@ -1,6 +1,6 @@
 ---
-description: Dies ist die offizielle Dokumentation des Discord Bots Tanjun.
 icon: house
+description: Dies ist die offizielle Dokumentation des Discord Bots Tanjun.
 cover: ../.gitbook/assets/page-cover.png
 coverY: 0
 layout:
@@ -52,11 +52,7 @@ Es gibt einige Tipps & Tricks, die du kennen solltest, wenn du Tanjun verwendest
 
 Du hast die Möglichkeit, sowohl auf unserem [Discord Server im #┾🦆┋tanjun-changelog Kanal](https://discord.com/channels/831161440705839124/1098902476708642816), als auch auf dieser Webseite den Changelog zu sehen.
 
-Der Changelog enthält immer die neuesten Änderungen und Updates. Den Changelog findest du hier:
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+Der Changelog enthält immer die neuesten Änderungen und Updates.
 
 ***
 
