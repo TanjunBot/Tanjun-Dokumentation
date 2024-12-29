@@ -30,7 +30,7 @@ Klicke anschließend auf "Weiter". Auf der nächsten Seite siehst du eine Übers
 Klicke anschließend auf "Autorisieren".\
 **Herzlichen Glückwunsch!** **Der Bot sollte sich nun auf deinem Server befinden.** :tada:
 
-## Traditionelle Befehle & Slash-Commands
+## Traditional commands & slash commands
 
 Tanjun unterstützt sowohl traditionelle Befehle mit einem Präfix als auch Slash-Commands.\
 Das Standard-Präfix für Tanjun ist `t.`.\
