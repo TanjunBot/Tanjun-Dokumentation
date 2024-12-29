@@ -29,12 +29,6 @@
   - [Wortkette](docs/minigames/wortkette.md)
 - [Nachrichtenverfolgung deaktivieren](docs/opt-out.md)
 
-## Changelog <a href="#c" id="c"></a>
-
-- [v0.4.0](c/v0.4.0.md)
-- [v0.3.0](c/v0.3.0.md)
-- [v0.1.0](c/v0.1.0.md)
-
 ***
 
 - [Rechtliches](legal/README.md)
