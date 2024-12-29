@@ -3,7 +3,7 @@
 - [Übersicht](README.md)
 - [Erste Schritte](start.md)
 
-## Commands <a href="#docs" id="docs"></a>
+## Funktionen <a href="#docs" id="docs"></a>
 
 - [Allgemeine Tipps](docs/index.md)
 - [Admin-Commands](docs/admin/README.md)
@@ -11,14 +11,23 @@
   - [Channel-Befehle](docs/admin/channel.md)
   - [Rollen-Befehle](docs/admin/role.md)
   - [Weiteres](docs/admin/weiteres.md)
-- [Spiele](docs/games.md)
+- [Minigames](docs/minigames/README.md)
+  - [Arcade & klassische Spiele](docs/minigames/games.md)
+  - [Counting](docs/minigames/counting/README.md)
+    - [Positive Zahlen](docs/minigames/counting/1.md)
+    - [Negative Zahlen](docs/minigames/counting/2.md)
+    - [Gerade Zahlen](docs/minigames/counting/3.md)
+    - [Ungerade Zahlen](docs/minigames/counting/4.md)
+    - [Von 100 zur 0](docs/minigames/counting/5.md)
+    - [Hunderter-Schritte](docs/minigames/counting/6.md)
+    - [Quadratzahlen](docs/minigames/counting/7.md)
+    - [Kubikzahlen](docs/minigames/counting/8.md)
+    - [Primzahlen](docs/minigames/counting/9.md)
+    - [Fibonacci-Folge](docs/minigames/counting/10.md)
+    - [Binärzahlen](docs/minigames/counting/11.md)
+    - [Römische Zahlen](docs/minigames/counting/12.md)
+  - [Wortkette](docs/minigames/wortkette.md)
 - [Nachrichtenverfolgung deaktivieren](docs/opt-out.md)
-
-## Changelog <a href="#c" id="c"></a>
-
-- [v0.4.0](c/v0.4.0.md)
-- [v0.3.0](c/v0.3.0.md)
-- [v0.1.0](c/v0.1.0.md)
 
 ***
 

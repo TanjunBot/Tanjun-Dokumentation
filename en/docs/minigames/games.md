@@ -1,9 +1,9 @@
 ---
-description: Mit Tanjun kannst du einige Spiele spielen.
 icon: joystick
+description: Hier geht es um die Spiele Tic-Tac-Toe, Vier gewinnt, Akinator, Worlde, Galgenmännchen, Flaggenquiz und Schere-Stein-Papier.
 ---
 
-# Spiele
+# Arcade & klassische Spiele
 
 ## Tic-Tac-Toe
 

@@ -1,42 +1,42 @@
 ---
 icon: align-left
-description: Hier geht es um die Commands /admin purge, /admin nuke, /admin slowmode, /admin lock und /admin unlock.
+description: This is about the commands /admin purge, /admin nuke, /admin slowmode, /admin lock and /admin unlock.
 ---
 
-# Channel-Befehle
+# Channel commands
 
-## `Löschen`-Befehl
+## `Purge` command
 
-Mit dem `/admin löschen <limit> [kanal] [einstellung]`-Befehl kann man eine bestimmte Anzahl an Nachrichten aus dem Kanal, in dem du den Command ausführst, auf einmal löschen.
+With the `/admin delete <limit> [channel] [setting]` command, you can delete a certain number of messages at once from the channel in which you are executing the command.
 
-Mit dem `einstellung`-Argument kannst du genauer filtern, welche Nachrichten gelöscht werden sollen.
+You can use the `setting` argument to filter more precisely which messages are to be deleted.
 
 {% hint style="info" %}
-Nachrichten, die älter als 2 Wochen sind, können mit diesem Command in der Regel nicht mehr gelöscht werden.
+Messages that are older than 2 weeks can usually no longer be deleted with this command.
 {% endhint %}
 
-## `Nuke`-Befehl
+## `Nuke` command
 
-Falls die Menge an Nachrichten, die man mit dem `/admin löschen`-Befehl löschen kann, nicht ausreicht, kann man mit diesem Command **alle Nachrichten** aus einem Kanal löschen.
+If the amount of messages that can be deleted with the `/admin purge` command is not sufficient, you can use this command to delete **all messages** from a channel.
 
-Dies funktioniert, indem der Bot eine exakte Kopie des Kanals anfertigt und den originalen Kanal löscht.
+This works by the bot making an exact copy of the channel and deleting the original channel.
 
 {% hint style="success" %}
-Damit man diesen Befehl nicht versehentlich ausführt, muss man, nachdem man den Befehl gesendet hat, NUKE[^1] in den Kanal schreiben, bevor diese Aktion ausgeführt wird.
+To prevent this command from being executed by mistake, you must write NUKE[^1] in the channel after sending the command before this action is executed.
 {% endhint %}
 
-## `Slowmodus`-Befehl
+## `Slowmode` command
 
-Mit dem Befehl `/admin slowmodus <sekunden> [kanal]` kann man den Slow-Modus in einem Kanal auf eine beliebige Anzahl an Sekunden einstellen.
+With the command `/admin slowmode <seconds> [channel]` you can set the slow mode in a channel to any number of seconds.
 
-Dieser Command ist besonders praktisch, wenn du den Slow-Modus auf eine Zahl setzen möchtest, die man standardmäßig in den Kanaleinstellungen nicht auswählen kann.
+This command is particularly useful if you want to set the slow mode to a number that cannot be selected by default in the channel settings.
 
-Mit `/admin slowmodus 0 [kanal]` kannst du den Slow-Modus in einem Kanal wieder deaktivieren.
+With `/admin slowmode 0 [channel]` you can deactivate the slow mode in a channel again.
 
-## `Sperren`- und Entsperren-Befehle
+## 'Lock' and 'Unlock' commands
 
-Mit diesen beiden Befehlen kann man Mitglieder entweder daran hindern, in einem Kanal Nachrichten zu schreiben oder das Schreiben von Nachrichten wieder erlauben.
+With these two commands, you can either prevent members from writing messages in a channel or allow them to write messages again.
 
-Wenn der `/admin sperren`-Befehl ausgeführt wird, wird von @everyone und allen zusätzlichen Rollen und Mitgliedern die `Nachrichten senden`-Berechtigung auf ❌ gesetzt. So kann niemand (außer Administratoren) mehr in dem Kanal schreiben. Durch den `/admin entsperren`-Befehl wird der Zustand vor dem Sperren wiederhergestellt (wer vor dem Sperren nicht schreiben durfte, darf es danach auch nicht).
+When the `/admin lock` command is executed, @everyone and all additional roles and members will have their `send messages` permission set to ❌. This means that nobody (except administrators) can write in the channel. The `/admin unlock` command restores the status before the lock (anyone who was not allowed to write before the lock is not allowed to write afterwards either).
 
-[^1]: Muss exakt so geschrieben werden, komplett in Großbuchstaben!
+[^1]: Must be written exactly like this, completely in capital letters!
