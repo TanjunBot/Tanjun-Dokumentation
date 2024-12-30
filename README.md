@@ -73,6 +73,6 @@ Wenn wir Commands angeben, dann sind oft Elemente enthalten, die du durch etwas 
 <pre><code><strong>/commandname &#x3C;Erforderliches Argument> [Optionales Argument]
 </strong></code></pre>
 
-Die `<`, `>`, `[` und `]` Zeichen weisen wie im Beispiel auf erforderliche und optionale Argumente hin, die du an dieser Stelle selbst einsetzen musst.
+Die Zeichen `<`, `>`, `[` und `]` weisen wie im Beispiel auf erforderliche und optionale Argumente hin, die du an dieser Stelle selbst einsetzen musst.
 
 </details>
