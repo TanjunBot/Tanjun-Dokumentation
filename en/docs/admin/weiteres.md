@@ -3,40 +3,40 @@ icon: ellipsis
 description: Hier geht es um die Commands /admin say, /admin embed und /admin createemoji.
 ---
 
-# Weiteres
+# More
 
-## `Sagen`-Befehl
+## `Say` command
 
-Mit dem `/admin sagen <nachricht> [kanal]`-Befehl kann man Tanjun eine normale Textnachricht in einen bestimmten Kanal auf dem Server senden lassen.
+With the `/admin say <message> [channel]` command, you can have Tanjun send a normal text message to a specific channel on the server.
 
-## `Embed`-Befehl
+## `Embed` command
 
-Mit dem `/admin embed <titel> [kanal]`-Befehl kannst du ein Embed erstellen, das der Bot in einen bestimmten Kanal sendet.
+With the `/admin embed <message> [channel]` command, you can create an embed that the bot sends to a specific channel.
 
-Wenn du den Befehl ausführst, antwortet der Bot mit einer nur für dich sichtbaren Nachricht, in der du alle möglichen Einstellungen am Embed vornehmen kannst.
+When you execute the command, the bot responds with a message that is only visible to you, in which you can make all possible settings for the embed.
 
-Mit `Vorschau` kannst du dir anzeigen lassen, wie das erstellte Embed aussehen würde und mit `Senden` sendet der Bot das fertige Embed entweder in den aktuellen oder den vorher ausgewählten Kanal.
+With `Preview` you can see what the created embed would look like and with `Send` the bot sends the finished embed either to the current or the previously selected channel.
 
-## `Emoji_erstellen`-Befehl
+## `Create_emoji` command
 
-Dieser Befehl soll die Verwaltung eines Discord-Servers besonders in der mobilen App erleichtern.
+This command is intended to make it easier to manage a Discord server, especially in the mobile app.
 
-Mit dem `/admin emoji_erstellen <name> <bild_url>`-Befehl kannst du über den Bot ein Emoji zum Server hinzufügen.
+With the `/admin create_emoji <name> <image_url>` command, you can add an emoji to the server via the bot.
 
-Mit `name` gibst du den Namen an, den das Emoji haben soll und bei `image_url` fügst du einen direkten Link zu einem Bild ein, das als Emoji auf dem Server hochgeladen werden soll.
+With `name` you enter the name that the emoji should have and with `image_url` you insert a direct link to an image that should be uploaded to the server as an emoji.
 
 {% hint style="info" %}
-Der Dateityp für das Emoji muss entweder [`JPEG`](#user-content-fn-1)[^1], [`PNG`](#user-content-fn-2)[^2] oder [`GIF`](#user-content-fn-3)[^3] sein.
+The file type for the emoji must be either [`JPEG`](#user-content-fn-1)[^1], [`PNG`](#user-content-fn-2)[^2] or [`GIF`](#user-content-fn-3)[^3].
 
-Discord empfiehlt eine Dateigröße von maximal 256 kB und eine Auflösung von 128x128.
+Discord recommends a maximum file size of 256 kB and a resolution of 128x128.
 
-Emoji-Namen müssen mindestens 2 Zeichen lang sein und dürfen nur [alphanumerische Zeichen](#user-content-fn-4)[^4] und Unterstriche enthalten.
+Emoji names must be at least 2 characters long and may only contain [alphanumeric characters](#user-content-fn-4)[^4] and underscores.
 {% endhint %}
 
-[^1]: JPEG und JPG sind das gleiche.
+[^1]: JPEG and JPG are the same.
 
-[^2]: Verwende diesen Dateityp für statische, transparente Emojis, die keinen Hintergrund haben sollen.
+[^2]: Use this file type for static, transparent emojis that should not have a background.
 
-[^3]: Verwende diesen Dateityp für animierte Emojis.
+[^3]: Use this file type for animated emojis.
 
-[^4]: Alphanumerische Zeichen umfassen alle Buchstaben (A-Z, a-z) und Ziffern (0-9).
+[^4]: Alphanumeric characters include all letters (A-Z, a-z) and digits (0-9).
