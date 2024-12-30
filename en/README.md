@@ -70,7 +70,7 @@ Wir würden uns freuen, wenn du uns beim Aufbauen dieser Dokumentation unterstü
 
 Wenn wir Commands angeben, dann sind oft Elemente enthalten, die du durch etwas ersetzen musst. Wir geben diese Fälle wie folgt an:
 
-<pre><code><strong>/commandname <Erforderliches Argument> [Optionales Argument]
+<pre><code><strong>/commandname &#x3C;Required argument> [Optional argument]
 </strong></code></pre>
 
 Die `<`, `>`, `[` und `]` Zeichen weisen wie im Beispiel auf erforderliche und optionale Argumente hin, die du an dieser Stelle selbst einsetzen musst.
