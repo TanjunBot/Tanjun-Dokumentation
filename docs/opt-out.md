@@ -1,8 +1,8 @@
 ---
+icon: message-slash
 description: >-
   So kannst du dafür sorgen, dass Tanjun deine Nachrichten nicht verarbeitet
   oder nachverfolgt.
-icon: message-slash
 layout:
   title:
     visible: true
@@ -26,19 +26,9 @@ Für weitere Informationen über den Datenschutz in Tanjun, klicke [hier](https:
 
 Um die Nachrichtenverfolgung von Tanjun zu deaktivieren, kannst du den folgenden Befehl verwenden:
 
-{% tabs %}
-{% tab title="English" %}
 ```
-/utilitycmd utility_messagetracking_name utility_messageoptout_name 
+/verschiedenes nachrichtenverfolgung deaktivieren
 ```
-{% endtab %}
-
-{% tab title="Deutsch" %}
-```
-/verschiedenes nachrichtenverfolgung deaktivieren 
-```
-{% endtab %}
-{% endtabs %}
 
 ### Vorteile
 
@@ -54,19 +44,9 @@ Außerdem kannst du durch das Deaktivieren der Nachrichtenverfolgung im Levelsys
 
 Falls du die Nachrichtenverfolgung in der Vergangenheit deaktiviert hast und dich dazu entschieden hast, sie wieder zu aktivieren, kannst du dies mit dem folgenden Befehl tun:
 
-{% tabs %}
-{% tab title="English" %}
-```
-/utilitycmd utility_messagetracking_name utility_messageoptin_name
-```
-{% endtab %}
-
-{% tab title="Deutsch" %}
 ```
 /verschiedenes nachrichtenverfolgung aktivieren
 ```
-{% endtab %}
-{% endtabs %}
 
 Nachdem du den Befehl ausgeführt hast, kannst du wieder an Minispielen teilnehmen und der Bot wird wieder mit Reaktionen auf deine Chatnachrichten reagieren.
 
