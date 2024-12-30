@@ -31,15 +31,15 @@ Das Ändern der Verfallstage hat keinen Einfluss auf Verwarnungen in der Vergang
 
 <summary>Bedeutung der einzelnen Werte</summary>
 
-- Die **Verfallstage** bestimmen, nach wie vielen Tagen eine Warnung automatisch verfallen soll.
-- Der **Schwellwert für Timeout** bestimmt, nach wie vielen Warnungen ein Nutzer automatisch in Timeout geschickt wird. Der Nutzer wird für jede weitere Verwarnung über dem Schwellwert erneut in Timeout geschickt.
-- Die **Dauer des Timeouts** bestimmt, wie lange der Nutzer in Timeout geschickt werden soll.
-- Der **Schwellwert für Kick** gibt an, nach wie vielen Timeouts der Nutzer gekickt werden soll. Nach einem Kick kann der Nutzer jederzeit wieder auf den Server eingeladen werden. Wenn der **Schwellwert für Timeout** ≥ dem **Schwellwert für Kick** ist, wird der Nutzer auch in Timeout geschickt, welcher auch nach erneutem Betreten des Servers weiter abläuft. Für jede weitere Verwarnung wird der Nutzer erneut gekickt.
-- Der **Schwellwert für Bann** gibt an, nach wie vielen Verwarnungen ein Nutzer gebannt werden soll.
+* Die **Verfallstage** bestimmen, nach wie vielen Tagen eine Warnung automatisch verfallen soll.
+* Der **Schwellwert für Timeout** bestimmt, nach wie vielen Warnungen ein Nutzer automatisch in Timeout geschickt wird. Der Nutzer wird für jede weitere Verwarnung über dem Schwellwert erneut in Timeout geschickt.
+* Die **Dauer des Timeouts** bestimmt, wie lange der Nutzer in Timeout geschickt werden soll.
+* Der **Schwellwert für Kick** gibt an, nach wie vielen Timeouts der Nutzer gekickt werden soll. Nach einem Kick kann der Nutzer jederzeit wieder auf den Server eingeladen werden. Wenn der **Schwellwert für Timeout** ≥ dem **Schwellwert für Kick** ist, wird der Nutzer auch in Timeout geschickt, welcher auch nach erneutem Betreten des Servers weiter abläuft. Für jede weitere Verwarnung wird der Nutzer erneut gekickt.
+* Der **Schwellwert für Bann** gibt an, nach wie vielen Verwarnungen ein Nutzer gebannt werden soll.
 
 </details>
 
-<figure><img src="../../.gitbook/assets/warn_config_modal.png" alt=""><figcaption><p>Beispiel für das Popup zum Konfigurieren des Warn-Systems</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/warn_config_modal.png" alt="" width="331"><figcaption><p>Example of the pop-up for configuring the warning system</p></figcaption></figure>
 
 ### Jemanden verwarnen
 

@@ -41,7 +41,7 @@ Das Ändern der Verfallstage hat keinen Einfluss auf Verwarnungen in der Vergang
 
 </details>
 
-<figure><img src="../../.gitbook/assets/warn_config_modal.png" alt=""><figcaption><p>Beispiel für das Popup zum Konfigurieren des Warn-Systems</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/warn_config_modal.png" alt="" width="331"><figcaption><p>Beispiel für das Popup zum Konfigurieren des Warn-Systems</p></figcaption></figure>
 
 ### Jemanden verwarnen
 
