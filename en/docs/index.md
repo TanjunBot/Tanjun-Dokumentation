@@ -13,7 +13,7 @@ icon: memo-circle-info
 
 Wie die meisten Discord Bots hat auch Tanjun einen Hilfe Command. Mit diesem kannst du dir alle aktuell verfügbaren Commands und deren Beschreibung anzeigen lassen.
 
-Du kannst die Hilfe wie folgt aufrufen:&#x20
+Du kannst die Hilfe wie folgt aufrufen:
 
 ```
 /help
