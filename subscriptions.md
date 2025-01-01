@@ -1,23 +1,23 @@
 ---
-description: Mit Tanjun Plus und Tanjun Pro unterstützt du die Entwicklung des Tanjun Bots.
 icon: money-bill-1
+description: Mit Tanjun Plus und Tanjun Pro unterstützt du die Entwicklung des Tanjun Bots.
 ---
 
 # Tanjun Pro & Tanjun Plus
 
-Durch ein Tanjun Pro- oder Plus-Abonnement trägst du dazu bei, die laufenden Kosten für den Betrieb von Tanjun zu decken. Als Dankeschön für deine Unterstützung erhältst du ein paar Vorteile.
+❤️ Durch ein Tanjun Pro- oder Plus-Abonnement trägst du dazu bei, die laufenden Kosten für den Betrieb von Tanjun zu decken. Als Dankeschön für deine Unterstützung erhältst du ein paar Vorteile.
 
 ## Tanjun Pro
 
 ### Was ist das?
 
-Tanjun Pro ist ein Abonnement für **einen Server**, welches dem gesamten Server einige Vorteile gibt. Dieses Abo kostet **6,99€** im Monat. Es kann jederzeit gekündigt werden.&#x20;
+Tanjun Pro ist ein Abonnement für **einen Server**, welches dem gesamten Server einige Vorteile gibt. Dieses Abo kostet **6,99€** im Monat. Es kann jederzeit gekündigt werden.
 
 ### Vorteile
 
 {% stepper %}
 {% step %}
-### Erweiterte Gewinnspiel-Features
+#### Erweiterte Gewinnspiel-Features
 
 <mark style="color:green;">→</mark> **Gewinnspiele im Voraus planen:** Plane ein Gewinnspiel, sobald dir die Idee dazu kommt und lass es zu einem späteren Zeitpunkt automatisch starten.
 
@@ -29,7 +29,7 @@ Tanjun Pro ist ein Abonnement für **einen Server**, welches dem gesamten Server
 {% endstep %}
 
 {% step %}
-### Maximale Kontrolle über dein Levelsystem
+#### Maximale Kontrolle über dein Levelsystem
 
 <mark style="color:green;">→</mark> **Eigene Level-Up-Nachricht:** Lege eine personalisierte Level-Up-Nachricht fest, die angezeigt wird, wenn ein Mitglied ein Level aufsteigt.
 
@@ -37,11 +37,11 @@ Tanjun Pro ist ein Abonnement für **einen Server**, welches dem gesamten Server
 
 <mark style="color:green;">→</mark> **Erweiterte Blacklist:** Setze neben Rollen und Kanälen auch Mitglieder auf die Blacklist.
 
-<mark style="color:green;">→</mark> **Individuelle XP-Skalierung:** Personalisiere das Levelsystem auf deinem Server, indem du  eine ganz individuelle Schwierigkeit zum Aufleveln und stärker oder schwächer zunehmende Abstände zwischen den Leveln festlegst.
+<mark style="color:green;">→</mark> **Individuelle XP-Skalierung:** Personalisiere das Levelsystem auf deinem Server, indem du eine ganz individuelle Schwierigkeit zum Aufleveln und stärker oder schwächer zunehmende Abstände zwischen den Leveln festlegst.
 {% endstep %}
 
 {% step %}
-### Minigame-Features für noch mehr Abwechslung und Flexibilität
+#### Minigame-Features für noch mehr Abwechslung und Flexibilität
 
 <mark style="color:green;">→</mark> **Counting Modes-Spielmodus:** Erhalte Zugriff auf diesen zusätzlichen und abwechslungsreichen Counting-Spielmodus. [👉Weitere Informationen](docs/minigames/counting/#counting-modes-variante)
 
@@ -51,7 +51,7 @@ Tanjun Pro ist ein Abonnement für **einen Server**, welches dem gesamten Server
 {% endstep %}
 
 {% step %}
-### Praktische Quality-of-Life-Verbesserungen
+#### Praktische Quality-of-Life-Verbesserungen
 
 <mark style="color:green;">→</mark> Kopiere mehrere Emojis auf einmal mit dem `/verschiedenes emoji_kopieren`-Befehl
 
@@ -71,7 +71,7 @@ Tanjun Plus ist ein Abonnement, welches dir als Unterstützer einige exklusive V
 
 {% stepper %}
 {% step %}
-### Erweitere deine Möglichkeiten mit exklusiven AI-Funktionen
+#### Erweitere deine Möglichkeiten mit exklusiven AI-Funktionen
 
 <mark style="color:green;">→</mark> **Eigene KI-Situationen:** Du möchtest einen KI-Charakter erstellen, der sich genau so verhält, wie du es gerne hättest oder der eine bestimmte Person imitiert? Diese Funktion ermöglicht es dir! [👉Weitere Informationen](#user-content-fn-1)[^1]
 
@@ -79,13 +79,13 @@ Tanjun Plus ist ein Abonnement, welches dir als Unterstützer einige exklusive V
 {% endstep %}
 
 {% step %}
-### Personalisiere deine Rank-Card
+#### Personalisiere deine Rank-Card
 
 <mark style="color:green;">→</mark> Lade einen benutzerdefinierten Hintergrund für deine Rank-Card hoch, um dich von anderen Mitgliedern abzuheben.
 {% endstep %}
 
 {% step %}
-### Starte anpassbare 4-Gewinnt-Spiele
+#### Starte anpassbare 4-Gewinnt-Spiele
 
 <mark style="color:green;">→</mark> Spiele das 4-Gewinnt-Minigame so kompliziert oder einfach wie du willst! Passe die Spielfeldgröße beliebig an: [#vier-gewinnt](docs/minigames/games.md#vier-gewinnt "mention")
 {% endstep %}
