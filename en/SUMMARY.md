@@ -2,6 +2,7 @@
 
 - [Übersicht](README.md)
 - [Erste Schritte](start.md)
+- [Tanjun Pro & Tanjun Plus](subscriptions.md)
 
 ## Funktionen <a href="#docs" id="docs"></a>
 
@@ -28,7 +29,6 @@
     - [Römische Zahlen](docs/minigames/counting/12.md)
   - [Wortkette](docs/minigames/wortkette.md)
 - [Nachrichtenverfolgung deaktivieren](docs/opt-out.md)
-- [Tanjun Plus und Pro](docs/tanjun-plus-und-pro.md)
 
 ***
 
