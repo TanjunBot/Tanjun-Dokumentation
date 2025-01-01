@@ -15,7 +15,7 @@ Mit dem `/spiele tic_tac_toe [user]`-Befehl kannst du gegen einen beliebigen Nut
 
 Mit dem `/spiele 4_gewinnt [user] [size]`-Befehl kannst du 4-Gewinnt gegen einen beliebigen anderen Nutzer spielen. Mit dem Argument `size` kannst du auswählen, wie groß das Spielfeld sein soll, wodurch du einzigartige 4-Gewinnt-Spielweisen kennen lernen kannst. Wenn du keinen Nutzer angibst, spielst du auch hier gegen Tanjun.
 
-{% hint style="info" %}
+{% hint style="success" %}
 Du benötigst ein Tanjun Pro Abo, um ein Spiel mit einer anderen Spielfeldgröße zu starten. Du kannst aber auch ohne Tanjun Pro Spiele mit anderer Spielfeldgröße von anderen annehmen.
 {% endhint %}
 
