@@ -28,6 +28,7 @@
     - [Römische Zahlen](docs/minigames/counting/12.md)
   - [Wortkette](docs/minigames/wortkette.md)
 - [Nachrichtenverfolgung deaktivieren](docs/opt-out.md)
+- [Tanjun Plus und Pro](docs/tanjun-plus-und-pro.md)
 
 ***
 
