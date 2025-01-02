@@ -24,7 +24,7 @@ Your privacy is important to us. This privacy policy comprehensively describes h
 Tanjun collects only the information essential for specific commands and functionalities. This includes:
 
 - **User-Provided Information:** Data you provide directly through interactions with the bot, such as scheduled messages, giveaways, or tickets. This may include metadata such as timestamps and channel information.
-- **Automatisch gesammelte Informationen:** Zur Gewährleistung bestimmter Funktionen, wie etwa der Nachrichtenanforderung bei Gewinnspielen, speichern wir lediglich, wie viele Nachrichten eine Nutzer-ID in bestimmten Kanälen gesendet hat. The content of the messages remains untouched.
+- **Automatically Collected Information:** To enable certain features, like message tracking for giveaways, we only store how many messages a user ID has sent in specific channels. The content of the messages remains untouched.
 - **Third-Party Data:** Some features utilize external services like the Twitch API. No personal data is shared. However, user IDs, usernames, and profile pictures may be transmitted to third parties.
 
 ## 2. How We Use Your Information
@@ -62,7 +62,7 @@ You have the right to:
 - **Deletion:** Request the removal of your data, provided there are no legal or contractual obligations preventing this.
 - **Restriction of Processing:** Request that we limit the use of your data under certain circumstances.
 
-Um diese Rechte auszuüben, kontaktieren Sie uns per Discord-Direktnachricht unter dem Namen [@entcheneric](https://discord.com/users/471036610561966111) oder per E-Mail an [support@tanjun.bot](mailto:support@tanjun.bot). We strive to process all requests within 30 days.
+To exercise these rights, please contact us via Discord direct message under the name [@entcheneric](https://discord.com/users/471036610561966111) or by e-mail to [support@tanjun.bot](mailto:support@tanjun.bot). We strive to process all requests within 30 days.
 
 ## 7. Links and Third-Party Services
 
@@ -74,6 +74,6 @@ We may update this privacy policy periodically to reflect changes in our practic
 
 ## 9. Contact
 
-Wenn Sie Fragen oder Bedenken zu dieser Datenschutzerklärung haben, wenden Sie sich bitte an unser Team auf dem Tanjun-Support-Discord-Server: [https://discord.gg/T7ScSERDYd](https://discord.gg/T7ScSERDYd). Alternativ können Sie uns auch eine Direkt-Direktnachricht an [@entcheneric](https://discord.com/users/471036610561966111) oder eine E-Mail an [support@tanjun.bot](mailto:support@tanjun.bot) senden. Wir schätzen Ihr Feedback und stehen Ihnen gerne zur Verfügung.
+If you have any questions or concerns about this privacy policy, please contact our team on the Tanjun Support Discord server: [https://discord.gg/T7ScSERDYd](https://discord.gg/T7ScSERDYd). Alternativ können Sie uns auch eine Discord-Direktnachricht an [@entcheneric](https://discord.com/users/471036610561966111) oder eine E-Mail an [support@tanjun.bot](mailto:support@tanjun.bot) senden. We value your feedback and are here to assist you.
 
-Vielen Dank für Ihr Vertrauen in Tanjun! Wir setzen alles daran, Ihre Privatsphäre zu respektieren und zu schützen.
+Thank you for your trust in Tanjun! We are committed to respecting and protecting your privacy.
