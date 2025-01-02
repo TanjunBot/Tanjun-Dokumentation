@@ -25,16 +25,16 @@ layout:
 
 Hier erfährst du alles über die Commands und Funktionen im Discord Bot Tanjun.
 
-{% hint style="warning" %}
-Tanjun wird aktuell (mal wieder) komplett neugeschrieben. Bis Version 1.0.0 erreicht ist, sind die neuen Änderungen noch nicht öffentlich, wir teilen aber alle Neuerungen und Updates mit euch.\
-Wir werden nun auch diese Dokumentation komplett neu schreiben (die ja leider nie wirklich fertig geworden ist).\
-\
-Behalte den [Changelog](broken-reference/) im Blick oder [trete unserem Discordserver bei](https://go.tanjun.bot/discord), um auf dem Laufenden zu bleiben!
-{% endhint %}
+### 🎉Neue Tanjun-Version veröffentlicht!
+
+💫 Wir haben die brandneue, vollständig überarbeitete Version von Tanjun veröffentlicht. Zögere nicht und probier jetzt die neuen Funktionen aus!
+
+***
 
 ## Erste Schritte <a href="#a2" id="a2"></a>
 
-Arbeitest du das erste Mal mit Tanjun und möchtest etwas über grundlegende Einstellungen erfahren? Schaue hier vorbei:
+Arbeitest du das erste Mal mit Tanjun und möchtest etwas über grundlegende Einstellungen erfahren?\
+Schaue hier vorbei:
 
 {% content-ref url="intro/" %}
 [intro](intro/)
@@ -42,7 +42,8 @@ Arbeitest du das erste Mal mit Tanjun und möchtest etwas über grundlegende Ein
 
 ## Tipps & Tricks <a href="#a3" id="a3"></a>
 
-Es gibt einige Tipps & Tricks, die du kennen solltest, wenn du Tanjun verwendest. Hier findest du einige Beispiele:
+Es gibt einige Tipps & Tricks, die du kennen solltest, wenn du Tanjun verwendest.\
+Hier findest du einige Beispiele:
 
 {% content-ref url="docs/index.md" %}
 [index.md](docs/index.md)
@@ -50,7 +51,7 @@ Es gibt einige Tipps & Tricks, die du kennen solltest, wenn du Tanjun verwendest
 
 ## Changelog <a href="#a4" id="a4"></a>
 
-Du hast die Möglichkeit, sowohl auf unserem [Discord Server im #┾🦆┋tanjun-changelog Kanal](https://discord.com/channels/831161440705839124/1098902476708642816) den Changelog zu sehen.
+Du hast die Möglichkeit, auf unserem [Discord Server](https://discord.arion2000.xyz) im [#┾🦆┋tanjun-changelog Kanal](https://discord.com/channels/831161440705839124/1098902476708642816) den Changelog zu sehen.
 
 Der Changelog enthält immer die neuesten Änderungen und Updates.
 

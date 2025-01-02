@@ -1,8 +1,8 @@
 ---
+icon: user-gear
 description: >-
   Auf dieser Seite wird erklärt, welche Berechtigungen Tanjun auf dem Server
   braucht.
-icon: user-gear
 ---
 
 # Berechtigungen
@@ -39,6 +39,8 @@ Damit Tanjun korrekt funktioniert, braucht dieser folgende Berechtigungen:
 {% hint style="info" %}
 Um mögliche Problem mit fehlenden Berechtigungen zu verhindern oder zu beheben, kannst du Tanjun auch die `Administrator`-Berechtigung geben, um ihm vollen Zugriff auf den Server zu gewähren. Dies ist aber nicht zwingend erforderlich.
 {% endhint %}
+
+***
 
 ## Nutzerzugriff auf Befehle beschränken
 
