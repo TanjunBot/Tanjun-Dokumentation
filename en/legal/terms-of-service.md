@@ -1,6 +1,6 @@
 ---
 icon: section
-description: "Gültig ab: 26.12.2024"
+description: "Effective Date: 26/12/2024"
 hidden: true
 layout:
   title:
@@ -63,8 +63,8 @@ Willkommen bei Tanjun ("der Bot"). Durch den Zugriff auf oder die Nutzung von Ta
 
 Wir können diese Bedingungen von Zeit zu Zeit aktualisieren, um Änderungen in unseren Praktiken oder rechtlichen Anforderungen Rechnung zu tragen. Alle Updates werden mit einem geänderten "Gültig ab"-Datum bekannt gegeben und, falls zutreffend, mit einer Benachrichtigung im Bot angezeigt. Die weitere Nutzung von Tanjun nach der Veröffentlichung von Änderungen gilt als Annahme der aktualisierten Bedingungen.
 
-## 8. Kontakt
+## 8. Contact
 
-Wenn Sie Fragen oder Bedenken zu diesen Bedingungen haben, kontaktieren Sie uns bitte per Discord-Direktnachricht unter [@entcheneric](https://discord.com/users/471036610561966111) oder auf dem Tanjun-Support-Discord-Server: [https://discord.gg/T7ScSERDYd](https://discord.gg/T7ScSERDYd). Wir schätzen Ihr Feedback und stehen Ihnen gerne zur Verfügung.
+Wenn Sie Fragen oder Bedenken zu diesen Bedingungen haben, kontaktieren Sie uns bitte per Discord-Direktnachricht unter [@entcheneric](https://discord.com/users/471036610561966111), per E-Mail an [support@tanjun.bot](mailto:support@tanjun.bot) oder auf dem Tanjun-Support-Discord-Server: [https://discord.gg/T7ScSERDYd](https://discord.gg/T7ScSERDYd). Wir schätzen Ihr Feedback und stehen Ihnen gerne zur Verfügung.
 
 Vielen Dank, dass Sie sich für Tanjun entschieden haben! Wir sind bestrebt, Ihnen ein zuverlässiges und angenehmes Erlebnis zu bieten.
