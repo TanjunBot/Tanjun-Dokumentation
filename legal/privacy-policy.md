@@ -74,6 +74,6 @@ Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren, um Ände
 
 ## 9. Kontakt
 
-Wenn Sie Fragen oder Bedenken zu dieser Datenschutzerklärung haben, wenden Sie sich bitte an unser Team auf dem Tanjun-Support-Discord-Server: [https://discord.gg/T7ScSERDYd](https://discord.gg/T7ScSERDYd). Alternativ können Sie uns auch eine Direkt-Direktnachricht an [@entcheneric](https://discord.com/users/471036610561966111) oder eine E-Mail an [support@tanjun.bot](mailto:support@tanjun.bot) senden. Wir schätzen Ihr Feedback und stehen Ihnen gerne zur Verfügung.
+Wenn Sie Fragen oder Bedenken zu dieser Datenschutzerklärung haben, wenden Sie sich bitte an unser Team auf dem Tanjun-Support-Discord-Server: [https://discord.gg/T7ScSERDYd](https://discord.gg/T7ScSERDYd). Alternativ können Sie uns auch eine Discord-Direktnachricht an [@entcheneric](https://discord.com/users/471036610561966111) oder eine E-Mail an [support@tanjun.bot](mailto:support@tanjun.bot) senden. Wir schätzen Ihr Feedback und stehen Ihnen gerne zur Verfügung.
 
 Vielen Dank für Ihr Vertrauen in Tanjun! Wir setzen alles daran, Ihre Privatsphäre zu respektieren und zu schützen.
