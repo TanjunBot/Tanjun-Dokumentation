@@ -62,7 +62,7 @@ Sie haben das Recht:
 * **Löschung:** Beantragen Sie die Entfernung Ihrer Daten, sofern keine gesetzlichen oder vertraglichen Verpflichtungen dagegensprechen.
 * **Einschränkung der Verarbeitung:** Sie können verlangen, dass wir die Nutzung Ihrer Daten unter bestimmten Umständen einschränken.
 
-Um diese Rechte auszuüben, kontaktieren Sie uns per Discord-Direktnachricht unter dem Namen @entcheneric. Wir bemühen uns, alle Anfragen innerhalb von 30 Tagen zu bearbeiten.
+Um diese Rechte auszuüben, kontaktieren Sie uns per Discord-Direktnachricht unter dem Namen [@entcheneric](https://discord.com/users/471036610561966111) oder per E-Mail an [support@tanjun.bot](mailto:support@tanjun.bot). Wir bemühen uns, alle Anfragen innerhalb von 30 Tagen zu bearbeiten.
 
 ## 7. Links und Dienste von Drittanbietern
 
@@ -74,6 +74,6 @@ Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren, um Ände
 
 ## 9. Kontakt
 
-Wenn Sie Fragen oder Bedenken zu dieser Datenschutzerklärung haben, wenden Sie sich bitte an unser Team auf dem Tanjun-Support-Discord-Server: [https://discord.gg/T7ScSERDYd](https://discord.gg/T7ScSERDYd). Alternativ können Sie uns direkt eine Nachricht über Discord senden. Wir schätzen Ihr Feedback und stehen Ihnen gerne zur Verfügung.
+Wenn Sie Fragen oder Bedenken zu dieser Datenschutzerklärung haben, wenden Sie sich bitte an unser Team auf dem Tanjun-Support-Discord-Server: [https://discord.gg/T7ScSERDYd](https://discord.gg/T7ScSERDYd). Alternativ können Sie uns auch eine Direkt-Direktnachricht an [@entcheneric](https://discord.com/users/471036610561966111) oder eine E-Mail an [support@tanjun.bot](mailto:support@tanjun.bot) senden. Wir schätzen Ihr Feedback und stehen Ihnen gerne zur Verfügung.
 
 Vielen Dank für Ihr Vertrauen in Tanjun! Wir setzen alles daran, Ihre Privatsphäre zu respektieren und zu schützen.
