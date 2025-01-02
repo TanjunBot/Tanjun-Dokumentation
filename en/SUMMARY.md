@@ -2,6 +2,7 @@
 
 - [Übersicht](README.md)
 - [Erste Schritte](start.md)
+- [Tanjun Pro & Tanjun Plus](subscriptions.md)
 
 ## Funktionen <a href="#docs" id="docs"></a>
 
