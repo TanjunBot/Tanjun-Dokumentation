@@ -1,6 +1,6 @@
 ---
-description: Auf dieser Seite werden häufig gestellte Fragen beantwortet.
 icon: comments-question-check
+description: Auf dieser Seite werden häufig gestellte Fragen beantwortet.
 ---
 
 # FAQ
@@ -19,4 +19,4 @@ Schaue auf [unserer Statusseite](https://go.tanjun.bot/VpyA9) nach, ob es aktuel
 
 ## Sonstiges
 
-Deine Frage wurde auf dieser Seite nicht beantwortet? Kein Problem, wir stehen dir bei weiteren Fragen jederzeit zur Verfügung. Komm gerne auf unseren Discord-Server oder kontaktiere uns per E-Mail an [support@tanjun.bot](mailto:support@tanjun.bot).
+Deine Frage wurde auf dieser Seite nicht beantwortet? Kein Problem, wir stehen dir bei weiteren Fragen jederzeit zur Verfügung. Komm gerne auf unseren [Discord-Server](https://go.tanjun.bot/discord) oder kontaktiere uns per E-Mail an [support@tanjun.bot](mailto:support@tanjun.bot).
