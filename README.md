@@ -36,8 +36,8 @@ Behalte den [Changelog](broken-reference/) im Blick oder [trete unserem Discords
 
 Arbeitest du das erste Mal mit Tanjun und möchtest etwas über grundlegende Einstellungen erfahren? Schaue hier vorbei:
 
-{% content-ref url="start.md" %}
-[start.md](start.md)
+{% content-ref url="intro/" %}
+[intro](intro/)
 {% endcontent-ref %}
 
 ## Tipps & Tricks <a href="#a3" id="a3"></a>
