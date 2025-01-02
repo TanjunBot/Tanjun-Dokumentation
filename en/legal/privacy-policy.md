@@ -1,6 +1,6 @@
 ---
 icon: file-shield
-description: "Gültig ab: 26.12.2024"
+description: "Effective Date: 26/12/2024"
 hidden: true
 layout:
   title:
@@ -15,65 +15,65 @@ layout:
     visible: false
 ---
 
-# Datenschutzerklärung
+# Privacy Policy
 
-Ihre Privatsphäre ist uns wichtig. Diese Datenschutzerklärung beschreibt umfassend, wie Tanjun ("der Bot") Ihre Informationen sammelt, verwendet, speichert und schützt. Durch die Nutzung von Tanjun stimmen Sie den Bestimmungen dieser Datenschutzerklärung zu. Wir sind verpflichtet, Ihre Daten mit der größtmöglichen Sorgfalt zu behandeln.
+Your privacy is important to us. This privacy policy comprehensively describes how Tanjun ("the bot") collects, uses, stores, and protects your information. By using Tanjun, you agree to the terms of this privacy policy. We are committed to handling your data with the greatest possible care.
 
-## 1. Welche Informationen wir sammeln
+## 1. What Information We Collect
 
-Tanjun sammelt nur die Informationen, die für die einzelnen Befehle und Funktionen unverzichtbar sind. Dazu gehören unter anderem:
+Tanjun collects only the information essential for specific commands and functionalities. This includes:
 
-- **Vom Benutzer bereitgestellte Informationen:** Daten, die Sie direkt durch Interaktionen mit dem Bot bereitstellen, wie z. B. geplante Nachrichten, Gewinnspiele oder Tickets. Diese Informationen können auch Meta-Daten umfassen, wie etwa Zeitstempel und Kanalinformationen.
-- **Automatisch gesammelte Informationen:** Zur Gewährleistung bestimmter Funktionen, wie etwa der Nachrichtenanforderung bei Gewinnspielen, speichern wir lediglich, wie viele Nachrichten eine User-ID in bestimmten Kanälen gesendet hat. Der Inhalt der Nachrichten bleibt hierbei stets unberührt.
-- **Daten von Drittanbietern:** Einige Funktionen nutzen externe Dienste wie die Twitch-API. Dabei werden keine persönlichen Daten weitergegeben. An Drittanbieter könnten jedoch Nutzer-IDs, Nutzernamen und Profilbilder übermittelt werden.
+- **User-Provided Information:** Data you provide directly through interactions with the bot, such as scheduled messages, giveaways, or tickets. This may include metadata such as timestamps and channel information.
+- **Automatisch gesammelte Informationen:** Zur Gewährleistung bestimmter Funktionen, wie etwa der Nachrichtenanforderung bei Gewinnspielen, speichern wir lediglich, wie viele Nachrichten eine Nutzer-ID in bestimmten Kanälen gesendet hat. The content of the messages remains untouched.
+- **Third-Party Data:** Some features utilize external services like the Twitch API. No personal data is shared. However, user IDs, usernames, and profile pictures may be transmitted to third parties.
 
-## 2. Wie wir Ihre Informationen verwenden
+## 2. How We Use Your Information
 
-Die gesammelten Informationen können für folgende Zwecke genutzt werden:
+The collected information may be used for the following purposes:
 
-- Bereitstellung und Verbesserung der Funktionalität des Bots, einschließlich der Anpassung von Antworten an individuelle Benutzeranforderungen.
-- Verbesserung der Benutzererfahrung durch automatisierte Prozesse, die persönlichere Interaktionen ermöglichen.
-- Diagnose und Behebung technischer Probleme, um eine unterbrechungsfreie Nutzung des Bots sicherzustellen.
-- Analyse von Nutzungstrends zur Weiterentwicklung von Funktionen. Diese Analysen erfolgen stets auf einer anonymisierten Basis, um Ihre Privatsphäre zu schützen.
-- Kommunikation mit Nutzern über wichtige Änderungen, Updates oder relevante Benachrichtigungen zum Bot.
+- Providing and improving the bot's functionality, including tailoring responses to individual user needs.
+- Enhancing the user experience through automated processes that enable more personalized interactions.
+- Diagnosing and resolving technical issues to ensure uninterrupted use of the bot.
+- Analyzing usage trends to further develop features. Such analyses are always conducted on an anonymized basis to protect your privacy.
+- Communicating with users about important changes, updates, or relevant notifications regarding the bot.
 
-## 3. Datenweitergabe und Offenlegung
+## 3. Data Sharing and Disclosure
 
-Wir verkaufen, tauschen oder vermieten Ihre persönlichen Informationen nicht. Daten werden nur in den folgenden Fällen weitergegeben:
+We do not sell, trade, or rent your personal information. Data is only shared in the following scenarios:
 
-- **Zur Einhaltung gesetzlicher Verpflichtungen:** Wenn dies gesetzlich vorgeschrieben ist, auf gerichtliche Anordnung hin oder zur Wahrung unserer rechtlichen Ansprüche.
-- **Dienstanbieter:** Mit vertrauenswürdigen Drittanbietern, die den Betrieb des Bots unterstützen, wie z. B. Hosting-Dienste oder Datenanalyseanbieter. Diese Partner sind vertraglich verpflichtet, Ihre Daten sicher und vertraulich zu behandeln.
-- **Mit Ihrer ausdrücklichen Zustimmung:** In seltenen Fällen können wir Daten weitergeben, wenn Sie dem explizit zustimmen, z. B. für spezielle Kooperationen oder erweiterte Funktionen.
+- **To Comply with Legal Obligations:** When required by law, court order, or to protect our legal rights.
+- **Service Providers:** With trusted third-party providers that support the operation of the bot, such as hosting services or data analysis providers. These partners are contractually obligated to handle your data securely and confidentially.
+- **With Your Explicit Consent:** In rare cases, we may share data if you explicitly agree, for instance, for special collaborations or extended functionalities.
 
-## 4. Aufbewahrung von Daten
+## 4. Data Retention
 
-Wir bewahren Ihre Informationen nur so lange auf, wie es für die in dieser Datenschutzerklärung beschriebenen Zwecke erforderlich ist oder wie es gesetzlich vorgeschrieben ist. Sobald die Daten nicht mehr benötigt werden, werden sie sicher gelöscht oder anonymisiert. Wir überprüfen regelmäßig, ob gespeicherte Daten noch notwendig sind, und setzen automatisierte Prozesse ein, um veraltete Informationen zu entfernen.
+We retain your information only for as long as necessary to fulfill the purposes described in this privacy policy or as required by law. Once data is no longer needed, it is securely deleted or anonymized. We regularly review stored data to ensure it remains necessary and use automated processes to remove outdated information.
 
-## 5. Sicherheit
+## 5. Security
 
-Wir setzen branchenübliche Sicherheitsmaßnahmen ein, um Ihre Informationen vor unbefugtem Zugriff, Verlust, Missbrauch oder Zerstörung zu schützen. Dazu gehören Verschlüsselungstechnologien, Firewalls und regelmäßige Sicherheitsüberprüfungen. Dennoch ist keine Methode der Übertragung über das Internet oder der elektronischen Speicherung vollkommen sicher. Wir arbeiten kontinuierlich daran, unsere Sicherheitsstandards zu verbessern.
+We employ industry-standard security measures to protect your information from unauthorized access, loss, misuse, or destruction. These include encryption technologies, firewalls, and regular security audits. However, no method of transmission over the Internet or electronic storage is completely secure. We continuously work to improve our security standards.
 
-## 6. Ihre Wahlmöglichkeiten und Rechte
+## 6. Your Choices and Rights
 
-Sie haben das Recht:
+You have the right to:
 
-- **Zugriff auf Ihre Daten:** Sie können eine Kopie der Informationen anfordern, die wir über Sie gespeichert haben.
-- **Berichtigung:** Fordern Sie die Aktualisierung oder Korrektur ungenauer oder unvollständiger Informationen an.
-- **Löschung:** Beantragen Sie die Entfernung Ihrer Daten, sofern keine gesetzlichen oder vertraglichen Verpflichtungen dagegensprechen.
-- **Einschränkung der Verarbeitung:** Sie können verlangen, dass wir die Nutzung Ihrer Daten unter bestimmten Umständen einschränken.
+- **Access Your Data:** Request a copy of the information we hold about you.
+- **Correction:** Request the update or correction of inaccurate or incomplete information.
+- **Deletion:** Request the removal of your data, provided there are no legal or contractual obligations preventing this.
+- **Restriction of Processing:** Request that we limit the use of your data under certain circumstances.
 
-Um diese Rechte auszuüben, kontaktieren Sie uns per Discord-Direktnachricht unter dem Namen @entcheneric. Wir bemühen uns, alle Anfragen innerhalb von 30 Tagen zu bearbeiten.
+Um diese Rechte auszuüben, kontaktieren Sie uns per Discord-Direktnachricht unter dem Namen [@entcheneric](https://discord.com/users/471036610561966111) oder per E-Mail an [support@tanjun.bot](mailto:support@tanjun.bot). We strive to process all requests within 30 days.
 
-## 7. Links und Dienste von Drittanbietern
+## 7. Links and Third-Party Services
 
-Tanjun kann Links zu Websites oder Diensten von Drittanbietern enthalten. Diese Links werden bereitgestellt, um die Funktionalität des Bots zu erweitern, z. B. durch Integrationen mit Streaming-Diensten oder Social-Media-Plattformen. Wir sind jedoch nicht verantwortlich für die Datenschutzpraktiken oder Inhalte dieser Dritten. Bitte lesen Sie deren Datenschutzerklärungen, bevor Sie deren Dienste nutzen.
+Tanjun may contain links to third-party websites or services. These links are provided to expand the bot's functionality, such as integrations with streaming services or social media platforms. However, we are not responsible for the privacy practices or content of these third parties. Please review their privacy policies before using their services.
 
-## 8. Änderungen dieser Datenschutzerklärung
+## 8. Changes to This Privacy Policy
 
-Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren, um Änderungen unserer Praktiken oder gesetzliche Anforderungen zu berücksichtigen. Alle Änderungen werden mit einem überarbeiteten "Gültig ab"-Datum und gegebenenfalls mit einer Benachrichtigung innerhalb des Bots bekanntgegeben. Wir empfehlen, diese Datenschutzerklärung regelmäßig zu überprüfen, um informiert zu bleiben.
+We may update this privacy policy periodically to reflect changes in our practices or legal requirements. All updates will be announced with a revised "Effective Date" and, if applicable, a notification within the bot. We encourage you to review this privacy policy regularly to stay informed.
 
-## 9. Kontakt
+## 9. Contact
 
-Wenn Sie Fragen oder Bedenken zu dieser Datenschutzerklärung haben, wenden Sie sich bitte an unser Team auf dem Tanjun-Support-Discord-Server: [https://discord.gg/T7ScSERDYd](https://discord.gg/T7ScSERDYd). Alternativ können Sie uns direkt eine Nachricht über Discord senden. Wir schätzen Ihr Feedback und stehen Ihnen gerne zur Verfügung.
+Wenn Sie Fragen oder Bedenken zu dieser Datenschutzerklärung haben, wenden Sie sich bitte an unser Team auf dem Tanjun-Support-Discord-Server: [https://discord.gg/T7ScSERDYd](https://discord.gg/T7ScSERDYd). Alternativ können Sie uns auch eine Direkt-Direktnachricht an [@entcheneric](https://discord.com/users/471036610561966111) oder eine E-Mail an [support@tanjun.bot](mailto:support@tanjun.bot) senden. Wir schätzen Ihr Feedback und stehen Ihnen gerne zur Verfügung.
 
 Vielen Dank für Ihr Vertrauen in Tanjun! Wir setzen alles daran, Ihre Privatsphäre zu respektieren und zu schützen.
