@@ -24,7 +24,7 @@ Ihre Privatsphäre ist uns wichtig. Diese Datenschutzerklärung beschreibt umfas
 Tanjun sammelt nur die Informationen, die für die einzelnen Befehle und Funktionen unverzichtbar sind. Dazu gehören unter anderem:
 
 * **Vom Benutzer bereitgestellte Informationen:** Daten, die Sie direkt durch Interaktionen mit dem Bot bereitstellen, wie z. B. geplante Nachrichten, Gewinnspiele oder Tickets. Diese Informationen können auch Meta-Daten umfassen, wie etwa Zeitstempel und Kanalinformationen.
-* **Automatisch gesammelte Informationen:** Zur Gewährleistung bestimmter Funktionen, wie etwa der Nachrichtenanforderung bei Gewinnspielen, speichern wir lediglich, wie viele Nachrichten eine User-ID in bestimmten Kanälen gesendet hat. Der Inhalt der Nachrichten bleibt hierbei stets unberührt.
+* **Automatisch gesammelte Informationen:** Zur Gewährleistung bestimmter Funktionen, wie etwa der Nachrichtenanforderung bei Gewinnspielen, speichern wir lediglich, wie viele Nachrichten eine Nutzer-ID in bestimmten Kanälen gesendet hat. Der Inhalt der Nachrichten bleibt hierbei stets unberührt.
 * **Daten von Drittanbietern:** Einige Funktionen nutzen externe Dienste wie die Twitch-API. Dabei werden keine persönlichen Daten weitergegeben. An Drittanbieter könnten jedoch Nutzer-IDs, Nutzernamen und Profilbilder übermittelt werden.
 
 ## 2. Wie wir Ihre Informationen verwenden
