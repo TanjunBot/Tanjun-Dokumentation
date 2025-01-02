@@ -65,6 +65,6 @@ Wir können diese Bedingungen von Zeit zu Zeit aktualisieren, um Änderungen in 
 
 ## 8. Contact
 
-Wenn Sie Fragen oder Bedenken zu diesen Bedingungen haben, kontaktieren Sie uns bitte per Discord-Direktnachricht unter [@entcheneric](https://discord.com/users/471036610561966111), per E-Mail an [support@tanjun.bot](mailto:support@tanjun.bot) oder auf dem Tanjun-Support-Discord-Server: [https://discord.gg/T7ScSERDYd](https://discord.gg/T7ScSERDYd). Wir schätzen Ihr Feedback und stehen Ihnen gerne zur Verfügung.
+Wenn Sie Fragen oder Bedenken zu diesen Bedingungen haben, kontaktieren Sie uns bitte per Discord-Direktnachricht unter [@entcheneric](https://discord.com/users/471036610561966111), per E-Mail an [support@tanjun.bot](mailto:support@tanjun.bot) oder auf dem Tanjun-Support-Discord-Server: [https://discord.gg/T7ScSERDYd](https://discord.gg/T7ScSERDYd). We value your feedback and are here to assist you.
 
 Vielen Dank, dass Sie sich für Tanjun entschieden haben! Wir sind bestrebt, Ihnen ein zuverlässiges und angenehmes Erlebnis zu bieten.
