@@ -74,6 +74,6 @@ We may update this privacy policy periodically to reflect changes in our practic
 
 ## 9. Contact
 
-If you have any questions or concerns about this privacy policy, please contact our team on the Tanjun Support Discord server: [https://discord.gg/T7ScSERDYd](https://discord.gg/T7ScSERDYd). Alternativ können Sie uns auch eine Discord-Direktnachricht an [@entcheneric](https://discord.com/users/471036610561966111) oder eine E-Mail an [support@tanjun.bot](mailto:support@tanjun.bot) senden. We value your feedback and are here to assist you.
+If you have any questions or concerns about this privacy policy, please contact our team on the Tanjun Support Discord server: [https://discord.gg/T7ScSERDYd](https://discord.gg/T7ScSERDYd). Alternatively, you can also send us a Discord direct message to [@entcheneric](https://discord.com/users/471036610561966111) or an email to [support@tanjun.bot](mailto:support@tanjun.bot). We value your feedback and are here to assist you.
 
 Thank you for your trust in Tanjun! We are committed to respecting and protecting your privacy.
