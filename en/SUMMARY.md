@@ -1,7 +1,9 @@
 # Table of contents
 
 - [Übersicht](README.md)
-- [Erste Schritte](start.md)
+- [Erste Schritte](intro/README.md)
+  - [Berechtigungen](intro/permissions.md)
+  - [FAQ](intro/faq.md)
 - [Tanjun Pro & Tanjun Plus](subscriptions.md)
 
 ## Funktionen <a href="#docs" id="docs"></a>
@@ -11,7 +13,7 @@
   - [Moderator-Befehle](docs/admin/moderation.md)
   - [Channel-Befehle](docs/admin/channel.md)
   - [Rollen-Befehle](docs/admin/role.md)
-  - [Weiteres](docs/admin/weiteres.md)
+  - [Weiteres](docs/admin/other.md)
 - [Minigames](docs/minigames/README.md)
   - [Arcade & klassische Spiele](docs/minigames/games.md)
   - [Counting](docs/minigames/counting/README.md)
@@ -27,7 +29,7 @@
     - [Fibonacci-Folge](docs/minigames/counting/10.md)
     - [Binärzahlen](docs/minigames/counting/11.md)
     - [Römische Zahlen](docs/minigames/counting/12.md)
-  - [Wortkette](docs/minigames/wortkette.md)
+  - [Wortkette](docs/minigames/wordchain.md)
 - [Nachrichtenverfolgung deaktivieren](docs/opt-out.md)
 
 ***
