@@ -30,6 +30,13 @@
     - [Binärzahlen](docs/minigames/counting/11.md)
     - [Römische Zahlen](docs/minigames/counting/12.md)
   - [Wortkette](docs/minigames/wordchain.md)
+- [Utility-Befehle](docs/utility-befehle/README.md)
+  - [Booster Rollen](docs/utility-befehle/booster-rollen.md)
+  - [Booster Kanäle](docs/utility-befehle/booster-kanale.md)
+  - [Autopublish Befehle](docs/utility-befehle/autopublish-befehle.md)
+  - [Brawlstars-Befehle](docs/utility-befehle/brawlstars-befehle.md)
+  - [Twitch-Befehle](docs/utility-befehle/twitch-befehle.md)
+  - [Geplante-Nachrichten-Befehle](docs/utility-befehle/geplante-nachrichten-befehle.md)
 - [Nachrichtenverfolgung deaktivieren](docs/opt-out.md)
 
 ***
