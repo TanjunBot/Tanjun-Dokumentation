@@ -1,8 +1,8 @@
 ---
+icon: feather
 description: >-
   Die Utility-Befehle sind Befehle, die sich in die anderen Befehlsgruppen nicht
   einsortieren lassen. Sie können alles mögliche machen.
-icon: feather
 ---
 
 # Utility-Befehle
@@ -35,14 +35,24 @@ Mit dem `/verschiedenes feedback`-Befehl kannst du uns Feedback zu Tanjun geben.
 
 ## `AFK`-Befehl
 
-Mit dem <kbd>/verschiedenes afk \<grund></kbd>-Befehl kannst du dich AFK[^1] setzen. Wenn andere Nutzer versuchen, dich zu pingen, werden sie als Information erhalten, dass du AFK bist und gleichzeitig erfahren, wieso du AFK bist. Wenn du wieder etwas schreibst, wird dir Tanjun eine Nachricht senden, in der aufgelistet steht, wo du überall gepingt wurdest, während du abwesend warst.
+Mit dem `/verschiedenes afk <grund>`-Befehl kannst du dich selbst AFK[^1] stellen. Wenn andere Nutzer dich zu pingen, werden sie darüber informiert, dass du AFK bist und gleichzeitig erfahren, wieso du AFK bist. Wenn du wieder etwas schreibst, wird dir Tanjun eine Nachricht senden, in der aufgelistet steht, wo du überall gepingt wurdest, während du abwesend warst.
 
 {% hint style="info" %}
-Das AFK-System ist Server Spezifisch. Du kannst dich also auf einem Server AFK stellen und auf einem anderen Server fröhlich weiter schreiben, ohne dass sich dein AFK Status ändert.
+Das AFK-System ist server-spezifisch. Du kannst dich also auf einem Server AFK stellen und auf einem anderen Server weiter schreiben, ohne dass sich dein AFK-Status ändert.
 {% endhint %}
 
 ## `Report`-Befehl
 
-Wenn das Report System aktiviert ist, kannst du mit `/verschiedenes <nutzer> <grund>` Befehl einen anderen Nutzer Reporten. Im idealfall wird sich die Server Administration dann um deinen Report kümmern.
+Wenn das Report-System auf dem Server aktiviert ist, kannst du mit `/verschiedenes report <nutzer> <grund>`-Befehl einen anderen Nutzer an das Serverteam melden. Im Idealfall wird sich die Server Administration dann um deinen Report kümmern.
+
+Weitere Informationen zum Report-System:
+
+{% content-ref url="../admin/moderation.md" %}
+[moderation.md](../admin/moderation.md)
+{% endcontent-ref %}
+
+## Weitere Utility-Befehle
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Booster-Rollen</strong></td><td>Wenn ein Nutzer deinen Server boostet, kann sich dieser mithilfe dieser Funktion eine eigene Booster-Rolle abholen.</td><td><a href="booster-rollen.md">booster-rollen.md</a></td></tr><tr><td><strong>Booster-Kanäle</strong></td><td>Wenn ein Nutzer deinen Server boostet, kann sich dieser mithilfe dieser Funktion einen eigenen Booster-Sprachkanal erstellen lassen.</td><td><a href="booster-kanale.md">booster-kanale.md</a></td></tr><tr><td><strong>Autopublish-Befehle</strong></td><td>Mit der Autopublish-Funktion werden Nachrichten, die in bestimmte Ankündigungskanäle gesendet werden, automatisch veröffentlich.</td><td><a href="autopublish-befehle.md">autopublish-befehle.md</a></td></tr><tr><td><strong>Brawlstars-Befehle</strong></td><td>Mit den Brawlstars-Befehlen kannst du einige Statistiken über verknüpfte Brawlstars-Accounts erhalten.</td><td><a href="brawlstars-befehle.md">brawlstars-befehle.md</a></td></tr><tr><td><strong>Twitch-Befehle</strong></td><td>Mit dem Twitch-Befehlen kannst du deinen Discord-Server benachrichtigen, wenn ein Twitch-Kanal live geht!</td><td><a href="twitch-befehle.md">twitch-befehle.md</a></td></tr><tr><td><strong>Geplante-Nachrichten-Befehle</strong></td><td>Mit dieser Funktion lassen sich Nachrichten planen, die zu einem späteren Zeitpunkt automatisch versendet werden sollen.</td><td><a href="geplante-nachrichten-befehle.md">geplante-nachrichten-befehle.md</a></td></tr></tbody></table>
 
 [^1]: Sich selbst als "away from keyboard" bzw. als abwesend markieren

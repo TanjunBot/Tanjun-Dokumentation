@@ -55,6 +55,44 @@ Warnungen, können hier auch ganz einfach gelöscht werden. Beim Entfernen einer
 
 Wenn ein Nutzer über das Warn-System in Timeout geschickt, gekickt oder gebannt wird, wird dies als Grund in den Audit Logs in den Servereinstellungen angezeigt.
 
+## Report-System
+
+Mit dem Report-System können Nutzer auf dem Server den `/verschiedenes report <nutzer> <grund>`-Befehl verwenden, um andere Nutzer bei einem Regelverstoß an das Serverteam zu melden.
+
+Die eingehenden Meldungen sendet Tanjun in einen Kanal, der zuvor festgelegt werden muss, damit das Report-System funktioniert.
+
+### Kanal für Reports festlegen
+
+Mit dem `/admin report kanal_setzen <kanal>`-Befehl kann festgelegt werden, in welchen Kanal neue Reports gesendet werden sollen.
+
+Unter den Nachrichten zu eingehenden Reports befinden sich Buttons zum **Akzeptieren oder** **Ablehnen des Reports** und zum [**Blockieren** **des Nutzers**](moderation.md#blockieren-funktion).
+
+Die Funktionen zum Akzeptieren und Ablehnen des Reports dienen lediglich zur Organisation innerhalb des Serverteams, um leichter kenntlich zu machen, welche Reports bereits bearbeitet wurden und ob etwas unternommen wurde oder ob sie fehlerhaft sind.
+
+{% hint style="info" %}
+Dies sollte ein privater Kanal sein, auf den nur das Serverteam (z.B. Moderatoren) zugreifen können, da Nutzer hier potenziell sensible Informationen teilen, wenn sie andere melden.
+{% endhint %}
+
+### Kanal für Reports entfernen
+
+Mit dem `/admin report kanal_entfernen`-Befehl kann der aktuelle Report-Kanal entfernt werden. Neue Reports werden dann nicht mehr in den zuvor festgelegten Kanal gesendet, der `/verschiedenes report`-Befehl funktioniert allerdings weiterhin, die Moderatoren werden nur nicht mehr direkt über eingehende Reports informiert.
+
+### Alle Reports anzeigen lassen
+
+Mit dem `/admin report reports_anzeigen [nutzer]`-Befehl können sich Admins oder Moderatoren alle aktuellen Reports anzeigen lassen.
+
+#### Blockieren-Funktion
+
+Die Blockieren-Funktion ist dafür da, um Nutzer, die Falschmeldungen oder Spam einreichen, daran zu hindern, weitere Reports absenden zu können.
+
+#### Blockieren eines Nutzers rückgängig machen
+
+Mit dem `/admin report nutzer_entblocken <nutzer>`-Befehl kann ein zuvor blockierter Nutzer entblockt werden, wodurch er wieder Reports einreichen kann. Entblockte Nutzer können jederzeit über einen der Buttons unter den Report-Embeds erneut blockiert werden.
+
+### Weitere Hinweise
+
+Wir empfehlen, in einem für alle Nutzer leicht zugänglichen Kanal (z.B. im Regelkanal) darauf hinzuweisen, dass es den Report-Befehl gibt, damit die Mitglieder wissen, dass er existiert und wie er zu verwenden ist.
+
 [^1]: Falls der verwarnte Nutzer den Bot z.B. blockiert hat oder generell keine Direktnachrichten akzeptiert, kann Tanjun diesem Nutzer keine Nachricht schreiben.
 
 [^2]: Direktnachricht
