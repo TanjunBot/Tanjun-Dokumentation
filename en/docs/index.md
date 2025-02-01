@@ -9,7 +9,7 @@ description: Auf dieser Seite findest du nützliche Hinweise zur Bedienung von T
 
 Wie die meisten Discord Bots hat auch Tanjun einen Hilfe-Command. Mit diesem kannst du dir alle aktuell verfügbaren Commands und deren Beschreibung anzeigen lassen.
 
-Du kannst die Hilfe wie folgt aufrufen:&#x20
+Du kannst die Hilfe wie folgt aufrufen:&#x20;
 
 ```
 /hilfe
@@ -17,11 +17,11 @@ Du kannst die Hilfe wie folgt aufrufen:&#x20
 
 Es wird dir eine Nachricht angezeigt, unter der du in einem Menü aus verschiedenen Kategorien auswählen kannst.
 
-<figure><img src="https://img.arion2000.xyz/r/RoZoVaFyQH.png" alt="Screenshot der Nachricht, die angezeigt wird, wenn man den Hilfe-Command verwendet."><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/help-command-select-category.png" alt="" width="563"><figcaption><p>Der Hilfe-Command zeigt ein aufklappbares Menü an, aus dem man Befehls-Kategorien auswählen kann.</p></figcaption></figure>
 
 Wenn du eine Kategorie auswählst, werden dir alle Commands dieser Kategorie plus einer Beschreibung angezeigt.
 
-<div data-full-width="false"><figure><img src="https://img.arion2000.xyz/r/fa0Ika996S.png" alt="Screenshot der Nachricht, die angezeigt wird, wenn man beim Hilfe-Command eine Kategorie auswählt (in diesem Beispiel wurde die Kategorie &#x22;utility&#x22; verwendet)."><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/help-command-spiele-category.png" alt="Screenshot der Nachricht, die angezeigt wird, wenn man beim Hilfe-Command eine Kategorie auswählt (in diesem Beispiel wurde die Kategorie &#x22;utility&#x22; verwendet)." width="481"><figcaption><p>Die Spiele-Kategorie im Hilfe-Command zeigt alle Befehle inklusive Beschreibungen an.</p></figcaption></figure></div>
 
 ***
 
@@ -45,7 +45,7 @@ Die Commands sind meistens wie folgt aufgebaut:
 
 #### Fehler melden: <a href="#a3.1" id="a3.1"></a>
 
-Mithilfe des `/bugreport` Commands kannst du ein gefundenes Problem bzw. einen Bug reporten, um uns als Entwickler darüber zu informieren.&#x20
+Mithilfe des `/bugreport` Commands kannst du ein gefundenes Problem bzw. einen Bug reporten, um uns als Entwickler darüber zu informieren.&#x20;
 
 #### Ideen/Feedback teilen: <a href="#a3.2" id="a3.2"></a>
 
@@ -64,4 +64,4 @@ Wenn wir in dieser Dokumentation Commands angeben, dann sind oft Elemente enthal
 <pre><code><strong>/commandname <Required argument> [Optional argument]
 </strong></code></pre>
 
-Die Zeichen `<`, `>`, `[` und `]` weisen wie im Beispiel auf erforderliche und optionale Argumente hin, die du an dieser Stelle selbst einsetzen musst.&#x20
+Die Zeichen `<`, `>`, `[` und `]` weisen wie im Beispiel auf erforderliche und optionale Argumente hin, die du an dieser Stelle selbst einsetzen musst.&#x20;
