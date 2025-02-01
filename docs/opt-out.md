@@ -50,6 +50,6 @@ Falls du die Nachrichtenverfolgung in der Vergangenheit deaktiviert hast und dic
 
 Nachdem du den Befehl ausgeführt hast, kannst du wieder an Minispielen teilnehmen und der Bot wird wieder mit Reaktionen auf deine Chatnachrichten reagieren.
 
-[^1]: Dies sind Interaktionen mit dem Bot, sind lediglich diese, die du aktiv und bewusst tätigst.
+[^1]: Diese Interaktionen mit dem Bot sind lediglich diese, die du aktiv und bewusst tätigst.
 
 [^2]: Du kannst an den Gewinnspielen, bei denen eine Voraussetzung das Schreiben einer bestimmten Anzahl an Nachrichten ist, nicht mehr teilnehmen.
