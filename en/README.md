@@ -1,7 +1,7 @@
 ---
 icon: house
-description: Dies ist die offizielle Dokumentation des Discord Bots Tanjun.
-cover: ../.gitbook/assets/page-cover.png
+description: This is the official documentation for Tanjun.
+cover: .gitbook/assets/page-cover.png
 coverY: 0
 layout:
   cover:
@@ -19,31 +19,31 @@ layout:
     visible: true
 ---
 
-# Übersicht
+# Overview
 
-## Willkommen! <a href="#a1" id="a1"></a>
+## Welcome! <a href="#a1" id="a1"></a>
 
-Hier erfährst du alles über die Commands und Funktionen im Discord Bot Tanjun.
+Here you can find help and learn everything about the commands and functions in the Discord Bot Tanjun.
 
-### 🎉Neue Tanjun-Version veröffentlicht!
+### 🎉New Tanjun Version Released!
 
-💫 Wir haben die brandneue, vollständig überarbeitete Version von Tanjun veröffentlicht. Zögere nicht und probier jetzt die neuen Funktionen aus!
+💫 We have just released the brand new, completely overhauled version of Tanjun. Try out the new features now!
 
 ***
 
-## Erste Schritte <a href="#a2" id="a2"></a>
+## Getting Started <a href="#a2" id="a2"></a>
 
-Arbeitest du das erste Mal mit Tanjun und möchtest etwas über grundlegende Einstellungen erfahren?\
-Schaue hier vorbei:
+Are you working with Tanjun for the first time and would like to learn about the basics?\
+Take a look here:
 
 {% content-ref url="intro/" %}
 [intro](intro/)
 {% endcontent-ref %}
 
-## Tipps & Tricks <a href="#a3" id="a3"></a>
+## Useful Tips <a href="#a3" id="a3"></a>
 
-Es gibt einige Tipps & Tricks, die du kennen solltest, wenn du Tanjun verwendest.\
-Hier findest du einige Beispiele:
+There are some tips & tricks you should know when using Tanjun.\
+You can find the overview here:
 
 {% content-ref url="docs/index.md" %}
 [index.md](docs/index.md)
@@ -51,29 +51,29 @@ Hier findest du einige Beispiele:
 
 ## Changelog <a href="#a4" id="a4"></a>
 
-Du hast die Möglichkeit, auf unserem [Discord Server](https://discord.arion2000.xyz) im [#┾🦆┋tanjun-changelog Kanal](https://discord.com/channels/831161440705839124/1098902476708642816) den Changelog zu sehen.
+You can find the changelog on our [Discord server](https://discord.arion2000.xyz) in the [#┾🦆┋tanjun-changelog channel](https://discord.com/channels/831161440705839124/1098902476708642816).
 
-Der Changelog enthält immer die neuesten Änderungen und Updates.
+The changelog always contains the latest changes and updates.
 
 ***
 
-## Hilf mit beim Aufbau dieser Dokumentation! <a href="#a5" id="a5"></a>
+## Help build this documentation! <a href="#a5" id="a5"></a>
 
 {% hint style="success" %}
-Wir würden uns freuen, wenn du uns beim Aufbauen dieser Dokumentation unterstützt! Dies kannst du ganz einfach [über GitHub](https://github.com/TanjunBot/Tanjun-Dokumentation) tun: [_Link (klick)_](https://github.com/TanjunBot/Tanjun-Dokumentation)
+We would be happy if you would support us in creating this documentation! You can do this easily [via GitHub](https://github.com/TanjunBot/Tanjun-Dokumentation): [_link (click)_](https://github.com/TanjunBot/Tanjun-Dokumentation)
 {% endhint %}
 
 ***
 
 <details>
 
-<summary>Hinweise zur Angabe von Commands</summary>
+<summary>Notes on how we specify commands</summary>
 
-Wenn wir Commands angeben, dann sind oft Elemente enthalten, die du durch etwas ersetzen musst. Wir geben diese Fälle wie folgt an:
+When we specify commands, they often contain elements that you need to replace with something. We specify these cases as follows:
 
-<pre><code><strong>/commandname <Erforderliches Argument> [Optionales Argument]
+<pre><code><strong>/command-name <Required argument> [Optional argument]
 </strong></code></pre>
 
-Die Zeichen `<`, `>`, `[` und `]` weisen wie im Beispiel auf erforderliche und optionale Argumente hin, die du an dieser Stelle selbst einsetzen musst.
+As in the example, the characters `<`, `>`, `[` and `]` indicate required and optional arguments, which you must enter yourself.
 
 </details>

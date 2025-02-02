@@ -59,7 +59,7 @@ Mit dem `/verschiedenes feedback` Command kannst du dein Feedback zu Tanjun an u
 
 ## Hinweise zur Angabe von Commands <a href="#a4" id="a4"></a>
 
-Wenn wir in dieser Dokumentation Commands angeben, dann sind oft Elemente enthalten, die du durch etwas ersetzen musst. Wir geben diese Fälle wie folgt an:
+Wenn wir in dieser Dokumentation Commands angeben, dann sind oft Elemente enthalten, die du durch etwas ersetzen musst. We specify these cases as follows:
 
 <pre><code><strong>/commandname <Required argument> [Optional argument]
 </strong></code></pre>
