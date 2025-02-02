@@ -1,8 +1,8 @@
 ---
+icon: calendar-circle-exclamation
 description: >-
   Mit dieser Funktion lassen sich Nachrichten planen, die zu einem späteren
   Zeitpunkt automatisch versendet werden sollen.
-icon: calendar-circle-exclamation
 ---
 
 # Geplante-Nachrichten-Befehle
@@ -29,6 +29,6 @@ Mit dem `/verschiedenes planen auflisten`-Befehl kannst du dir alle geplanten Na
 
 ## `Entfernen`-Befehl
 
-Mit dem `/verschiedenes planen entfernen <nachricht_id>`-Befehl kannst du eine geplante Nachricht löschen. Die Nachrichten-ID, welche für den `nachricht_id`-Parametere benötigt wird, findest du im [Auflisten-Befehl](geplante-nachrichten-befehle.md#auflisten-befehl).
+Mit dem `/verschiedenes planen entfernen <nachricht_id>`-Befehl kannst du eine geplante Nachricht löschen. Die Nachrichten-ID, welche für den `nachricht_id`-Parametere benötigt wird, findest du im [Auflisten-Befehl](scheduledmessages.md#auflisten-befehl).
 
 [^1]: Wie lange es vom Eingeben des Commands bis zum ersten Senden der Nachricht dauert, wird durch `send_in` angegeben.

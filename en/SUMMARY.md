@@ -41,6 +41,6 @@
 
 ***
 
-- [Rechtliches](legal/README.md)
-  - [Nutzungsbedingungen](legal/terms-of-service.md)
-  - [Datenschutzerklärung](legal/privacy-policy.md)
+* [Legal Information](legal/README.md)
+  * [Terms of Service](legal/terms-of-service.md)
+  * [Privacy Policy](legal/privacy-policy.md)
