@@ -17,8 +17,7 @@ Tanjun Pro ist ein Abonnement für **einen Server**, welches dem gesamten Server
 
 {% stepper %}
 {% step %}
-
-### Erweiterte Gewinnspiel-Features
+#### Erweiterte Gewinnspiel-Features
 
 <mark style="color:green;">→</mark> **Gewinnspiele im Voraus planen:** Plane ein Gewinnspiel, sobald dir die Idee dazu kommt und lass es zu einem späteren Zeitpunkt automatisch starten.
 
@@ -30,8 +29,7 @@ Tanjun Pro ist ein Abonnement für **einen Server**, welches dem gesamten Server
 {% endstep %}
 
 {% step %}
-
-### Maximale Kontrolle über dein Levelsystem
+#### Maximale Kontrolle über dein Levelsystem
 
 <mark style="color:green;">→</mark> **Eigene Level-Up-Nachricht:** Lege eine personalisierte Level-Up-Nachricht fest, die angezeigt wird, wenn ein Mitglied ein Level aufsteigt.
 
@@ -43,8 +41,7 @@ Tanjun Pro ist ein Abonnement für **einen Server**, welches dem gesamten Server
 {% endstep %}
 
 {% step %}
-
-### Minigame-Features für noch mehr Abwechslung und Flexibilität
+#### Minigame-Features für noch mehr Abwechslung und Flexibilität
 
 <mark style="color:green;">→</mark> **Counting Modes-Spielmodus:** Erhalte Zugriff auf diesen zusätzlichen und abwechslungsreichen Counting-Spielmodus. [👉Weitere Informationen](docs/minigames/counting/#counting-modes-variante)
 
@@ -54,8 +51,7 @@ Tanjun Pro ist ein Abonnement für **einen Server**, welches dem gesamten Server
 {% endstep %}
 
 {% step %}
-
-### Praktische Quality-of-Life-Verbesserungen
+#### Praktische Quality-of-Life-Verbesserungen
 
 <mark style="color:green;">→</mark> Kopiere mehrere Emojis auf einmal mit dem `/verschiedenes emoji_kopieren`-Befehl
 
@@ -75,8 +71,7 @@ Tanjun Plus ist ein Abonnement, welches dir als Unterstützer einige exklusive V
 
 {% stepper %}
 {% step %}
-
-### Erweitere deine Möglichkeiten mit exklusiven AI-Funktionen
+#### Erweitere deine Möglichkeiten mit exklusiven AI-Funktionen
 
 <mark style="color:green;">→</mark> **Eigene KI-Situationen:** Du möchtest einen KI-Charakter erstellen, der sich genau so verhält, wie du es gerne hättest oder der eine bestimmte Person imitiert? Diese Funktion ermöglicht es dir! [👉Weitere Informationen](#user-content-fn-1)[^1]
 
@@ -84,21 +79,19 @@ Tanjun Plus ist ein Abonnement, welches dir als Unterstützer einige exklusive V
 {% endstep %}
 
 {% step %}
-
-### Personalisiere deine Rank-Card
+#### Personalisiere deine Rank-Card
 
 <mark style="color:green;">→</mark> Lade einen benutzerdefinierten Hintergrund für deine Rank-Card hoch, um dich von anderen Mitgliedern abzuheben.
 {% endstep %}
 
 {% step %}
-
-### Starte anpassbare 4-Gewinnt-Spiele
+#### Starte anpassbare 4-Gewinnt-Spiele
 
 <mark style="color:green;">→</mark> Spiele das 4-Gewinnt-Minigame so kompliziert oder einfach wie du willst! Passe die Spielfeldgröße beliebig an: [#vier-gewinnt](docs/minigames/games.md#vier-gewinnt "mention")
 {% endstep %}
 {% endstepper %}
 
-Die Vorteile für Tanjun Plus könnensich jederzeit ändern. Es lohnt sich also, hier ab und zu mal vorbei zu schauen!
+Die Vorteile für Tanjun Plus können sich jederzeit ändern. Es lohnt sich also, hier ab und zu mal vorbei zu schauen!
 
 [^1]: Die Prüfung und Genehmigung von KI-Situationen erfolgt manuell. Es werden nur Situationen zugelassen, die ethischen Grundsätzen und den [Nutzungsbedingungen](legal/terms-of-service.md) entsprechen. Situationen, die beispielsweise schädliches, diskriminierendes oder ungesetzliches Verhalten fördern, Falschinformationen verbreiten oder die Privatsphäre oder das geistige Eigentum einzelner verletzen oder gefährden, werden abgelehnt. Wir behalten uns das Recht vor, KI-Situationen abzulehnen, die diese Standards nicht erfüllen.
 
