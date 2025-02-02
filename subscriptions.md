@@ -91,7 +91,7 @@ Tanjun Plus ist ein Abonnement, welches dir als Unterstützer einige exklusive V
 {% endstep %}
 {% endstepper %}
 
-Die Vorteile für Tanjun Plus könnensich jederzeit ändern. Es lohnt sich also, hier ab und zu mal vorbei zu schauen!
+Die Vorteile für Tanjun Plus können sich jederzeit ändern. Es lohnt sich also, hier ab und zu mal vorbei zu schauen!
 
 [^1]: Die Prüfung und Genehmigung von KI-Situationen erfolgt manuell. Es werden nur Situationen zugelassen, die ethischen Grundsätzen und den [Nutzungsbedingungen](legal/terms-of-service.md) entsprechen. Situationen, die beispielsweise schädliches, diskriminierendes oder ungesetzliches Verhalten fördern, Falschinformationen verbreiten oder die Privatsphäre oder das geistige Eigentum einzelner verletzen oder gefährden, werden abgelehnt. Wir behalten uns das Recht vor, KI-Situationen abzulehnen, die diese Standards nicht erfüllen.
 
