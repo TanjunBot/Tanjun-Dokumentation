@@ -60,7 +60,7 @@ The changelog always contains the latest changes and updates.
 ## Help build this documentation! <a href="#a5" id="a5"></a>
 
 {% hint style="success" %}
-We would be happy if you would support us in creating this documentation! Dies kannst du ganz einfach [über GitHub](https://github.com/TanjunBot/Tanjun-Dokumentation) tun.
+We would be happy if you would support us in creating this documentation! You can do this easily [via GitHub](https://github.com/TanjunBot/Tanjun-Dokumentation).
 {% endhint %}
 
 ***
