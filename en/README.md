@@ -1,6 +1,6 @@
 ---
-icon: house
 description: This is the official documentation for Tanjun.
+icon: house
 cover: .gitbook/assets/page-cover.png
 coverY: 0
 layout:
@@ -60,7 +60,7 @@ The changelog always contains the latest changes and updates.
 ## Help build this documentation! <a href="#a5" id="a5"></a>
 
 {% hint style="success" %}
-We would be happy if you would support us in creating this documentation! You can do this easily [via GitHub](https://github.com/TanjunBot/Tanjun-Dokumentation): [_link (click)_](https://github.com/TanjunBot/Tanjun-Dokumentation)
+We would be happy if you would support us in creating this documentation! You can do this easily [via GitHub](https://github.com/TanjunBot/Tanjun-Dokumentation).
 {% endhint %}
 
 ***
