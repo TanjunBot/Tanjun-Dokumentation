@@ -1,5 +1,6 @@
 ---
-description: Mit der Autopublish-Funktion werden Nachrichten, die in bestimmte Ankündigungskanäle gesendet werden, automatisch veröffentlich.
+description: >-
+  Mit der Autopublish-Funktion werden Nachrichten, die in bestimmte Ankündigungskanäle gesendet werden, automatisch veröffentlich.
 icon: bullhorn
 ---
 
