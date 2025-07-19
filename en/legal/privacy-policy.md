@@ -1,6 +1,6 @@
 ---
 icon: file-shield
-description: "Effective Date: 26/12/2024"
+description: 'Effective Date: 26/12/2024'
 hidden: true
 layout:
   title:
