@@ -1,6 +1,7 @@
 ---
 icon: user-gear
-description: Auf dieser Seite wird erklärt, welche Berechtigungen Tanjun auf dem Server braucht.
+description: >-
+  Auf dieser Seite wird erklärt, welche Berechtigungen Tanjun auf dem Server braucht.
 ---
 
 # Berechtigungen
