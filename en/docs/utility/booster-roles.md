@@ -1,5 +1,6 @@
 ---
-description: Wenn ein Nutzer deinen Server boostet, kann sich dieser mithilfe dieser Funktionen eine eigene Booster-Rolle abholen.
+description: >-
+  Wenn ein Nutzer deinen Server boostet, kann sich dieser mithilfe dieser Funktionen eine eigene Booster-Rolle abholen.
 icon: rocket-launch
 ---
 
