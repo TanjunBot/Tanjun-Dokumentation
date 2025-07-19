@@ -74,24 +74,24 @@ This should be a private channel that only the server team (e.g. moderators) can
 
 ### Remove channel for reports
 
-The current report channel can be removed with the `/admin report remove_channel` command. Neue Reports werden dann nicht mehr in den zuvor festgelegten Kanal gesendet, der `/verschiedenes report`-Befehl funktioniert allerdings weiterhin, die Moderatoren werden nur nicht mehr direkt über eingehende Reports informiert.
+The current report channel can be removed with the `/admin report remove_channel` command. New reports are then no longer sent to the previously defined channel, but the `/miscellaneous report` command still works, the moderators are just no longer informed directly about incoming reports.
 
-### Alle Reports anzeigen lassen
+### Display all reports
 
-Mit dem `/admin report reports_anzeigen [nutzer]`-Befehl können sich Admins oder Moderatoren alle aktuellen Reports anzeigen lassen.
+Admins or moderators can use the `/admin report show_reports [user]` command to display all current reports for a user.
 
-#### Blockieren-Funktion
+#### Block function
 
-Die Blockieren-Funktion ist dafür da, um Nutzer, die Falschmeldungen oder Spam einreichen, daran zu hindern, weitere Reports absenden zu können.
+The block function is there to prevent users who submit false reports or spam from being able to send further reports.
 
-#### Blockieren eines Nutzers rückgängig machen
+#### Unblocking a user
 
-Mit dem `/admin report nutzer_entblocken <nutzer>`-Befehl kann ein zuvor blockierter Nutzer entblockt werden, wodurch er wieder Reports einreichen kann. Entblockte Nutzer können jederzeit über einen der Buttons unter den Report-Embeds erneut blockiert werden.
+The `/admin report unblock_user <nutzer>` command can be used to unblock a previously blocked user, allowing them to submit reports again. Unblocked users can be blocked again at any time using one of the buttons under the report embeds.
 
-### Weitere Hinweise
+### Extra notes
 
-Wir empfehlen, in einem für alle Nutzer leicht zugänglichen Kanal (z.B. im Regelkanal) darauf hinzuweisen, dass es den Report-Befehl gibt, damit die Mitglieder wissen, dass er existiert und wie er zu verwenden ist.
+We recommend pointing out in a channel that is easily accessible to all users (e.g. in the rules channel) that the report command exists so that members know that it exists and how to use it.
 
-[^1]: If the warned user has blocked the bot, for example, or generally does not accept direct messages, Tanjun cannot write a message to this user.
+[^1]: If the warned user has blocked the bot or does not accept direct messages in general, Tanjun cannot send a message to this user.
 
 [^2]: Direct Message
