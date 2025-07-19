@@ -1,5 +1,6 @@
 ---
-description: Mit den Brawlstars-Befehlen kannst du einige Statistiken über verknüpfte Brawlstars-Accounts erhalten.
+description: >-
+  Mit den Brawlstars-Befehlen kannst du einige Statistiken über verknüpfte Brawlstars-Accounts erhalten.
 icon: luchador-mask
 ---
 
