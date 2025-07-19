@@ -25,7 +25,7 @@ Mit `/admin rolle rolle_entfernen <benutzer> <rolle>` kann man einem Nutzer eine
 Mit
 
 ```
-/admin rolle rolle_erstellen <name> [farbe] [anzeige_icon] [getrennt_anzeigen] [erwähnbar] [grund] [anzeige_emoji]
+/admin rolle rolle_erstellen <name> [farbe] [symbol] [getrennt_anzeigen] [erwähnbar] [grund] [anzeige_emoji]
 ```
 
 &#x20;kann man eine neue Rolle erstellen.
