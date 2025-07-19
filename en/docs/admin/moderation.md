@@ -1,11 +1,12 @@
 ---
 icon: screwdriver-wrench
-description: On this page you'll learn about the commands /admin kick, /admin ban, /admin unban, /admin timeout, /admin timeout_override and the warning system.
+description: >-
+  On this page you'll learn about the commands /admin kick, /admin ban, /admin unban, /admin timeout, /admin timeout_override and the warning system.
 ---
 
-# Moderation commands
+# Moderation Commands
 
-## Basic features
+## Basic Features
 
 Tanjun can execute the basic moderation commands. These include:
 
@@ -15,7 +16,7 @@ Tanjun can execute the basic moderation commands. These include:
 - `/admin timeout <user> <duration (in minutes)> [reason]`
 - `/admin remove_timeout <user> [reason]`
 
-## Warning system <a href="#warn" id="warn"></a>
+## Warning System <a href="#warn" id="warn"></a>
 
 The warning system in Tanjun can be used to warn other members if they have broken the rules.
 
@@ -53,44 +54,44 @@ Warnings can also be easily deleted here. When a warning is removed, the warned 
 
 If a user is sent to timeout, kicked or banned via the warning system, this is displayed as the reason in the audit logs in the server settings.
 
-## Report-System
+## Reporting System
 
-Mit dem Report-System können Nutzer auf dem Server den `/verschiedenes report <nutzer> <grund>`-Befehl verwenden, um andere Nutzer bei einem Regelverstoß an das Serverteam zu melden.
+With the reporting system, users on the server can use the `/miscellaneous report <nutzer> <grund>` command to report other users to the server team in the event of a rule violation.
 
-Die eingehenden Meldungen sendet Tanjun in einen Kanal, der zuvor festgelegt werden muss, damit das Report-System funktioniert.
+Tanjun sends the incoming report to a channel that must be defined in advance for the report system to work.
 
-### Kanal für Reports festlegen
+### Set channel for reports
 
-Mit dem `/admin report kanal_setzen <kanal>`-Befehl kann festgelegt werden, in welchen Kanal neue Reports gesendet werden sollen.
+The `/admin report set_channel <kanal>` command can be used to specify the channel which new reports are sent in.
 
-Unter den Nachrichten zu eingehenden Reports befinden sich Buttons zum **Akzeptieren oder** **Ablehnen des Reports** und zum [**Blockieren** **des Nutzers**](moderation.md#blockieren-funktion).
+Below the messages for incoming reports there are buttons for **accepting or** **rejecting the report** and for [**blocking** **the user**](moderation.md#blockieren-funktion).
 
-Die Funktionen zum Akzeptieren und Ablehnen des Reports dienen lediglich zur Organisation innerhalb des Serverteams, um leichter kenntlich zu machen, welche Reports bereits bearbeitet wurden und ob etwas unternommen wurde oder ob sie fehlerhaft sind.
+The functions for accepting and rejecting reports are solely for the organization of your server team. They make it easier to see which reports have already been processed, whether action was taken, or if they were invalid.
 
 {% hint style="info" %}
-Dies sollte ein privater Kanal sein, auf den nur das Serverteam (z.B. Moderatoren) zugreifen können, da Nutzer hier potenziell sensible Informationen teilen, wenn sie andere melden.
+This should be a private channel that only the server team (e.g. moderators) can access, as users share potentially sensitive information here when reporting others.
 {% endhint %}
 
-### Kanal für Reports entfernen
+### Remove channel for reports
 
-Mit dem `/admin report kanal_entfernen`-Befehl kann der aktuelle Report-Kanal entfernt werden. Neue Reports werden dann nicht mehr in den zuvor festgelegten Kanal gesendet, der `/verschiedenes report`-Befehl funktioniert allerdings weiterhin, die Moderatoren werden nur nicht mehr direkt über eingehende Reports informiert.
+The current report channel can be removed with the `/admin report remove_channel` command. New reports are then no longer sent to the previously defined channel, but the `/miscellaneous report` command still works, the moderators are just no longer informed directly about incoming reports.
 
-### Alle Reports anzeigen lassen
+### Display all reports
 
-Mit dem `/admin report reports_anzeigen [nutzer]`-Befehl können sich Admins oder Moderatoren alle aktuellen Reports anzeigen lassen.
+Admins or moderators can use the `/admin report show_reports [user]` command to display all current reports for a user.
 
-#### Blockieren-Funktion
+#### Block function
 
-Die Blockieren-Funktion ist dafür da, um Nutzer, die Falschmeldungen oder Spam einreichen, daran zu hindern, weitere Reports absenden zu können.
+The block function is there to prevent users who submit false reports or spam from being able to send further reports.
 
-#### Blockieren eines Nutzers rückgängig machen
+#### Unblocking a user
 
-Mit dem `/admin report nutzer_entblocken <nutzer>`-Befehl kann ein zuvor blockierter Nutzer entblockt werden, wodurch er wieder Reports einreichen kann. Entblockte Nutzer können jederzeit über einen der Buttons unter den Report-Embeds erneut blockiert werden.
+The `/admin report unblock_user <nutzer>` command can be used to unblock a previously blocked user, allowing them to submit reports again. Unblocked users can be blocked again at any time using one of the buttons under the report embeds.
 
-### Weitere Hinweise
+### Extra notes
 
-Wir empfehlen, in einem für alle Nutzer leicht zugänglichen Kanal (z.B. im Regelkanal) darauf hinzuweisen, dass es den Report-Befehl gibt, damit die Mitglieder wissen, dass er existiert und wie er zu verwenden ist.
+We recommend pointing out in a channel that is easily accessible to all users (e.g. in the rules channel) that the report command exists so that members know that it exists and how to use it.
 
-[^1]: If the warned user has blocked the bot, for example, or generally does not accept direct messages, Tanjun cannot write a message to this user.
+[^1]: If the warned user has blocked the bot or does not accept direct messages in general, Tanjun cannot send a message to this user.
 
 [^2]: Direct Message

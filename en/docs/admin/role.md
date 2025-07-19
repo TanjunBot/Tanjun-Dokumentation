@@ -1,69 +1,70 @@
 ---
 icon: id-badge
-description: Hier geht es um die Commands /admin addrole, /admin removerole, /admin createrole und /admin deleterole.
+description: >-
+  On this page you'll learn about the commands /admin addrole, /admin removerole, /admin createrole and /admin deleterole.
 ---
 
-# Rollen-Befehle
+# Role Commands
 
 {% hint style="info" %}
-Man könnte sich ja fragen: Warum gibt es diese Commands in Tanjun? Das kann man doch auch alles normal in den Servereinstellungen in Discord machen.\
-Ja, das ist soweit richtig, allerdings ist dies besonders an Mobilgeräten häufig sehr umständlich und nervig. Diese Commands sind vorallem dafür gedacht, die Verwaltung des Servers in der mobilen App angenehmer und einfacher zu gestalten.
+You might ask yourself: Why do these commands exist in Tanjun? I can also do all of this normally in the settings of my server.\
+Yes, that's true so far, but especially on mobile devices, this is often very cumbersome and annoying. These commands are primarily intended to make managing your server in the mobile app more convenient and easier.
 {% endhint %}
 
-## `Rolle_hinzufügen`-Befehl
+## `Add_role` command
 
-Mit `/admin rolle rolle_hinzufügen <benutzer> <rolle>` kann man einem Nutzer eine Rolle geben.
+With `/admin role add_role <user> <role>` you can give a user a role.
 
-## `Rolle_entfernen`-Befehl
+## `Remove_role` command
 
-Mit `/admin rolle rolle_entfernen <benutzer> <rolle>` kann man einem Nutzer eine Rolle entziehen.
+With `/admin role role_remove <user> <role>` you can remove a role from a user.
 
-## `Rolle_erstellen`-Befehl
+## `Create_role` command
 
-Mit
+With
 
 ```
-/admin rolle rolle_erstellen <name> [farbe] [anzeige_icon] [getrennt_anzeigen] [erwähnbar] [grund] [anzeige_emoji]
+/admin rolle rolle_erstellen <name> [farbe] [symbol] [getrennt_anzeigen] [erwähnbar] [grund] [anzeige_emoji]
 ```
 
-&#x20;kann man eine neue Rolle erstellen.
+&#x20;you can create a new role.
 
 <details>
 
-<summary>Bedeutungen der einzelnen Parameter</summary>
+<summary>Meaning of the individual parameters</summary>
 
-- Mit `name` gibt man den Namen der Rolle an.
-- Mit `farbe` kann man die Farbe der Rolle als [HEX-Code](https://htmlcolorcodes.com) angeben. (Beispiel: `#ECC3EF`)\
-  Wenn man keine Farbe angibt, hat die Rolle die Standardfarbe.
-- Mit `anzeige_icon` kann man ein Bild hochladen, das als Rollenicon z.B. [neben dem Namen von Mitgliedern mit dieser Rolle](#user-content-fn-1)[^1] angezeigt wird.\
-  **Achtung:** Der Server muss Boost-Level 2 sein, um ein Rollenicon zu verwenden. Das Bild muss kleiner als 256 kB und mindestens 64x64 Pixel groß sein.
-- Mit `anzeige_emoji` kann man ein Emoji auswählen, das als Rollenicon z.B. [nebem dem Namen von Mitgliedern mit dieser Rolle](#user-content-fn-2)[^2] angezeigt wird.\
-  **Achtung:** Dieser Parameter kann [**nicht in Kombination**](#user-content-fn-3)[^3] mit `display_icon` angegeben werden.
-- Mit `getrennt_anzeigen` kann man festlegen, ob Mitglieder mit dieser Rolle auf der rechten Seite gruppiert werden sollen.
-- Mit `erwähnbar` kann man festlegen, ob Mitglieder diese Rolle erwähnen dürfen oder nicht.
-- Mit `grund` kann man einen Text festlegen, der als [Begründung für das Erstellen der Rolle im Audit-Log](#user-content-fn-4)[^4] angezeigt wird.
+- Use `name` to specify the name of the role.
+- With `color` you can specify the color of the role as [HEX code](https://htmlcolorcodes.com). (Example: `#ECC3EF`)\
+  If you don't specify a color, the role has the default color.
+- With `display_icon` you can upload an image that is displayed as a role icon e.g. [next to the name of members with this role](#user-content-fn-1)[^1].\
+  **Important:** The server must have boost level 2 to use a role icon. The image must be smaller than 256 kB and at least 64x64 pixels in size.
+- With `display_emoji` you can select an emoji that is displayed as a role icon, e.g. [next to the name of members with this role](#user-content-fn-2)[^2].\
+  **Important:** This parameter [**can't be specified in combination**](#user-content-fn-3)[^3] with `display_icon`.
+- With `display_seperately` you can specify whether members with this role should be grouped on the right-hand side.
+- With `mentionable` you can specify whether members are allowed to mention this role or not.
+- With `reason` you can define a text that is displayed as [reason for creating the role in the audit log](#user-content-fn-4)[^4].
 
 </details>
 
-## `Rolle_löschen`-Befehl
+## `Delete_role` command
 
-Mit `/admin rolle rolle_löschen <rolle> [grund]` kann man eine Rolle löschen.
+You can delete a role with `/admin role role_delete <role> [reason]`.
 
 <details>
 
-<summary>Bedeutungen der einzelnen Parameter</summary>
+<summary>Meaning of the individual parameters</summary>
 
-- Mit `role` gibt man die Rolle an, die gelöscht werden soll.
-- Mit `reason` kann man einen Text festlegen, der als [Begründung für das Erstellen der Rolle im Audit-Log](#user-content-fn-5)[^5] angezeigt wird.
+- Use `role` to specify the role that is to be deleted.
+- With `reason` you can define a text that is displayed as [reason for creating the role in the audit log](#user-content-fn-5)[^5].
 
 </details>
 
-[^1]: Wenn Mitglieder mehrere Rollen besitzen, wird immer das Icon der höchsten Rolle angezeigt, die ein Icon besitzt.
+[^1]: If members have multiple roles, the icon of the highest role that has an icon is always displayed.
 
-[^2]: Wenn Mitglieder mehrere Rollen besitzen, wird immer das Icon der höchsten Rolle angezeigt, die ein Icon besitzt.
+[^2]: If members have multiple roles, the icon of the highest role that has an icon is always displayed.
 
-[^3]: Das display\_icon wird bevorzugt.
+[^3]: The display\_icon is preferred.
 
-[^4]: Begründungen, die im Audit-Log angezeigt werden, sind für viele Sachen in Discord implementiert, können aber in den meisten Fällen nur über Bots verwendet werden.
+[^4]: Reasons that are displayed in the audit log are available for many things in Discord, but in most cases can only be used via bots.
 
-[^5]: Begründungen, die im Audit-Log angezeigt werden, sind für viele Sachen in Discord implementiert, können aber in den meisten Fällen nur über Bots verwendet werden.
+[^5]: Reasons that are displayed in the audit log are available for many things in Discord, but in most cases can only be used via bots.

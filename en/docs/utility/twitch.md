@@ -1,5 +1,6 @@
 ---
-description: Mit dem Twitch-Befehlen kannst du deinen Discord-Server benachrichtigen, wenn ein Twitch-Kanal live geht!
+description: >-
+  Mit dem Twitch-Befehlen kannst du deinen Discord-Server benachrichtigen, wenn ein Twitch-Kanal live geht!
 icon: twitch
 ---
 

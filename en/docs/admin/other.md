@@ -1,9 +1,9 @@
 ---
 icon: ellipsis
-description: Hier geht es um die Commands /admin say, /admin embed und /admin createemoji.
+description: On this page you'll learn about the commands /admin say, /admin embed and /admin createemoji.
 ---
 
-# More
+# Miscellaneous
 
 ## `Say` command
 

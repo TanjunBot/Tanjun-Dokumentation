@@ -1,6 +1,7 @@
 ---
 icon: calendar-circle-exclamation
-description: Mit dieser Funktion lassen sich Nachrichten planen, die zu einem späteren Zeitpunkt automatisch versendet werden sollen.
+description: >-
+  Mit dieser Funktion lassen sich Nachrichten planen, die zu einem späteren Zeitpunkt automatisch versendet werden sollen.
 ---
 
 # Geplante-Nachrichten-Befehle

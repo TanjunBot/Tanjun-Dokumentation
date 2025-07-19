@@ -1,5 +1,6 @@
 ---
-description: Wenn ein Nutzer deinen Server boostet, kann sich dieser mithilfe dieser Funktion einen eigenen Booster-Sprachkanal erstellen lassen.
+description: >-
+  Wenn ein Nutzer deinen Server boostet, kann sich dieser mithilfe dieser Funktion einen eigenen Booster-Sprachkanal erstellen lassen.
 icon: rocket-launch
 ---
 

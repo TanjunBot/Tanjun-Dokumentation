@@ -1,6 +1,7 @@
 ---
 icon: message-slash
-description: So kannst du dafür sorgen, dass Tanjun deine Nachrichten nicht verarbeitet oder nachverfolgt.
+description: >-
+  So kannst du dafür sorgen, dass Tanjun deine Nachrichten nicht verarbeitet oder nachverfolgt.
 layout:
   title:
     visible: true

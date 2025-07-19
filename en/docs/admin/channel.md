@@ -1,6 +1,7 @@
 ---
 icon: align-left
-description: On this page you'll learn about the commands /admin purge, /admin nuke, /admin slowmode, /admin lock and /admin unlock.
+description: >-
+  On this page you'll learn about the commands /admin purge, /admin nuke, /admin slowmode, /admin lock and /admin unlock.
 ---
 
 # Channel commands

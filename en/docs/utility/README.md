@@ -1,6 +1,7 @@
 ---
 icon: feather
-description: Die Utility-Befehle sind Befehle, die sich in die anderen Befehlsgruppen nicht einsortieren lassen. Sie können alles mögliche machen.
+description: >-
+  Die Utility-Befehle sind Befehle, die sich in die anderen Befehlsgruppen nicht einsortieren lassen. Sie können alles mögliche machen.
 ---
 
 # Utility-Befehle
