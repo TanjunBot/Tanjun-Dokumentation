@@ -6,11 +6,11 @@
   - [FAQ](intro/faq.md)
 - [Tanjun Pro & Tanjun Plus](subscriptions.md)
 
-## Functions <a href="#docs" id="docs"></a>
+## Features <a href="#docs" id="docs"></a>
 
 - [Introduction](docs/index.md)
-- [Admin-Commands](docs/admin/README.md)
-  - [Moderator Commands](docs/admin/moderation.md)
+- [Admin Commands](docs/admin/README.md)
+  - [Moderation Commands](docs/admin/moderation.md)
   - [Channel Commands](docs/admin/channel.md)
   - [Role Commands](docs/admin/role.md)
   - [Other Commands](docs/admin/other.md)
