@@ -11,7 +11,7 @@ jobs:
   stale:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/stale@v9.1.0
+      - uses: actions/stale@v10.0.0
         with:
           stale-pr-message: 'Diese Pull Request wurde als inaktiv markiert, weil sie seit 30 Tagen offen ist und keine Aktivität aufweist. Entferne das "Inaktiv"-Label oder diesen Kommentar, sonst wird diese Pull Request in 5 Tagen geschlossen.'
           close-pr-message: 'Diese Pull Request wurde geschlossen, weil sie seit 5 Tagen keine Aktivität aufweist.'
