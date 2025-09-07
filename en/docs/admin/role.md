@@ -24,7 +24,7 @@ With `/admin role role_remove <user> <role>` you can remove a role from a user.
 With
 
 ```
-/admin rolle rolle_erstellen <name> [farbe] [symbol] [getrennt_anzeigen] [erwähnbar] [grund] [anzeige_emoji]
+/admin role role_create <name> [color] [display_icon] [display_seperately] [mentionable] [reason] [display_emoji]
 ```
 
 &#x20;you can create a new role.
