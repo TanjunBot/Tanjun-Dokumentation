@@ -24,7 +24,7 @@ Um einen Kanal zum Ankündigungskanal zu machen, musst du folgendes tun:
 <img src="../../.gitbook/assets/enabled-announcement-channel-option.png" alt="" data-size="original">
 
 3. Speichere die Änderungen
-  {% endhint %}
+   {% endhint %}
 
 ## `Entfernen`-Befehl
 
