@@ -1,18 +1,7 @@
 ---
-icon: section
 description: 'Gültig ab: 26.12.2024'
 hidden: true
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: true
-  pagination:
-    visible: false
+icon: section
 ---
 
 # Nutzungsbedingungen
