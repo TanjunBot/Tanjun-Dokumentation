@@ -33,6 +33,14 @@ Der Dateityp für das Emoji muss entweder [`JPEG`](#user-content-fn-1)[^1], [`PN
 Discord empfiehlt eine Dateigröße von maximal 256 kB und eine Auflösung von 128x128.
 {% endhint %}
 
+## `Emoji_kopieren`-Befehl
+
+Mit dem `/admin emoji_kopieren <emoji>`-Befehl können Emojis von anderen Servern kopiert werden. Dieses Emoji wird dann genau so heißen wie das originale Emoji.&#x20;
+
+{% hint style="info" %}
+Wenn der Server [Tanjun Pro](../../subscriptions.md#tanjun-pro) besitzt, können mehrere Emojis auf einmal kopiert werden. Server ohne Tanjun Pro können immer nur ein Emoji auf einmal kopieren.
+{% endhint %}
+
 [^1]: JPEG und JPG sind das gleiche.
 
 [^2]: Verwende diesen Dateityp für statische, transparente Emojis, die keinen Hintergrund haben sollen.
