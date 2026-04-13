@@ -1,9 +1,10 @@
 ---
+description: >-
+  Hier geht es um die Commands /admin say, /admin embed, /admin createemoji und /admin copyemoji.
 icon: ellipsis
-description: Hier geht es um die Commands /admin say, /admin embed und /admin createemoji.
 ---
 
-# More
+# Miscellaneous
 
 ## `Say` command
 
@@ -28,9 +29,15 @@ With `name` you enter the name that the emoji should have and with `image_url` y
 {% hint style="info" %}
 The file type for the emoji must be either [`JPEG`](#user-content-fn-1)[^1], [`PNG`](#user-content-fn-2)[^2] or [`GIF`](#user-content-fn-3)[^3].
 
-Discord recommends a maximum file size of 256 kB and a resolution of 128x128.
+Discord recommends to keep files below 256 kB and a resolution of 128x128.
+{% endhint %}
 
-Emoji names must be at least 2 characters long and may only contain [alphanumeric characters](#user-content-fn-4)[^4] and underscores.
+## `Emoji_kopieren`-Befehl
+
+Mit dem `/admin emoji_kopieren <emoji>`-Befehl können Emojis von anderen Servern kopiert werden. Dieses Emoji wird dann genau so heißen wie das originale Emoji.&#x20;
+
+{% hint style="info" %}
+Wenn der Server [Tanjun Pro](../../subscriptions.md#tanjun-pro) besitzt, können mehrere Emojis auf einmal kopiert werden. Server ohne Tanjun Pro können immer nur ein Emoji auf einmal kopieren.
 {% endhint %}
 
 [^1]: JPEG and JPG are the same.
@@ -38,5 +45,3 @@ Emoji names must be at least 2 characters long and may only contain [alphanumeri
 [^2]: Use this file type for static, transparent emojis that should not have a background.
 
 [^3]: Use this file type for animated emojis.
-
-[^4]: Alphanumeric characters include all letters (A-Z, a-z) and digits (0-9).
