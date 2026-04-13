@@ -29,7 +29,7 @@ With `name` you enter the name that the emoji should have and with `image_url` y
 {% hint style="info" %}
 The file type for the emoji must be either [`JPEG`](#user-content-fn-1)[^1], [`PNG`](#user-content-fn-2)[^2] or [`GIF`](#user-content-fn-3)[^3].
 
-Discord empfiehlt eine Dateigröße von maximal 256 kB und eine Auflösung von 128x128.
+Discord recommends to keep files below 256 kB and a resolution of 128x128.
 {% endhint %}
 
 ## `Emoji_kopieren`-Befehl
