@@ -13,7 +13,7 @@
   - [Moderation Commands](docs/admin/moderation.md)
   - [Channel Commands](docs/admin/channel.md)
   - [Role Commands](docs/admin/role.md)
-  - [Other Commands](docs/admin/other.md)
+  - [More](docs/admin/weiteres.md)
 - [Minigames](docs/minigames/README.md)
   - [Arcade & Classic Games](docs/minigames/games.md)
   - [Counting](docs/minigames/counting/README.md)

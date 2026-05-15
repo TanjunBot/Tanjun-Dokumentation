@@ -4,7 +4,7 @@ description: >-
   Hier geht es um die Spiele Tic-Tac-Toe, Vier gewinnt, Akinator, Worlde, Galgenmännchen, Flaggenquiz und Schere-Stein-Papier.
 ---
 
-# Arcade & klassische Spiele
+# Arcade and classic games
 
 ## Tic-Tac-Toe
 

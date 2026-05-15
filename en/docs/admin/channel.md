@@ -34,7 +34,7 @@ This command is particularly useful if you want to set the slow mode to a number
 
 With `/admin slowmode 0 [channel]` you can deactivate the slow mode in a channel.
 
-## 'Lock' and 'Unlock' commands
+## `Lock` and `Unlock` commands
 
 With these two commands, you can either prevent members from writing messages in a channel or allow them to write messages again.
 
