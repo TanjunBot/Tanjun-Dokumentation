@@ -4,40 +4,40 @@ description: >-
 icon: message-slash
 ---
 
-# Nachrichtenverfolgung deaktivieren
+# Disable Message Tracking
 
-Tanjun liest oder verarbeitet **keine** deiner normalen Chatnachrichten. Lediglich Text in Befehlen, Formularen oder Minispielen wird von Tanjun verarbeitet, da dies für die Funktionsweise des Bots notwendig ist.
+Tanjun does **not** read or process your normal chat messages. Only text in commands, forms or minigames is processed by Tanjun, as this is necessary for the bot to function.
 
-Für weitere Informationen über den Datenschutz in Tanjun, klicke [hier](https://go.tanjun.bot/privacy).
+For more information about data protection in Tanjun, click [here](https://go.tanjun.bot/privacy).
 
-## Befehl zum Deaktivieren der Nachrichtenverfolgung
+## Command to opt out of message tracking
 
-Um die Nachrichtenverfolgung von Tanjun zu deaktivieren, kannst du den folgenden Befehl verwenden:
-
-```
-/verschiedenes nachrichtenverfolgung deaktivieren
-```
-
-### Vorteile
-
-Du kannst mit diesem Befehl die Privatsphäre von dir und deinen Nachrichten weiter erhöhen, da Tanjun alle deine Nachrichten [(außer Befehle und Einträge in z.B. Formulare von Tanjun)](#user-content-fn-1)[^1] nicht liest und ignoriert.
-
-### Nachteile
-
-Wenn du die Nachrichtenverfolgung deaktivierst, kannst du z.B. nicht mehr an Minispielen von Tanjun teilnehmen und der Bot wird auf deine normale Chatnachrichten nicht mit Reaktionen reagieren.
-
-Außerdem kannst du durch das Deaktivieren der Nachrichtenverfolgung im Levelsystem keine XP mehr sammeln und du kannst [an manchen Gewinnspielen](#user-content-fn-2)[^2] nicht mehr teilnehmen.
-
-## Befehl zum Reaktivieren der Nachrichtenverfolgung
-
-Falls du die Nachrichtenverfolgung in der Vergangenheit deaktiviert hast und dich dazu entschieden hast, sie wieder zu aktivieren, kannst du dies mit dem folgenden Befehl tun:
+To disable Tanjun's message tracking, you can use the following command:
 
 ```
-/verschiedenes nachrichtenverfolgung aktivieren
+/miscellaneous message_tracking deactivate
 ```
 
-Nachdem du den Befehl ausgeführt hast, kannst du wieder an Minispielen teilnehmen und der Bot wird wieder mit Reaktionen auf deine Chatnachrichten reagieren.
+### Pros
 
-[^1]: Diese Interaktionen mit dem Bot sind lediglich diese, die du aktiv und bewusst tätigst.
+You can use this command to further increase the privacy of you and your messages, as Tanjun does not read and ignores all your messages [(except commands and entries in e.g. Tanjun forms)](#user-content-fn-1)[^1].
 
-[^2]: Du kannst an den Gewinnspielen, bei denen eine Voraussetzung das Schreiben einer bestimmten Anzahl an Nachrichten ist, nicht mehr teilnehmen.
+### Cons
+
+If you disable message tracking, you will no longer be able to participate in Tanjun's minigames, for example, and the bot will not add reactions or respond to your normal chat messages.
+
+In addition, by disabling message tracking in the level system, you can no longer collect XP and you can no longer participate [in some giveaways](#user-content-fn-2)[^2].
+
+## Command to reactivate message tracking
+
+If you have disabled message tracking in the past and have decided to enable it again, you can do so with the following command:
+
+```
+/miscellaneous message_tracking activate
+```
+
+After you have executed the command, you can participate in minigames again and the bot will respond to your chat messages again.
+
+[^1]: These interactions with the bot are only those that you actively and consciously carry out.
+
+[^2]: You can no longer take part in giveaways that require you to write a certain number of messages.
