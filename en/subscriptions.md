@@ -13,7 +13,7 @@ description: Mit Tanjun Plus und Tanjun Pro unterstützt du die Entwicklung des 
 
 Tanjun Pro ist ein Abonnement für **einen Server**, welches dem gesamten Server einige Vorteile gibt. Dieses Abo kostet **6,99€** im Monat. Es kann jederzeit gekündigt werden.
 
-### Vorteile
+### Pros
 
 {% stepper %}
 {% step %}
@@ -71,7 +71,7 @@ Die Vorteile für Tanjun Pro können sich jederzeit ändern. Es lohnt sich also,
 
 Tanjun Plus ist ein Abonnement, welches dir als Unterstützer einige exklusive Vorteile bringt, aber nicht für den gesamten Server aktiviert wird. Dieses Abo kostet **4,99€** im Monat. Es kann jederzeit gekündigt werden.
 
-### Vorteile
+### Pros
 
 {% stepper %}
 {% step %}
