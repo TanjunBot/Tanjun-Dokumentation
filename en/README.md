@@ -3,6 +3,20 @@ description: This is the official documentation for Tanjun.
 icon: house
 cover: .gitbook/assets/page-cover.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Overview
