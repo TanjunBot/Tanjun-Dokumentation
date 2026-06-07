@@ -1,6 +1,6 @@
 ---
-icon: list-ol
 description: Hier geht es um die Counting-Minigames.
+icon: list-ol
 ---
 
 # Counting
@@ -13,9 +13,9 @@ Das Ziel von Counting ist es, in 1er-Schritten bis in die Unendlichkeit zu zähl
 
 ### Einrichtung
 
-- Verwende den `/minispiel counting kanal_setzen <kanal>`-Befehl, um einen Kanal auf dem Server zum Counting-Kanal zu machen. Du kannst auch in mehreren Kanälen parallel Counting-Spiele laufen lassen.
-- Verwende den `/minispiel counting kanal_entfernen <kanal>`-Befehl, um das Counting-Spiel in einem Kanal zu beenden.
-- Verwende den `/minispiel counting fortschritt_setzen <kanal> <fortschritt>`-Befehl, um den Fortschritt zu ändern. Wenn du den Fortschritt z.B. auf `100` setzt, wäre die nächste korrekte Zahl `101`.
+* Verwende den `/minispiel counting kanal_setzen <kanal>`-Befehl, um einen Kanal auf dem Server zum Counting-Kanal zu machen. Du kannst auch in mehreren Kanälen parallel Counting-Spiele laufen lassen.
+* Verwende den `/minispiel counting kanal_entfernen <kanal>`-Befehl, um das Counting-Spiel in einem Kanal zu beenden.
+* Verwende den `/minispiel counting fortschritt_setzen <kanal> <fortschritt>`-Befehl, um den Fortschritt zu ändern. Wenn du den Fortschritt z.B. auf `100` setzt, wäre die nächste korrekte Zahl `101`.
 
 ## Counting Modes-Variante
 
@@ -35,9 +35,9 @@ Um das Countingmodes-Minispiel zu aktivieren, benötigt der Server das **Tanjun 
 
 ### Einrichtung
 
-- Verwende den `/minispiel countingmodes kanal_setzen <kanal>`-Befehl, um einen Kanal auf dem Server zum Kanal für das Countingmodes-Spiel zu machen. Du kannst auch in mehreren Kanälen parallel Counting-Spiele laufen lassen.
-- Verwende den `/minispiel countingmodes kanal_entfernen <kanal>`-Befehl, um das Countingmodes-Spiel in einem Kanal zu beenden.
-- Verwende den `/minispiel countingmodes fortschritt_setzen <kanal> <fortschritt>`-Befehl, um den Fortschritt zu ändern.
+* Verwende den `/minispiel countingmodes kanal_setzen <kanal>`-Befehl, um einen Kanal auf dem Server zum Kanal für das Countingmodes-Spiel zu machen. Du kannst auch in mehreren Kanälen parallel Counting-Spiele laufen lassen.
+* Verwende den `/minispiel countingmodes kanal_entfernen <kanal>`-Befehl, um das Countingmodes-Spiel in einem Kanal zu beenden.
+* Verwende den `/minispiel countingmodes fortschritt_setzen <kanal> <fortschritt>`-Befehl, um den Fortschritt zu ändern.
 
 ## Counting Challenge-Variante
 
@@ -47,6 +47,6 @@ Im Countingchallenge-Modus kann man in 1er-Schritten unendlich weit zählen, abe
 
 ### Einrichtung
 
-- Verwende den `/minispiel countingchallenge kanal_setzen <kanal>`-Befehl, um einen Kanal auf dem Server zum Kanal für das Countingchallenge-Spiel zu machen. Du kannst auch in mehreren Kanälen parallel Counting-Spiele laufen lassen.
-- Verwende den `/minispiel countingchallenge kanal_entfernen <kanal>`-Befehl, um das Countingmodes-Spiel in einem Kanal zu beenden.
-- Verwende den `/minispiel countingchallenge fortschritt_setzen <kanal> <fortschritt>`-Befehl, um den Fortschritt zu ändern.
+* Verwende den `/minispiel countingchallenge kanal_setzen <kanal>`-Befehl, um einen Kanal auf dem Server zum Kanal für das Countingchallenge-Spiel zu machen. Du kannst auch in mehreren Kanälen parallel Counting-Spiele laufen lassen.
+* Verwende den `/minispiel countingchallenge kanal_entfernen <kanal>`-Befehl, um das Countingchallenge-Spiel in einem Kanal zu beenden.
+* Verwende den `/minispiel countingchallenge fortschritt_setzen <kanal> <fortschritt>`-Befehl, um den Fortschritt zu ändern.

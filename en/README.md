@@ -1,9 +1,10 @@
 ---
 description: This is the official documentation for Tanjun.
 icon: house
-cover: .gitbook/assets/page-cover.png
+cover: .gitbook/assets/page-cover (1).png
 coverY: 0
 layout:
+  width: default
   cover:
     visible: true
     size: full
@@ -16,6 +17,12 @@ layout:
   outline:
     visible: true
   pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
     visible: true
 ---
 
@@ -71,7 +78,7 @@ We would be happy if you would support us in creating this documentation! You ca
 
 When we specify commands, they often contain elements that you need to replace with something. We specify these cases as follows:
 
-<pre><code><strong>/command-name <Required argument> [Optional argument]
+<pre><code><strong>/command-name  [Optional argument]
 </strong></code></pre>
 
 As in the example, the characters `<`, `>`, `[` and `]` indicate required and optional arguments, which you must enter yourself.
