@@ -1,6 +1,6 @@
 ---
-icon: list-ol
 description: Hier geht es um die Counting-Minigames.
+icon: list-ol
 ---
 
 # Counting
@@ -48,5 +48,5 @@ Im Countingchallenge-Modus kann man in 1er-Schritten unendlich weit zählen, abe
 ### Einrichtung
 
 * Verwende den `/minispiel countingchallenge kanal_setzen <kanal>`-Befehl, um einen Kanal auf dem Server zum Kanal für das Countingchallenge-Spiel zu machen. Du kannst auch in mehreren Kanälen parallel Counting-Spiele laufen lassen.
-* Verwende den `/minispiel countingchallenge kanal_entfernen <kanal>`-Befehl, um das Countingmodes-Spiel in einem Kanal zu beenden.
+* Verwende den `/minispiel countingchallenge kanal_entfernen <kanal>`-Befehl, um das Countingchallenge-Spiel in einem Kanal zu beenden.
 * Verwende den `/minispiel countingchallenge fortschritt_setzen <kanal> <fortschritt>`-Befehl, um den Fortschritt zu ändern.
