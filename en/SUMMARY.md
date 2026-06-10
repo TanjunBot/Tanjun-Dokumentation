@@ -22,7 +22,7 @@
     - [Even Numbers](docs/minigames/counting/3.md)
     - [Odd Numbers](docs/minigames/counting/4.md)
     - [From 100 To 0](docs/minigames/counting/5.md)
-    - [Hundreds Steps](docs/minigames/counting/6.md)
+    - [Increments of 100](docs/minigames/counting/6.md)
     - [Square Numbers](docs/minigames/counting/7.md)
     - [Cubic Numbers](docs/minigames/counting/8.md)
     - [Prime Numbers](docs/minigames/counting/9.md)
