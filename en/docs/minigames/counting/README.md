@@ -1,8 +1,6 @@
 ---
-
 description: On this page you'll learn about the counting minigames.
 icon: list-ol
-
 ---
 
 # Counting
@@ -15,9 +13,9 @@ The goal of the counting game is to count in increments of 1 to infinity. The us
 
 ### Setup
 
-* Use the `/minigame counting set_channel <channel>` command to designate a channel on the server as the counting channel. You can also run counting games in multiple channels at the same time.
-* Use the `/minigame counting remove_channel <channel>` command to end the counting game in a channel.
-* Use the `/minigame counting set_progress <channel> <progress>` command to set the progress to a specific number. If you set the progress to `100`, for example, the next correct number would be `101`.
+- Use the `/minigame counting set_channel <channel>` command to designate a channel on the server as the counting channel. You can also run counting games in multiple channels at the same time.
+- Use the `/minigame counting remove_channel <channel>` command to end the counting game in a channel.
+- Use the `/minigame counting set_progress <channel> <progress>` command to set the progress to a specific number. If you set the progress to `100`, for example, the next correct number would be `101`.
 
 ## Counting Modes variant
 
@@ -37,18 +35,18 @@ To enable the _Counting Modes_ minigame, the server needs the **Tanjun Pro** sub
 
 ### Setup
 
-* Use the `/minigame countingmodes set_channel <channel>` command to designate a channel on the server as the channel for the _Counting Modes_ game. You can also run counting games in multiple channels at the same time.
-* Use the `/minigame countingmodes remove_channel <channel>` command to end the _Counting Modes_ game in a channel.
-* Verwende den `/minispiel countingmodes fortschritt_setzen <kanal> <fortschritt>`-Befehl, um den Fortschritt zu ändern.
+- Use the `/minigame countingmodes set_channel <channel>` command to designate a channel on the server as the channel for the _Counting Modes_ game. You can also run counting games in multiple channels at the same time.
+- Use the `/minigame countingmodes remove_channel <channel>` command to end the _Counting Modes_ game in a channel.
+- Use the `/minigame countingmodes set_progress <channel> <progress>` command to set the progress to a specific number.
 
-## Counting Challenge-Variante
+## Counting Challenge variant
 
 ### Explanation
 
-Im Countingchallenge-Modus kann man in 1er-Schritten unendlich weit zählen, aber der Fortschritt wird bei Fehlern oder wenn eine Person zwei Nachrichten nacheinander sendet, zurückgesetzt.
+In the _Counting Challenge_ mode, you can count infinitely in increments of 1, but your progress is reset if you make a mistake or if a user sends two messages in a row.
 
 ### Setup
 
-* Use the `/minigame countingchallenge set_channel <channel>` command to designate a channel on the server as the channel for the *Counting Challenge* game. You can also run counting games in multiple channels at the same time.
-* Use the `/minigame countingchallenge remove_channel <channel>` command to end the *Counting Challenge* game in a channel.
-* Use the `/minigame countingchallenge set_progress <channel> <progress>` command to set the progress to a specific value.
+- Use the `/minigame countingchallenge set_channel <channel>` command to designate a channel on the server as the channel for the _Counting Challenge_ game. You can also run counting games in multiple channels at the same time.
+- Use the `/minigame countingchallenge remove_channel <channel>` command to end the _Counting Challenge_ game in a channel.
+- Use the `/minigame countingchallenge set_progress <channel> <progress>` command to set the progress to a specific value.
