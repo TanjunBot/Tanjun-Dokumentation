@@ -1,0 +1,17 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Tanjun Dokumentation
+  structure:
+    - type: space
+      key: space-1
+      title: Deutsch
+      path: de
+      default: true
+      content:
+        directory: ./
+    - type: space
+      key: space-2
+      title: English
+      path: en
+      content:
+        directory: ./en
