@@ -1,13 +1,14 @@
 ---
 description: This is the official documentation for Tanjun.
 icon: house
-cover: .gitbook/assets/page-cover (1).png
+cover: .gitbook/assets/page-cover.png
 coverY: 0
 layout:
   width: default
   cover:
     visible: true
     size: full
+    mask: none
   title:
     visible: true
   description:
@@ -23,6 +24,8 @@ layout:
   tags:
     visible: true
   actions:
+    visible: true
+  anchors:
     visible: true
 ---
 
