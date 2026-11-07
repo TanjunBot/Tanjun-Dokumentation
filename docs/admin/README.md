@@ -1,6 +1,26 @@
 ---
 description: Hier findest du eine Übersicht über die Admin-Commands in Tanjun.
 icon: bars-progress
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
 # Admin-Commands

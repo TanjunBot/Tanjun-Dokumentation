@@ -3,6 +3,26 @@ description: >-
   So kannst du dafür sorgen, dass Tanjun deine Nachrichten nicht verarbeitet
   oder nachverfolgt.
 icon: message-slash
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
 # Nachrichtenverfolgung deaktivieren

@@ -2,6 +2,26 @@
 description: 'Gültig ab: 26.12.2024'
 hidden: true
 icon: file-shield
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
 # Datenschutzerklärung
